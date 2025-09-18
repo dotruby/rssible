@@ -12,3 +12,4 @@ class FeedItem(scrapy.Item):
     guid = scrapy.Field()
     source_url = scrapy.Field()
     spider_name = scrapy.Field()
+    language = scrapy.Field()
