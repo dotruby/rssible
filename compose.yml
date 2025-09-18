@@ -14,25 +14,3 @@ services:
       - SCRAPY_SETTINGS_MODULE=rssible.settings
     # Override default command - you can specify which spider to run
     # command: scrapy crawl hackernews
-
-  # Service to run all spiders sequentially
-  rssible-all:
-    build: .
-    container_name: rssible-all-spiders
-    volumes:
-      - ./feeds:/app/feeds
-    environment:
-      - PYTHONPATH=/app
-      - SCRAPY_SETTINGS_MODULE=rssible.settings
-    command: /bin/bash -c "
-      echo 'Running all spiders...' &&
-      scrapy crawl hackernews &&
-      echo 'Hacker News complete' &&
-      scrapy crawl techcrunch &&
-      echo 'TechCrunch complete' &&
-      echo 'All spiders finished. Check feeds/ directory for generated XML files.'
-      "
-
-networks:
-  default:
-    driver: bridge

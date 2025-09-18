@@ -15,10 +15,8 @@ A simple Python + Scrapy project that scrapes multiple webpages and creates XML 
 
 ```
 rssible/
-├── rssible/               # Main Scrapy project
+├── rssible/              # Main Scrapy project
 │   ├── spiders/          # Individual website scrapers
-│   │   ├── hackernews.py # Example: Hacker News scraper
-│   │   └── techcrunch.py # Example: TechCrunch scraper
 │   ├── items.py          # Data structure definitions
 │   ├── pipelines.py      # RSS XML generation logic
 │   └── settings.py       # Scrapy configuration
@@ -61,6 +59,9 @@ rssible/
    # Run TechCrunch spider
    ./run-spider.sh techcrunch
 
+   # Run Gebäudeforum spider (German building industry news)
+   ./run-spider.sh gebaeudeforum
+
    # List available spiders
    ./run-spider.sh list
    ```
@@ -72,11 +73,8 @@ rssible/
 
 5. **Using Docker Compose**
    ```bash
-   # Run all spiders
-   docker-compose up --build rssible-all
-
    # Run specific spider
-   docker-compose run --rm rssible scrapy crawl hackernews
+   docker-compose run --rm rssible scrapy crawl gebaeudeforum
    ```
 
 ### Local Development (Alternative)
@@ -94,11 +92,8 @@ rssible/
 
 3. **Test a spider**
    ```bash
-   # Run the Hacker News spider
-   scrapy crawl hackernews
-
-   # Run the TechCrunch spider
-   scrapy crawl techcrunch
+   # Run the Gebäudeforum spider
+   scrapy crawl gebaeudeforum
    ```
 
 4. **Check generated feeds**

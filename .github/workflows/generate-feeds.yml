@@ -24,13 +24,9 @@ jobs:
       run: |
         mkdir -p feeds
 
-    - name: Run Hacker News spider
+    - name: Run Gebäudeforum spider
       run: |
-        docker run --rm -v "${{ github.workspace }}/feeds:/app/feeds" rssible scrapy crawl hackernews
-
-    - name: Run TechCrunch spider
-      run: |
-        docker run --rm -v "${{ github.workspace }}/feeds:/app/feeds" rssible scrapy crawl techcrunch
+        docker run --rm -v "${{ github.workspace }}/feeds:/app/feeds" rssible scrapy crawl gebaeudeforum
 
     - name: List generated feeds
       run: |
