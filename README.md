@@ -25,7 +25,7 @@ rssible/
 ├── feeds/                # Generated RSS XML files
 ├── .github/workflows/    # GitHub Actions automation
 ├── Dockerfile            # Docker container configuration
-├── docker-compose.yml    # Docker Compose setup
+├── compose.yml           # Docker Compose setup
 ├── build-docker.sh       # Build Docker image script
 ├── run-spider.sh         # Run single spider script
 ├── run-all-spiders.sh    # Run all spiders script
@@ -57,10 +57,10 @@ rssible/
    ```bash
    # Run Hacker News spider
    ./run-spider.sh hackernews
-   
+
    # Run TechCrunch spider
    ./run-spider.sh techcrunch
-   
+
    # List available spiders
    ./run-spider.sh list
    ```
@@ -74,7 +74,7 @@ rssible/
    ```bash
    # Run all spiders
    docker-compose up --build rssible-all
-   
+
    # Run specific spider
    docker-compose run --rm rssible scrapy crawl hackernews
    ```
@@ -96,7 +96,7 @@ rssible/
    ```bash
    # Run the Hacker News spider
    scrapy crawl hackernews
-   
+
    # Run the TechCrunch spider
    scrapy crawl techcrunch
    ```
@@ -124,12 +124,12 @@ class YourSiteSpider(scrapy.Spider):
     def parse(self, response):
         # Extract articles/posts from the page
         articles = response.css('article')  # Adjust CSS selector
-        
+
         for article in articles[:10]:  # Limit to 10 items
             title = article.css('h2 a::text').get()  # Adjust selector
             link = article.css('h2 a::attr(href)').get()  # Adjust selector
             description = article.css('p::text').get()  # Adjust selector
-            
+
             if title and link:
                 item = FeedItem()
                 item['title'] = title.strip()
@@ -137,7 +137,7 @@ class YourSiteSpider(scrapy.Spider):
                 item['description'] = description.strip() if description else title.strip()
                 item['pub_date'] = datetime.now().strftime('%a, %d %b %Y %H:%M:%S +0000')
                 item['source_url'] = response.url
-                
+
                 yield item
 ```
 
@@ -218,11 +218,11 @@ Generated feeds follow standard RSS 2.0 format:
 
 ### Common Issues
 
-**Spider not finding content**: 
+**Spider not finding content**:
 - Check CSS selectors using browser developer tools
 - Website might have changed its HTML structure
 
-**Empty feeds**: 
+**Empty feeds**:
 - Verify the website allows scraping (check robots.txt)
 - CSS selectors might be incorrect
 - Website might be using JavaScript (Scrapy only handles static HTML)
