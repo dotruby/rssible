@@ -4,76 +4,76 @@
     <title>RSS Feed - hackernews</title>
     <description>Automatically generated RSS feed from hackernews spider</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Sep 2025 09:39:08 </lastBuildDate>
+    <lastBuildDate>Thu, 18 Sep 2025 09:45:32 </lastBuildDate>
     <item>
       <title>Slack has raised our charges by $195k per year</title>
       <link>https://skyfall.dev/posts/slack</link>
       <description>Story from Hacker News: Slack has raised our charges by $195k per year</description>
-      <pubDate>Thu, 18 Sep 2025 09:39:08 +0000</pubDate>
+      <pubDate>Thu, 18 Sep 2025 09:45:32 +0000</pubDate>
       <guid>https://skyfall.dev/posts/slack</guid>
     </item>
     <item>
       <title>This Website Has No Class</title>
       <link>https://aaadaaam.com/notes/no-class/</link>
       <description>Story from Hacker News: This Website Has No Class</description>
-      <pubDate>Thu, 18 Sep 2025 09:39:08 +0000</pubDate>
+      <pubDate>Thu, 18 Sep 2025 09:45:32 +0000</pubDate>
       <guid>https://aaadaaam.com/notes/no-class/</guid>
     </item>
     <item>
       <title>WASM 3.0 Completed</title>
       <link>https://webassembly.org/news/2025-09-17-wasm-3.0/</link>
       <description>Story from Hacker News: WASM 3.0 Completed</description>
-      <pubDate>Thu, 18 Sep 2025 09:39:08 +0000</pubDate>
+      <pubDate>Thu, 18 Sep 2025 09:45:32 +0000</pubDate>
       <guid>https://webassembly.org/news/2025-09-17-wasm-3.0/</guid>
     </item>
     <item>
       <title>Meta Ray-Ban Display</title>
       <link>https://www.meta.com/blog/meta-ray-ban-display-ai-glasses-connect-2025/</link>
       <description>Story from Hacker News: Meta Ray-Ban Display</description>
-      <pubDate>Thu, 18 Sep 2025 09:39:08 +0000</pubDate>
+      <pubDate>Thu, 18 Sep 2025 09:45:32 +0000</pubDate>
       <guid>https://www.meta.com/blog/meta-ray-ban-display-ai-glasses-connect-2025/</guid>
     </item>
     <item>
       <title>Show HN: The text disappears when you screenshot it</title>
       <link>https://unscreenshottable.vercel.app/?text=Hello</link>
       <description>Story from Hacker News: Show HN: The text disappears when you screenshot it</description>
-      <pubDate>Thu, 18 Sep 2025 09:39:08 +0000</pubDate>
+      <pubDate>Thu, 18 Sep 2025 09:45:32 +0000</pubDate>
       <guid>https://unscreenshottable.vercel.app/?text=Hello</guid>
     </item>
     <item>
       <title>CircuitHub (YC W12) Is Hiring Operations Research Engineers (UK/Remote)</title>
       <link>https://www.ycombinator.com/companies/circuithub/jobs/UM1QSjZ-operations-research-engineer</link>
       <description>Story from Hacker News: CircuitHub (YC W12) Is Hiring Operations Research Engineers (UK/Remote)</description>
-      <pubDate>Thu, 18 Sep 2025 09:39:08 +0000</pubDate>
+      <pubDate>Thu, 18 Sep 2025 09:45:32 +0000</pubDate>
       <guid>https://www.ycombinator.com/companies/circuithub/jobs/UM1QSjZ-operations-research-engineer</guid>
     </item>
     <item>
       <title>Pnpm has a new setting to stave off supply chain attacks</title>
       <link>https://pnpm.io/blog/releases/10.16</link>
       <description>Story from Hacker News: Pnpm has a new setting to stave off supply chain attacks</description>
-      <pubDate>Thu, 18 Sep 2025 09:39:08 +0000</pubDate>
+      <pubDate>Thu, 18 Sep 2025 09:45:32 +0000</pubDate>
       <guid>https://pnpm.io/blog/releases/10.16</guid>
+    </item>
+    <item>
+      <title>Orange Pi RV2 $40 RISC-V SBC: Friendly Gateway to IoT and AI Projects</title>
+      <link>https://riscv.org/ecosystem-news/2025/09/orange-pi-rv2-40-risc-v-sbc-friendly-gateway-to-iot-and-ai-projects/</link>
+      <description>Story from Hacker News: Orange Pi RV2 $40 RISC-V SBC: Friendly Gateway to IoT and AI Projects</description>
+      <pubDate>Thu, 18 Sep 2025 09:45:32 +0000</pubDate>
+      <guid>https://riscv.org/ecosystem-news/2025/09/orange-pi-rv2-40-risc-v-sbc-friendly-gateway-to-iot-and-ai-projects/</guid>
     </item>
     <item>
       <title>History of the Gem Desktop Environment</title>
       <link>https://nemanjatrifunovic.substack.com/p/history-of-the-gem-desktop-environment</link>
       <description>Story from Hacker News: History of the Gem Desktop Environment</description>
-      <pubDate>Thu, 18 Sep 2025 09:39:08 +0000</pubDate>
+      <pubDate>Thu, 18 Sep 2025 09:45:32 +0000</pubDate>
       <guid>https://nemanjatrifunovic.substack.com/p/history-of-the-gem-desktop-environment</guid>
     </item>
     <item>
       <title>One Token to rule them all – Obtaining Global Admin in every Entra ID tenant</title>
       <link>https://dirkjanm.io/obtaining-global-admin-in-every-entra-id-tenant-with-actor-tokens/</link>
       <description>Story from Hacker News: One Token to rule them all – Obtaining Global Admin in every Entra ID tenant</description>
-      <pubDate>Thu, 18 Sep 2025 09:39:08 +0000</pubDate>
+      <pubDate>Thu, 18 Sep 2025 09:45:32 +0000</pubDate>
       <guid>https://dirkjanm.io/obtaining-global-admin-in-every-entra-id-tenant-with-actor-tokens/</guid>
-    </item>
-    <item>
-      <title>A postmortem of three recent issues</title>
-      <link>https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues</link>
-      <description>Story from Hacker News: A postmortem of three recent issues</description>
-      <pubDate>Thu, 18 Sep 2025 09:39:08 +0000</pubDate>
-      <guid>https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues</guid>
     </item>
   </channel>
 </rss>
