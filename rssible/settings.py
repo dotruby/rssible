@@ -14,7 +14,7 @@ RANDOMIZE_DOWNLOAD_DELAY = True
 
 # Configure pipelines
 ITEM_PIPELINES = {
-    'rssible.pipelines.XMLFeedPipeline': 300,
+  'rssible.pipelines.XMLFeedPipeline': 300,
 }
 
 # User agent
