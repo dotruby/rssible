@@ -72,4 +72,10 @@ class XMLFeedPipeline:
         os.makedirs('feeds', exist_ok=True)
         tree = ET.ElementTree(rss)
         ET.indent(tree, space="  ", level=0)
-        tree.write(f'feeds/{spider_name}.xml', encoding='utf-8', xml_declaration=True)
+
+        # Write XML with proper double quotes in declaration
+        xml_content = ET.tostring(rss, encoding='utf-8', xml_declaration=False).decode('utf-8')
+        xml_declaration = '<?xml version="1.0" encoding="utf-8"?>\n'
+
+        with open(f'feeds/{spider_name}.xml', 'w', encoding='utf-8') as f:
+            f.write(xml_declaration + xml_content)
