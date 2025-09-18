@@ -83,7 +83,7 @@ class GebaeudeforumSpider(scrapy.Spider):
             item = FeedItem()
             item['title'] = title
             item['link'] = response.urljoin(link)
-            item['description'] = f"Gebäudeforum: {description}"
+            item['description'] = description
             item['pub_date'] = pub_date
             item['source_url'] = response.url
             item['language'] = page_language
