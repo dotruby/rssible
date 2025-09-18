@@ -18,7 +18,7 @@ ITEM_PIPELINES = {
 }
 
 # User agent
-USER_AGENT = 'rssible (+http://www.yourdomain.com)'
+USER_AGENT = 'friendly RSSible bot (https://github.com/dotruby/rssible)'
 
 # Configure maximum concurrent requests
 CONCURRENT_REQUESTS = 16
