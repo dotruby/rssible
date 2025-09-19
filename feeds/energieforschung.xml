@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Thu, 18 Sep 2025 13:39:41 </lastBuildDate>
+    <lastBuildDate>Fri, 19 Sep 2025 04:04:34 </lastBuildDate>
+    <item>
+      <title>Zwei Jahre Diskussionsreihe: Wasserstoffforschung online</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/uml/2025/zwei_jahre_diskussionsreihe_wasserstoffforschung_online</link>
+      <description>Seit Sommer 2023 organisiert das Forschungsnetzwerk Wasserstoff die Online-Veranstaltungsreihe „Wasserstand: Aktuelles aus der H2-Forschung“.</description>
+      <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/uml/2025/zwei_jahre_diskussionsreihe_wasserstoffforschung_online</guid>
+    </item>
     <item>
       <title>Internationaler Call für Wärme- und Kälteprojekte</title>
       <link>https://www.energieforschung.de/news/de/internationaler-call-fuer-waerme-und-kaelteprojekte</link>
@@ -102,13 +109,6 @@
       <description>Um neue chemische Prozesse zu entwickeln, setzen Forschende im Projekt DiKey auf maschinelles Lernen. Das kann zudem Markteinführungszeiten verkürzen.</description>
       <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/2025/chemische-industrie-wie-digitale-stoffdaten-modelle-die-prozessentwicklung-beschleunigen-und-ressourcen-sparen</guid>
-    </item>
-    <item>
-      <title>Erneuerbare-Energie-Gemeinschaften: Fit für die Industrie</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/2025/erneuerbare-energiegemeinschaften-fit-fuer-die-industrie</link>
-      <description>Damit die Industrie besser von Energiegemeinschaften profitieren kann, entwickeln Forschende jetzt eine KI-basierte Plattform.</description>
-      <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/2025/erneuerbare-energiegemeinschaften-fit-fuer-die-industrie</guid>
     </item>
   </channel>
 </rss>
