@@ -4,20 +4,27 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Mon, 22 Sep 2025 04:04:51 </lastBuildDate>
+    <lastBuildDate>Tue, 23 Sep 2025 04:04:39 </lastBuildDate>
+    <item>
+      <title>100 Prozent regenerativ: Solarwärme liefert Großteil der Wärme für hessisches Dorf</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/2025/100-prozent-regenerativ-solarwaerme-liefert-grossteil-der-waerme-fuer-hessisches-dorf</link>
+      <description>Bracht in Rauschenberg hat ein wegweisendes Anlagensystem aus Solarthermie,  Wärmepumpen, Holzkessel und Erdbeckenspeicher in Betrieb genommen.</description>
+      <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/2025/100-prozent-regenerativ-solarwaerme-liefert-grossteil-der-waerme-fuer-hessisches-dorf</guid>
+    </item>
     <item>
       <title>Zwei Jahre Diskussionsreihe: Wasserstoffforschung online</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/uml/2025/zwei_jahre_diskussionsreihe_wasserstoffforschung_online</link>
+      <link>https://www.energieforschung.de/de/aktuelles/news/uml/2025/zwei-jahre-diskussionsreihe-wasserstoffforschung-online</link>
       <description>Seit Sommer 2023 organisiert das Forschungsnetzwerk Wasserstoff die Online-Veranstaltungsreihe „Wasserstand: Aktuelles aus der H2-Forschung“.</description>
       <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/uml/2025/zwei_jahre_diskussionsreihe_wasserstoffforschung_online</guid>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/uml/2025/zwei-jahre-diskussionsreihe-wasserstoffforschung-online</guid>
     </item>
     <item>
       <title>Internationaler Call für Wärme- und Kälteprojekte</title>
-      <link>https://www.energieforschung.de/news/de/internationaler-call-fuer-waerme-und-kaelteprojekte</link>
+      <link>https://www.energieforschung.de/de/aktuelles/news/2025/internationaler-call-fuer-waerme-und-kaelteprojekte</link>
       <description>Es werden Projekte, die Energiesysteme digitaler, wirtschaftlicher oder flexibler machen sowie deren Emissionen reduzieren, gesucht.</description>
       <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/news/de/internationaler-call-fuer-waerme-und-kaelteprojekte</guid>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/2025/internationaler-call-fuer-waerme-und-kaelteprojekte</guid>
     </item>
     <item>
       <title>Präzise, schnell, robust: Frühwarnsysteme für den Umgang mit Wasserstoff</title>
@@ -102,13 +109,6 @@
       <description>Forschende haben im Projekt PV2FLOAT eine Potenzialanalyse für schwimmende Photovoltaik durchgeführt und einen Leitfaden zu Floating PV erstellt.</description>
       <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/2024/grosses-potenzial-fuer-schwimmende-photovoltaik-in-deutschland</guid>
-    </item>
-    <item>
-      <title>Wie digitale Stoffdaten-Modelle die Prozessentwicklung beschleunigen und Ressourcen sparen</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/2025/chemische-industrie-wie-digitale-stoffdaten-modelle-die-prozessentwicklung-beschleunigen-und-ressourcen-sparen</link>
-      <description>Um neue chemische Prozesse zu entwickeln, setzen Forschende im Projekt DiKey auf maschinelles Lernen. Das kann zudem Markteinführungszeiten verkürzen.</description>
-      <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/2025/chemische-industrie-wie-digitale-stoffdaten-modelle-die-prozessentwicklung-beschleunigen-und-ressourcen-sparen</guid>
     </item>
   </channel>
 </rss>
