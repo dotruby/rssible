@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Tue, 23 Sep 2025 04:04:39 </lastBuildDate>
+    <lastBuildDate>Wed, 24 Sep 2025 04:04:39 </lastBuildDate>
+    <item>
+      <title>Hamburger Geothermieprojekt: Mehr als 6.000 Haushalte sollen von klimafreundlicher Wärme profitieren</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/2023/ueber-6000-haushalte-sollen-zukuenftig-mit-klimafreundlicher-waerme-versorgt-werden</link>
+      <description>Haushalte im Hamburger Stadtteil Wilhelmsburg sollen ab 2026 klimafreundlich mit Wärme aus einer neuen Geothermieanlage versorgt werden.</description>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/2023/ueber-6000-haushalte-sollen-zukuenftig-mit-klimafreundlicher-waerme-versorgt-werden</guid>
+    </item>
     <item>
       <title>100 Prozent regenerativ: Solarwärme liefert Großteil der Wärme für hessisches Dorf</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/2025/100-prozent-regenerativ-solarwaerme-liefert-grossteil-der-waerme-fuer-hessisches-dorf</link>
@@ -102,13 +109,6 @@
       <description>Das Vorhaben DELTA zeigt: Verknüpft man die Sektoren Gebäude, Wohnen und Mobilität miteinander, kann in Städten viel CO</description>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/2025/reallabor-delta-darmstadt-start-sharing-hub</guid>
-    </item>
-    <item>
-      <title>Neuer Leitfaden bündelt Empfehlungen: Großes Potenzial für schwimmende Photovoltaik in Deutschland</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/2024/grosses-potenzial-fuer-schwimmende-photovoltaik-in-deutschland</link>
-      <description>Forschende haben im Projekt PV2FLOAT eine Potenzialanalyse für schwimmende Photovoltaik durchgeführt und einen Leitfaden zu Floating PV erstellt.</description>
-      <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/2024/grosses-potenzial-fuer-schwimmende-photovoltaik-in-deutschland</guid>
     </item>
   </channel>
 </rss>
