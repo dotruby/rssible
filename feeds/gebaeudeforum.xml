@@ -4,7 +4,14 @@
     <title>RSS Feed - gebaeudeforum</title>
     <description>Automatically generated RSS feed from gebaeudeforum spider</description>
     <language>de</language>
-    <lastBuildDate>Fri, 26 Sep 2025 04:04:13 </lastBuildDate>
+    <lastBuildDate>Sat, 27 Sep 2025 04:04:09 </lastBuildDate>
+    <item>
+      <title>ETS 2 – Paradigmenwechsel in der Gebäude-Energiewende</title>
+      <link>https://www.gebaeudeforum.de/wissen/ressourcen-und-emissionen/co2-bepreisung-gebaeude/ets-2/</link>
+      <description>Ab 2027 soll der Europäische Emissionshandel 2 (ETS 2) kommen und mit ihm eine marktbasierte CO₂-Preisbildung durch Angebot und Nachfrage.</description>
+      <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.gebaeudeforum.de/wissen/ressourcen-und-emissionen/co2-bepreisung-gebaeude/ets-2/</guid>
+    </item>
     <item>
       <title>Mythen und Fakten zum Thema Wirtschaftlichkeit</title>
       <link>https://www.gebaeudeforum.de/realisieren/wirtschaftlichkeit/mythen-und-fakten/</link>
@@ -779,7 +786,7 @@
       <title>Matching-Tool für die Abwärmenutzung aus Rechenzentren</title>
       <link>https://www.gebaeudeforum.de/service/toolbox/abwaermenutzung-aus-rechenzentren/</link>
       <description>Das kartenbasierte Online-Tool bringt in nur wenigen Schritten Abwärmequellen mit potenziellen Abwärmeabnehmern zusammen.</description>
-      <pubDate>Fri, 26 Sep 2025 04:04:13 +0000</pubDate>
+      <pubDate>Sat, 27 Sep 2025 04:04:09 +0000</pubDate>
       <guid>https://www.gebaeudeforum.de/service/toolbox/abwaermenutzung-aus-rechenzentren/</guid>
     </item>
     <item>
