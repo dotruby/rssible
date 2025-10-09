@@ -4,7 +4,21 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Wed, 08 Oct 2025 04:04:28 </lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 04:04:33 </lastBuildDate>
+    <item>
+      <title>„Wir wollen die Windenergie nachhaltig gestalten“</title>
+      <link>https://www.energieforschung.de/de/aktuelles/interviews/2025/matchmaking-symposium-windenergie-nachhaltig-gestalten</link>
+      <description>Passgenau und zielorientiert: Prof. Dr. Kerstin Avila berichtet vom MatchMaking Symposium Wind – und erläutert, warum der Zeitpunkt richtig war.</description>
+      <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/interviews/2025/matchmaking-symposium-windenergie-nachhaltig-gestalten</guid>
+    </item>
+    <item>
+      <title>Nur-Strom-Quartier im Praxis-Check</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/uml/2025/nur-strom-quartier-im-praxischeck</link>
+      <description>Was passiert, wenn der Energiebedarf eines Quartiers CO</description>
+      <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/uml/2025/nur-strom-quartier-im-praxischeck</guid>
+    </item>
     <item>
       <title>Hamburger Geothermieprojekt: Mehr als 6.000 Haushalte sollen von klimafreundlicher Wärme profitieren</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/2023/ueber-6000-haushalte-sollen-zukuenftig-mit-klimafreundlicher-waerme-versorgt-werden</link>
@@ -95,20 +109,6 @@
       <description>Wie realistische Gestehungskosten für grünen Wasserstoff berechnet werden können, erläutert Dr. Simon Pichlmaier im Interview.</description>
       <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/interviews/2025/wasserstoff-gestehungskosten-pichlmaier</guid>
-    </item>
-    <item>
-      <title>Spart Kosten, schont die Umwelt: Wie auch kleine Anlagen Klärschlamm selbst verwerten können</title>
-      <link>https://www.energieforschung.de/de/aktuelles/projekteinblicke/2025/wie-auch-kleine-anlagen-klaerschlammverwertung-selbst-uebernehmen-koennen</link>
-      <description>Das Projekt VerKlär² hat erprobt, wie auch kleine Anlagen Kosten sparen, die Umwelt schonen und so sogar energieautark werden können.</description>
-      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/projekteinblicke/2025/wie-auch-kleine-anlagen-klaerschlammverwertung-selbst-uebernehmen-koennen</guid>
-    </item>
-    <item>
-      <title>Reallabor der Energiewende DELTA eröffnet Radverleih und Forum aus Käferholz</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/2025/reallabor-delta-darmstadt-start-sharing-hub</link>
-      <description>Das Vorhaben DELTA zeigt: Verknüpft man die Sektoren Gebäude, Wohnen und Mobilität miteinander, kann in Städten viel CO</description>
-      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/2025/reallabor-delta-darmstadt-start-sharing-hub</guid>
     </item>
   </channel>
 </rss>

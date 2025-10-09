@@ -4,7 +4,14 @@
     <title>RSS Feed - gebaeudeforum</title>
     <description>Automatically generated RSS feed from gebaeudeforum spider</description>
     <language>de</language>
-    <lastBuildDate>Wed, 08 Oct 2025 04:04:14 </lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 04:04:18 </lastBuildDate>
+    <item>
+      <title>Gebäudereport 2025 – Zweiter Updatebericht</title>
+      <link>https://www.gebaeudeforum.de/wissen/zahlen-daten/gebaeudereport-2025/</link>
+      <description>Das Update bietet neue Daten zu Gebäudebestand, Wärmeerzeugern und PV, Energieverbrauch, CO₂-Emissionen sowie zu Baukosten und Förderzahlen.</description>
+      <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.gebaeudeforum.de/wissen/zahlen-daten/gebaeudereport-2025/</guid>
+    </item>
     <item>
       <title>Sanierung einer Schule mit energieadaptiver Gebäudehülle</title>
       <link>https://www.gebaeudeforum.de/best-practice/</link>
@@ -793,7 +800,7 @@
       <title>Matching-Tool für die Abwärmenutzung aus Rechenzentren</title>
       <link>https://www.gebaeudeforum.de/service/toolbox/abwaermenutzung-aus-rechenzentren/</link>
       <description>Das kartenbasierte Online-Tool bringt in nur wenigen Schritten Abwärmequellen mit potenziellen Abwärmeabnehmern zusammen.</description>
-      <pubDate>Wed, 08 Oct 2025 04:04:14 +0000</pubDate>
+      <pubDate>Thu, 09 Oct 2025 04:04:18 +0000</pubDate>
       <guid>https://www.gebaeudeforum.de/service/toolbox/abwaermenutzung-aus-rechenzentren/</guid>
     </item>
     <item>
