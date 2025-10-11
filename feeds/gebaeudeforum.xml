@@ -4,7 +4,7 @@
     <title>RSS Feed - gebaeudeforum</title>
     <description>Automatically generated RSS feed from gebaeudeforum spider</description>
     <language>de</language>
-    <lastBuildDate>Fri, 10 Oct 2025 04:04:09 </lastBuildDate>
+    <lastBuildDate>Sat, 11 Oct 2025 04:03:56 </lastBuildDate>
     <item>
       <title>Gebäudereport 2025 – Zweiter Updatebericht</title>
       <link>https://www.gebaeudeforum.de/wissen/zahlen-daten/gebaeudereport-2025/</link>
@@ -63,10 +63,10 @@
     </item>
     <item>
       <title>Themenschwerpunkt: Wirtschaftlichkeit</title>
-      <link>https://www.gebaeudeforum.de/themenschwerpunkt/</link>
+      <link>https://www.gebaeudeforum.de/themenschwerpunkt-6/</link>
       <description>Der Schwerpunkt beleuchtet ökonomische Auswirkungen aktueller Anforderungen, führt in die Wirtschaftlichkeits­berechnung ein und stellt relevante Rahmenbedingungen dar.</description>
       <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.gebaeudeforum.de/themenschwerpunkt/</guid>
+      <guid>https://www.gebaeudeforum.de/themenschwerpunkt-6/</guid>
     </item>
     <item>
       <title>Quartier der Zukunft, Naturbau Campus und Baugruppe Energie+</title>
@@ -259,17 +259,17 @@
     </item>
     <item>
       <title>Bauwerksintegrierte Photovoltaik (BIPV)</title>
-      <link>https://www.gebaeudeforum.de/realisieren/erneuerbare-energien/photovoltaik/integrationsstufen/bauwerksintegrierte-photovoltaik-bipv/</link>
+      <link>https://www.gebaeudeforum.de/realisieren/gebaeudetechnik/photovoltaik/integrationsstufen/bauwerksintegrierte-photovoltaik-bipv/</link>
       <description>Photovoltaik kann nicht nur als Energiequelle dienen, sondern auch integrierter Bestandteil der Gebäudehülle sein.</description>
       <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.gebaeudeforum.de/realisieren/erneuerbare-energien/photovoltaik/integrationsstufen/bauwerksintegrierte-photovoltaik-bipv/</guid>
+      <guid>https://www.gebaeudeforum.de/realisieren/gebaeudetechnik/photovoltaik/integrationsstufen/bauwerksintegrierte-photovoltaik-bipv/</guid>
     </item>
     <item>
       <title>Balkonkraftwerke</title>
-      <link>https://www.gebaeudeforum.de/realisieren/erneuerbare-energien/photovoltaik/balkonkraftwerke/</link>
+      <link>https://www.gebaeudeforum.de/realisieren/gebaeudetechnik/photovoltaik/balkonkraftwerke/</link>
       <description>Mit Balkonkraftwerken können Mieter und Eigentümer unkompliziert Solarstrom zur Eigennutzung und Einspeisung erzeugen.</description>
       <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.gebaeudeforum.de/realisieren/erneuerbare-energien/photovoltaik/balkonkraftwerke/</guid>
+      <guid>https://www.gebaeudeforum.de/realisieren/gebaeudetechnik/photovoltaik/balkonkraftwerke/</guid>
     </item>
     <item>
       <title>Themenschwerpunkt: Photovoltaik</title>
@@ -441,17 +441,17 @@
     </item>
     <item>
       <title>Erweiterte Infos zu Großwärmepumpen</title>
-      <link>https://www.gebaeudeforum.de/realisieren/erneuerbare-energien/waermepumpen/grosswaermepumpen/</link>
+      <link>https://www.gebaeudeforum.de/realisieren/heizungstechnik/waermepumpen/grosswaermepumpen/</link>
       <description>Die Themenseite zu Großwärmepumpen wurde aktualisiert und um weitere Informationen u.a. zu Praxisbeispielen erweitert.</description>
       <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.gebaeudeforum.de/realisieren/erneuerbare-energien/waermepumpen/grosswaermepumpen/</guid>
+      <guid>https://www.gebaeudeforum.de/realisieren/heizungstechnik/waermepumpen/grosswaermepumpen/</guid>
     </item>
     <item>
       <title>Wärmepumpen: Abstandsregelungen in den Bundesländern</title>
-      <link>https://www.gebaeudeforum.de/realisieren/erneuerbare-energien/waermepumpen/geraeuschemission/#c21373</link>
+      <link>https://www.gebaeudeforum.de/realisieren/heizungstechnik/waermepumpen/geraeuschemission/#c21373</link>
       <description>Viele Länder haben mittlerweile die Abstandsregelungen für Wärmepumpen gelockert und damit den Einsatz auch auf kleinen Grundstücken, z.B. bei Reihenhäusern, erleichtert.</description>
       <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.gebaeudeforum.de/realisieren/erneuerbare-energien/waermepumpen/geraeuschemission/#c21373</guid>
+      <guid>https://www.gebaeudeforum.de/realisieren/heizungstechnik/waermepumpen/geraeuschemission/#c21373</guid>
     </item>
     <item>
       <title>Online-Tool digitaler Geothermieatlas</title>
@@ -665,17 +665,17 @@
     </item>
     <item>
       <title>Aktualisierte Infos zur Solarpflicht</title>
-      <link>https://www.gebaeudeforum.de/realisieren/erneuerbare-energien/photovoltaik/regelungen-und-normen/#c14745</link>
+      <link>https://www.gebaeudeforum.de/realisieren/gebaeudetechnik/photovoltaik/regelungen-und-normen/#c14745</link>
       <description>Die Fachinfos zu Vorgaben auf europäischer Ebene sowie zu aktuell gültigen Solarplichten in den Bundesländern wurden aktualisiert.</description>
       <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.gebaeudeforum.de/realisieren/erneuerbare-energien/photovoltaik/regelungen-und-normen/#c14745</guid>
+      <guid>https://www.gebaeudeforum.de/realisieren/gebaeudetechnik/photovoltaik/regelungen-und-normen/#c14745</guid>
     </item>
     <item>
-      <title>Erneuerbare Wärme im Quartier – Netzgebundene Versorgung</title>
-      <link>https://www.gebaeudeforum.de/realisieren/erneuerbare-energien/erneuerbare-waerme-im-quartier/</link>
+      <title>Netzgebundene Wärmeversorgung mit Erneuerbaren im Quartier</title>
+      <link>https://www.gebaeudeforum.de/wissen/quartiere/netzgebundene-waermeversorgung/</link>
       <description>Die GEG-Vorgabe für 65% Wärme aus Erneuerbaren lässt sich auch über einen Quartiersansatz lösen. Versorgungsvarianten bieten Orientierung.</description>
       <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.gebaeudeforum.de/realisieren/erneuerbare-energien/erneuerbare-waerme-im-quartier/</guid>
+      <guid>https://www.gebaeudeforum.de/wissen/quartiere/netzgebundene-waermeversorgung/</guid>
     </item>
     <item>
       <title>Vorträge des Webinars zu Wärmepumpen in Mehrfamilienhäusern</title>
@@ -700,17 +700,17 @@
     </item>
     <item>
       <title>Geothermie</title>
-      <link>https://www.gebaeudeforum.de/realisieren/erneuerbare-energien/geothermie/</link>
+      <link>https://www.gebaeudeforum.de/realisieren/heizungstechnik/geothermie/</link>
       <description>Mittels Geothermie kann die im Erdinneren gespeicherten Wärme für die Versorgung von Gebäuden bis hin zu Städten genutzt werden.</description>
       <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.gebaeudeforum.de/realisieren/erneuerbare-energien/geothermie/</guid>
+      <guid>https://www.gebaeudeforum.de/realisieren/heizungstechnik/geothermie/</guid>
     </item>
     <item>
       <title>Wärmepumpen: Lösungen für Mehrfamilienhäuser</title>
-      <link>https://www.gebaeudeforum.de/realisieren/erneuerbare-energien/waermepumpen/loesungen-mfh/</link>
+      <link>https://www.gebaeudeforum.de/realisieren/heizungstechnik/waermepumpen/loesungen-mfh/</link>
       <description>Ein neuer Themenbereich sowie ein neuer Leitfaden informieren über die vielfältigen Einsatzmöglichkeiten der Wärmepumpen-Technologie bei Mehrfamilienhäusern im Bestand.</description>
       <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.gebaeudeforum.de/realisieren/erneuerbare-energien/waermepumpen/loesungen-mfh/</guid>
+      <guid>https://www.gebaeudeforum.de/realisieren/heizungstechnik/waermepumpen/loesungen-mfh/</guid>
     </item>
     <item>
       <title>11.04.2024: Webinar zu Wärmepumpen in Mehrfamilienhäusern</title>
@@ -718,13 +718,6 @@
       <description>In dem Webinar wird der Frage nachgegangen, wie Mehrfamilienhäuser im Bestand zuverlässig über Wärmepumpen mit Wärme versorgt werden können.</description>
       <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://www.gebaeudeforum.de/partnernetzwerk/aktivitaeten/veranstaltung-waermepumpen-in-mfh/</guid>
-    </item>
-    <item>
-      <title>Erneuerbaren Energien</title>
-      <link>https://www.gebaeudeforum.de/realisieren/erneuerbare-energien/</link>
-      <description>Die Fachinfos zum Thema erneuerbare Energien, u. a. zu Wärmepumpen und Photovoltaik, wurden nun in einem neuen Bereich gebündelt.</description>
-      <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.gebaeudeforum.de/realisieren/erneuerbare-energien/</guid>
     </item>
     <item>
       <title>Newsletter mit Fachinformationen, Best-Practices und aktuellen Terminen</title>
@@ -770,10 +763,10 @@
     </item>
     <item>
       <title>Wärmepumpen im Stromnetz</title>
-      <link>https://www.gebaeudeforum.de/realisieren/erneuerbare-energien/waermepumpen/stromnetz/</link>
+      <link>https://www.gebaeudeforum.de/realisieren/heizungstechnik/waermepumpen/stromnetz/</link>
       <description>Eine neue Themenseite widmet sich der effizienten Integration von Wärmepumpen in das Stromsystem durch flexiblen Betrieb.</description>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.gebaeudeforum.de/realisieren/erneuerbare-energien/waermepumpen/stromnetz/</guid>
+      <guid>https://www.gebaeudeforum.de/realisieren/heizungstechnik/waermepumpen/stromnetz/</guid>
     </item>
     <item>
       <title>Übersicht zu den Anpassungen der BEG EM ab 2024</title>
@@ -784,10 +777,10 @@
     </item>
     <item>
       <title>Factsheets zur Wärmeerzeugung mit erneuerbaren Energien um Infos zur Förderung ergänzt</title>
-      <link>https://www.gebaeudeforum.de/realisieren/erneuerbare-energien/erneuerbare-waerme-in-gebaeuden/</link>
+      <link>https://www.gebaeudeforum.de/realisieren/heizungstechnik/erneuerbare-waerme-in-gebaeuden/</link>
       <description>Die Factsheets zu Heizungssystemen, die 65 Prozent erneuerbare Energien im Bestand ermöglichen, wurden um Informationen zur Förderung ergänzt und neu veröffentlicht.</description>
       <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.gebaeudeforum.de/realisieren/erneuerbare-energien/erneuerbare-waerme-in-gebaeuden/</guid>
+      <guid>https://www.gebaeudeforum.de/realisieren/heizungstechnik/erneuerbare-waerme-in-gebaeuden/</guid>
     </item>
     <item>
       <title>Antrags- und Bewilligungspause für KTF-Förderprogramme aufgehoben</title>
@@ -800,7 +793,7 @@
       <title>Matching-Tool für die Abwärmenutzung aus Rechenzentren</title>
       <link>https://www.gebaeudeforum.de/service/toolbox/abwaermenutzung-aus-rechenzentren/</link>
       <description>Das kartenbasierte Online-Tool bringt in nur wenigen Schritten Abwärmequellen mit potenziellen Abwärmeabnehmern zusammen.</description>
-      <pubDate>Fri, 10 Oct 2025 04:04:09 +0000</pubDate>
+      <pubDate>Sat, 11 Oct 2025 04:03:56 +0000</pubDate>
       <guid>https://www.gebaeudeforum.de/service/toolbox/abwaermenutzung-aus-rechenzentren/</guid>
     </item>
     <item>
@@ -833,10 +826,10 @@
     </item>
     <item>
       <title>Wärmeerzeugung mit erneuerbaren Energien</title>
-      <link>https://www.gebaeudeforum.de/realisieren/erneuerbare-energien/erneuerbare-waerme-in-gebaeuden/</link>
+      <link>https://www.gebaeudeforum.de/realisieren/heizungstechnik/erneuerbare-waerme-in-gebaeuden/</link>
       <description>Factsheets zu verschiedenen Heizungssystemen bieten eine wichtige Orientierung zu unterschiedlichen Erfüllungsoptionen für 65 Prozent erneuerbare Energien im Bestand.</description>
       <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.gebaeudeforum.de/realisieren/erneuerbare-energien/erneuerbare-waerme-in-gebaeuden/</guid>
+      <guid>https://www.gebaeudeforum.de/realisieren/heizungstechnik/erneuerbare-waerme-in-gebaeuden/</guid>
     </item>
     <item>
       <title>Newsletter mit Fachinformationen, Best-Practices und aktuellen Terminen</title>
@@ -1036,10 +1029,10 @@
     </item>
     <item>
       <title>Neue Themen und Inhalte zu Photovoltaik am Gebäude</title>
-      <link>https://www.gebaeudeforum.de/realisieren/erneuerbare-energien/photovoltaik/</link>
+      <link>https://www.gebaeudeforum.de/realisieren/gebaeudetechnik/photovoltaik/</link>
       <description>Das Angebot an Fachinhalten zu PV wurde umfassend erweitert und restrukturiert. Neu sind u.a. Infos zur Dachbegrünung, zu Regeln und Normen sowie zur Stromeigennutzung.</description>
       <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.gebaeudeforum.de/realisieren/erneuerbare-energien/photovoltaik/</guid>
+      <guid>https://www.gebaeudeforum.de/realisieren/gebaeudetechnik/photovoltaik/</guid>
     </item>
     <item>
       <title>Marktübersicht Batteriespeicher</title>
@@ -1113,10 +1106,10 @@
     </item>
     <item>
       <title>Neue Infos zu Großwärmepumpen</title>
-      <link>https://www.gebaeudeforum.de/realisieren/erneuerbare-energien/waermepumpen/grosswaermepumpen/</link>
+      <link>https://www.gebaeudeforum.de/realisieren/heizungstechnik/waermepumpen/grosswaermepumpen/</link>
       <description>Großwärmepumpen erschließen eine Reihe neuer Wärmequellen, die bislang nicht oder nur zum Teil in Wärmenetze eingespeist werden konnten.</description>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.gebaeudeforum.de/realisieren/erneuerbare-energien/waermepumpen/grosswaermepumpen/</guid>
+      <guid>https://www.gebaeudeforum.de/realisieren/heizungstechnik/waermepumpen/grosswaermepumpen/</guid>
     </item>
     <item>
       <title>Newsletter mit Fachinformationen, Best-Practices und aktuellen Terminen</title>
@@ -1159,13 +1152,6 @@
       <description>Heute ist eine neue Ausgabe des Gebäudeforum-Newsletters erschienen. Jetzt alle bisherigen Ausgaben im Archiv nachlesen und direkt neu anmelden.</description>
       <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
       <guid>https://www.gebaeudeforum.de/service/newsletter/</guid>
-    </item>
-    <item>
-      <title>Innovationen zur Gewinnung und Nutzung erneuerbarer Energien</title>
-      <link>https://www.gebaeudeforum.de/realisieren/erneuerbare-energien/innovationen/</link>
-      <description>Auf der Themenseite wurden neue und bestehende Inhalte zu innovativen Ansätzen in der Gebäudetechnik gebündelt.</description>
-      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.gebaeudeforum.de/realisieren/erneuerbare-energien/innovationen/</guid>
     </item>
     <item>
       <title>GEG-Novelle 2024</title>
@@ -1336,11 +1322,11 @@
       <guid>https://www.gebaeudeforum.de/wissen/nachhaltiges-bauen-und-sanieren/zirkulaeres-bauen/geschaeftsmodelle/</guid>
     </item>
     <item>
-      <title>Multifunktionale Fassadenelemente</title>
-      <link>https://www.gebaeudeforum.de/realisieren/erneuerbare-energien/innovationen/multifunktionale-fassadenelemente/</link>
+      <title>Modulfassade mit integrierter Technik</title>
+      <link>https://www.gebaeudeforum.de/best-practice/modulfassade-integrierte-anlagentechnik/</link>
       <description>Durch Fassadenmodule mit integrierter Gebäudetechnik lässt sich erneuerbare Energie in der Gebäudehülle gewinnen und vor Ort nutzen.</description>
       <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.gebaeudeforum.de/realisieren/erneuerbare-energien/innovationen/multifunktionale-fassadenelemente/</guid>
+      <guid>https://www.gebaeudeforum.de/best-practice/modulfassade-integrierte-anlagentechnik/</guid>
     </item>
     <item>
       <title>PDF-Dokumentation der 2. Netzwerktagung</title>
@@ -1428,10 +1414,10 @@
     </item>
     <item>
       <title>Thermische Bauteilaktivierung</title>
-      <link>https://www.gebaeudeforum.de/realisieren/erneuerbare-energien/innovationen/thermische-bauteilaktivierung/</link>
+      <link>https://www.gebaeudeforum.de/realisieren/bauphysik/thermische-bauteilaktivierung/</link>
       <description>Eine neue Seite informiert über die thermische Bauteilaktivierung und wie vorhandene Bauteile aus Beton als Wärmeüberträger genutzt werden können.</description>
       <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.gebaeudeforum.de/realisieren/erneuerbare-energien/innovationen/thermische-bauteilaktivierung/</guid>
+      <guid>https://www.gebaeudeforum.de/realisieren/bauphysik/thermische-bauteilaktivierung/</guid>
     </item>
     <item>
       <title>dena-Gebäudereport 2023</title>
@@ -1596,10 +1582,10 @@
     </item>
     <item>
       <title>Photovoltaik am Gebäude</title>
-      <link>https://www.gebaeudeforum.de/realisieren/erneuerbare-energien/photovoltaik/</link>
+      <link>https://www.gebaeudeforum.de/realisieren/gebaeudetechnik/photovoltaik/</link>
       <description>Die Themenseite zu Photovoltaik wurde aktualisiert und um neue Informationen sowie Grafiken ergänzt.</description>
       <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.gebaeudeforum.de/realisieren/erneuerbare-energien/photovoltaik/</guid>
+      <guid>https://www.gebaeudeforum.de/realisieren/gebaeudetechnik/photovoltaik/</guid>
     </item>
     <item>
       <title>Aerosole für dichte Lüftungsleitungen</title>
@@ -1617,10 +1603,10 @@
     </item>
     <item>
       <title>Wärmepumpen</title>
-      <link>https://www.gebaeudeforum.de/realisieren/erneuerbare-energien/waermepumpen/</link>
+      <link>https://www.gebaeudeforum.de/realisieren/heizungstechnik/waermepumpen/</link>
       <description>Eine Wärmepumpe entzieht der Umwelt Wärme, hebt dann das Temperaturniveau und liefert ein Vielfaches der eingesetzten Energie als Nutzwärme. Wird eine Wärmepumpe auf Basis erneuerbarer Energien betrieben, erfolgt die Wärmeerzeugung CO2-neutral.</description>
       <pubDate>Thu, 21 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.gebaeudeforum.de/realisieren/erneuerbare-energien/waermepumpen/</guid>
+      <guid>https://www.gebaeudeforum.de/realisieren/heizungstechnik/waermepumpen/</guid>
     </item>
     <item>
       <title>Newsletter mit Fachinformationen, Impulsen und aktuellen Terminen</title>
@@ -1778,10 +1764,10 @@
     </item>
     <item>
       <title>Integrationsstufen von Photovoltaik</title>
-      <link>https://www.gebaeudeforum.de/realisieren/erneuerbare-energien/photovoltaik/</link>
+      <link>https://www.gebaeudeforum.de/realisieren/gebaeudetechnik/photovoltaik/</link>
       <description>Photovoltaik wird vor allem in oder an der Außenhülle installiert. Die gestalterischen Möglichkeiten sind vielfältig und reichen von Aufdach-Anlagen, über dachintegrierte Lösungen, komplette Photovoltaik-Dächer bis hin zu aufwändigen Fassadenanlagen.</description>
       <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.gebaeudeforum.de/realisieren/erneuerbare-energien/photovoltaik/</guid>
+      <guid>https://www.gebaeudeforum.de/realisieren/gebaeudetechnik/photovoltaik/</guid>
     </item>
     <item>
       <title>Bilder aus den iSFP-Ausgabedokumenten zur Veranschaulichung</title>

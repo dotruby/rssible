@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Fri, 10 Oct 2025 04:04:24 </lastBuildDate>
+    <lastBuildDate>Sat, 11 Oct 2025 04:04:10 </lastBuildDate>
+    <item>
+      <title>Energieforschung im Zeichen von Industrie- und Standortpolitik</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/2025/energieforschung-im-zeichen-von-industrie-und-standortpolitik-jahrestagung-forschungsverbund-erneuerbare-energien</link>
+      <description>Jahrestagung des Forschungsverbunds Erneuerbare Energien: Welche Impulse kann die Energieforschung dem Wirtschaftsstandort Deutschland geben?</description>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/2025/energieforschung-im-zeichen-von-industrie-und-standortpolitik-jahrestagung-forschungsverbund-erneuerbare-energien</guid>
+    </item>
     <item>
       <title>„Wir wollen die Windenergie nachhaltig gestalten“</title>
       <link>https://www.energieforschung.de/de/aktuelles/interviews/2025/matchmaking-symposium-windenergie-nachhaltig-gestalten</link>
@@ -102,13 +109,6 @@
       <description>Gesucht werden Projektideen für die Organisation und Durchführung von Innovationswettbewerben im Quartiersbereich. Frist ist der 12. September 2025.</description>
       <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/2025/bmwe-foerderaufruf-mikroprojekt-fuer-innovationswettbewerbe-energie-im-quartier</guid>
-    </item>
-    <item>
-      <title>Zwischen Prognose und Praxis: Wie sich Wasserstoffpreise zusammensetzen</title>
-      <link>https://www.energieforschung.de/de/aktuelles/interviews/2025/wasserstoff-gestehungskosten-pichlmaier</link>
-      <description>Wie realistische Gestehungskosten für grünen Wasserstoff berechnet werden können, erläutert Dr. Simon Pichlmaier im Interview.</description>
-      <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/interviews/2025/wasserstoff-gestehungskosten-pichlmaier</guid>
     </item>
   </channel>
 </rss>
