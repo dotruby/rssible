@@ -4,7 +4,7 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Tue, 14 Oct 2025 04:04:17 </lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 04:04:26 </lastBuildDate>
     <item>
       <title>Energieforschung im Zeichen von Industrie- und Standortpolitik</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/2025/energieforschung-im-zeichen-von-industrie-und-standortpolitik-jahrestagung-forschungsverbund-erneuerbare-energien</link>
@@ -25,6 +25,13 @@
       <description>Was passiert, wenn der Energiebedarf eines Quartiers CO</description>
       <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/uml/2025/nur-strom-quartier-im-praxischeck</guid>
+    </item>
+    <item>
+      <title>Natrium-Ionen-Batterien: Umweltschonende und sicherere Speicher-Alternative</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/uml/2025/natrium-ionen-batterien-umweltschonende-sicherere-speicher-alternative</link>
+      <description>Der Stromnetz-Dialog zeigte das Potenzial von Natrium-Ionen- verglichen mit Lithium-Ionen- und Blei-Säure-Batterien.</description>
+      <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/uml/2025/natrium-ionen-batterien-umweltschonende-sicherere-speicher-alternative</guid>
     </item>
     <item>
       <title>Hamburger Geothermieprojekt: Mehr als 6.000 Haushalte sollen von klimafreundlicher Wärme profitieren</title>
@@ -102,13 +109,6 @@
       <description>Die Energie-Dialoge der Forschungsnetzwerke Energie sind digitale Webinarreihen zu aktuellen Themen der Energieforschung.</description>
       <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/2025/energie-dialoge-gemeinsam-in-den-herbst-mit-frischen-ideen</guid>
-    </item>
-    <item>
-      <title>BMWE-Förderaufruf: Mikroprojekt für Innovationswettbewerbe Energie im Quartier</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/2025/bmwe-foerderaufruf-mikroprojekt-fuer-innovationswettbewerbe-energie-im-quartier</link>
-      <description>Gesucht werden Projektideen für die Organisation und Durchführung von Innovationswettbewerben im Quartiersbereich. Frist ist der 12. September 2025.</description>
-      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/2025/bmwe-foerderaufruf-mikroprojekt-fuer-innovationswettbewerbe-energie-im-quartier</guid>
     </item>
   </channel>
 </rss>
