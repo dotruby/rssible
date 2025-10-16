@@ -4,7 +4,14 @@
     <title>RSS Feed - gebaeudeforum</title>
     <description>Automatically generated RSS feed from gebaeudeforum spider</description>
     <language>de</language>
-    <lastBuildDate>Wed, 15 Oct 2025 04:04:12 </lastBuildDate>
+    <lastBuildDate>Thu, 16 Oct 2025 04:04:09 </lastBuildDate>
+    <item>
+      <title>Wärmedurchgangskoeffizient (U-Wert)</title>
+      <link>https://www.gebaeudeforum.de/realisieren/bauphysik/waermedurchgangskoeffizient-u-wert/</link>
+      <description>Der U-Wert beschreibt den Wärmestrom durch Bauteile und ist eine zentrale Kenngröße im baulichen Wärmeschutz.</description>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.gebaeudeforum.de/realisieren/bauphysik/waermedurchgangskoeffizient-u-wert/</guid>
+    </item>
     <item>
       <title>Newsletter mit Fachinformationen, Best Practices und aktuellen Terminen</title>
       <link>https://www.gebaeudeforum.de/service/newsletter/</link>
@@ -16,7 +23,7 @@
       <title>Themenschwerpunkt: Gebäudehülle</title>
       <link>https://www.gebaeudeforum.de/themenschwerpunkt/</link>
       <description>Der Themenschwerpunkt beleuchtet den Aufbau sowie die Funktion der Gebäudehülle und zeigt Wege zu energieeffizienter, zukunftsfähiger Bauqualität.</description>
-      <pubDate>Wed, 15 Oct 2025 04:04:12 +0000</pubDate>
+      <pubDate>Thu, 16 Oct 2025 04:04:08 +0000</pubDate>
       <guid>https://www.gebaeudeforum.de/themenschwerpunkt/</guid>
     </item>
     <item>
@@ -807,7 +814,7 @@
       <title>Matching-Tool für die Abwärmenutzung aus Rechenzentren</title>
       <link>https://www.gebaeudeforum.de/service/toolbox/abwaermenutzung-aus-rechenzentren/</link>
       <description>Das kartenbasierte Online-Tool bringt in nur wenigen Schritten Abwärmequellen mit potenziellen Abwärmeabnehmern zusammen.</description>
-      <pubDate>Wed, 15 Oct 2025 04:04:12 +0000</pubDate>
+      <pubDate>Thu, 16 Oct 2025 04:04:09 +0000</pubDate>
       <guid>https://www.gebaeudeforum.de/service/toolbox/abwaermenutzung-aus-rechenzentren/</guid>
     </item>
     <item>
