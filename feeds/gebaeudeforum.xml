@@ -4,7 +4,14 @@
     <title>RSS Feed - gebaeudeforum</title>
     <description>Automatically generated RSS feed from gebaeudeforum spider</description>
     <language>de</language>
-    <lastBuildDate>Thu, 16 Oct 2025 04:04:09 </lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 04:04:23 </lastBuildDate>
+    <item>
+      <title>Wärmedämmputze</title>
+      <link>https://www.gebaeudeforum.de/realisieren/gebaeudehuelle/daemmung/waermedaemmputze/</link>
+      <description>Wärmedämmputze sind eine Alternative zu WDVS. Sie verbinden Wärmeschutz und Gestaltung, haben aber technische und wirtschaftliche Grenzen.</description>
+      <pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.gebaeudeforum.de/realisieren/gebaeudehuelle/daemmung/waermedaemmputze/</guid>
+    </item>
     <item>
       <title>Wärmedurchgangskoeffizient (U-Wert)</title>
       <link>https://www.gebaeudeforum.de/realisieren/bauphysik/waermedurchgangskoeffizient-u-wert/</link>
@@ -23,7 +30,7 @@
       <title>Themenschwerpunkt: Gebäudehülle</title>
       <link>https://www.gebaeudeforum.de/themenschwerpunkt/</link>
       <description>Der Themenschwerpunkt beleuchtet den Aufbau sowie die Funktion der Gebäudehülle und zeigt Wege zu energieeffizienter, zukunftsfähiger Bauqualität.</description>
-      <pubDate>Thu, 16 Oct 2025 04:04:08 +0000</pubDate>
+      <pubDate>Fri, 17 Oct 2025 04:04:23 +0000</pubDate>
       <guid>https://www.gebaeudeforum.de/themenschwerpunkt/</guid>
     </item>
     <item>
@@ -814,7 +821,7 @@
       <title>Matching-Tool für die Abwärmenutzung aus Rechenzentren</title>
       <link>https://www.gebaeudeforum.de/service/toolbox/abwaermenutzung-aus-rechenzentren/</link>
       <description>Das kartenbasierte Online-Tool bringt in nur wenigen Schritten Abwärmequellen mit potenziellen Abwärmeabnehmern zusammen.</description>
-      <pubDate>Thu, 16 Oct 2025 04:04:09 +0000</pubDate>
+      <pubDate>Fri, 17 Oct 2025 04:04:23 +0000</pubDate>
       <guid>https://www.gebaeudeforum.de/service/toolbox/abwaermenutzung-aus-rechenzentren/</guid>
     </item>
     <item>
