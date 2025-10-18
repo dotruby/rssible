@@ -4,7 +4,14 @@
     <title>RSS Feed - gebaeudeforum</title>
     <description>Automatically generated RSS feed from gebaeudeforum spider</description>
     <language>de</language>
-    <lastBuildDate>Fri, 17 Oct 2025 04:04:23 </lastBuildDate>
+    <lastBuildDate>Sat, 18 Oct 2025 04:04:06 </lastBuildDate>
+    <item>
+      <title>Einblasdämmung</title>
+      <link>https://www.gebaeudeforum.de/realisieren/gebaeudehuelle/daemmung/einblasdaemmung/</link>
+      <description>Die Einblasdämmung gilt als effizient, kostengünstig und ökologisch, da die Dämmstoffe rückbaubar sind.</description>
+      <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.gebaeudeforum.de/realisieren/gebaeudehuelle/daemmung/einblasdaemmung/</guid>
+    </item>
     <item>
       <title>Wärmedämmputze</title>
       <link>https://www.gebaeudeforum.de/realisieren/gebaeudehuelle/daemmung/waermedaemmputze/</link>
@@ -30,7 +37,7 @@
       <title>Themenschwerpunkt: Gebäudehülle</title>
       <link>https://www.gebaeudeforum.de/themenschwerpunkt/</link>
       <description>Der Themenschwerpunkt beleuchtet den Aufbau sowie die Funktion der Gebäudehülle und zeigt Wege zu energieeffizienter, zukunftsfähiger Bauqualität.</description>
-      <pubDate>Fri, 17 Oct 2025 04:04:23 +0000</pubDate>
+      <pubDate>Sat, 18 Oct 2025 04:04:05 +0000</pubDate>
       <guid>https://www.gebaeudeforum.de/themenschwerpunkt/</guid>
     </item>
     <item>
@@ -821,7 +828,7 @@
       <title>Matching-Tool für die Abwärmenutzung aus Rechenzentren</title>
       <link>https://www.gebaeudeforum.de/service/toolbox/abwaermenutzung-aus-rechenzentren/</link>
       <description>Das kartenbasierte Online-Tool bringt in nur wenigen Schritten Abwärmequellen mit potenziellen Abwärmeabnehmern zusammen.</description>
-      <pubDate>Fri, 17 Oct 2025 04:04:23 +0000</pubDate>
+      <pubDate>Sat, 18 Oct 2025 04:04:05 +0000</pubDate>
       <guid>https://www.gebaeudeforum.de/service/toolbox/abwaermenutzung-aus-rechenzentren/</guid>
     </item>
     <item>
