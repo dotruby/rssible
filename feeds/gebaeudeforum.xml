@@ -4,7 +4,14 @@
     <title>RSS Feed - gebaeudeforum</title>
     <description>Automatically generated RSS feed from gebaeudeforum spider</description>
     <language>de</language>
-    <lastBuildDate>Mon, 20 Oct 2025 04:07:31 </lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 04:04:30 </lastBuildDate>
+    <item>
+      <title>Sanierung im denkmalgeschützten Bestand</title>
+      <link>https://www.gebaeudeforum.de/realisieren/gebaeudehuelle/denkmalschutz/</link>
+      <description>Bei der Sanierung von Denkmälern kann bei Vorliegen einer denkmalrechtlichen Genehmigung ggf. von den GEG-Anforderungen abgewichen werden.</description>
+      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.gebaeudeforum.de/realisieren/gebaeudehuelle/denkmalschutz/</guid>
+    </item>
     <item>
       <title>Einblasdämmung</title>
       <link>https://www.gebaeudeforum.de/realisieren/gebaeudehuelle/daemmung/einblasdaemmung/</link>
@@ -37,7 +44,7 @@
       <title>Themenschwerpunkt: Gebäudehülle</title>
       <link>https://www.gebaeudeforum.de/themenschwerpunkt/</link>
       <description>Der Themenschwerpunkt beleuchtet den Aufbau sowie die Funktion der Gebäudehülle und zeigt Wege zu energieeffizienter, zukunftsfähiger Bauqualität.</description>
-      <pubDate>Mon, 20 Oct 2025 04:07:31 +0000</pubDate>
+      <pubDate>Tue, 21 Oct 2025 04:04:30 +0000</pubDate>
       <guid>https://www.gebaeudeforum.de/themenschwerpunkt/</guid>
     </item>
     <item>
@@ -828,7 +835,7 @@
       <title>Matching-Tool für die Abwärmenutzung aus Rechenzentren</title>
       <link>https://www.gebaeudeforum.de/service/toolbox/abwaermenutzung-aus-rechenzentren/</link>
       <description>Das kartenbasierte Online-Tool bringt in nur wenigen Schritten Abwärmequellen mit potenziellen Abwärmeabnehmern zusammen.</description>
-      <pubDate>Mon, 20 Oct 2025 04:07:31 +0000</pubDate>
+      <pubDate>Tue, 21 Oct 2025 04:04:30 +0000</pubDate>
       <guid>https://www.gebaeudeforum.de/service/toolbox/abwaermenutzung-aus-rechenzentren/</guid>
     </item>
     <item>

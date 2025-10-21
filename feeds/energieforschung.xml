@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Mon, 20 Oct 2025 04:07:43 </lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 04:04:43 </lastBuildDate>
+    <item>
+      <title>Weltweit installierte Photovoltaikleistung 2024 überschreitet 2.260 Gigawatt</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/2025/weltweit-installierte-photovoltaikleistung-2024-ueberschreitet-2260-gigawatt-iea-pvps-trends-report</link>
+      <description>Das Photovoltaik-Programm Photovoltaic Power Systems der Internationalen Energieagentur beleuchtet in seinem Trends-Report die PV-Entwicklungen 2024.</description>
+      <pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/2025/weltweit-installierte-photovoltaikleistung-2024-ueberschreitet-2260-gigawatt-iea-pvps-trends-report</guid>
+    </item>
     <item>
       <title>Energieforschung im Zeichen von Industrie- und Standortpolitik</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/2025/energieforschung-im-zeichen-von-industrie-und-standortpolitik-jahrestagung-forschungsverbund-erneuerbare-energien</link>
@@ -102,13 +109,6 @@
       <description>Ab sofort können insbesondere von Energieversorgern, Energiedienstleistern und Herstellern Ideen für Mikorprojekte eingereicht werden.</description>
       <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/2025/foerderaufruf-ideenwettbewerb-kosteneffiziente-erschliessung-entfernter-klimaneutraler-waermequellen</guid>
-    </item>
-    <item>
-      <title>Energie-Dialoge: Mit frischen Ideen in den Herbst</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/2025/energie-dialoge-gemeinsam-in-den-herbst-mit-frischen-ideen</link>
-      <description>Die Energie-Dialoge der Forschungsnetzwerke Energie sind digitale Webinarreihen zu aktuellen Themen der Energieforschung.</description>
-      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/2025/energie-dialoge-gemeinsam-in-den-herbst-mit-frischen-ideen</guid>
     </item>
   </channel>
 </rss>
