@@ -4,7 +4,21 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Tue, 21 Oct 2025 04:04:43 </lastBuildDate>
+    <lastBuildDate>Wed, 22 Oct 2025 04:04:43 </lastBuildDate>
+    <item>
+      <title>„100 Prozent nachhaltig erzeugte Wärme für 400 Wohneinheiten funktioniert“</title>
+      <link>https://www.energieforschung.de/de/aktuelles/interviews/2025/kalte-nahwaermenetze-faust</link>
+      <description>In Bad Nauheim versorgt ein innovatives kaltes Nahwärmenetz 400 Wohneinheiten. Wie, erklärt Projektleiter Hendrik Faust.</description>
+      <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/interviews/2025/kalte-nahwaermenetze-faust</guid>
+    </item>
+    <item>
+      <title>Neues Gesetz soll Geothermie-Ausbau deutlich beschleunigen</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/2025/neues-gesetz-soll-geothermie-ausbau-deutlich-beschleunigen</link>
+      <description>Geothermie-Beschleunigungsgesetz: Das Tempo beim Ausbau von Geothermieanlagen sowie Wärmepumpen, -speichern und -leitungen soll gesteigert werden.</description>
+      <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/2025/neues-gesetz-soll-geothermie-ausbau-deutlich-beschleunigen</guid>
+    </item>
     <item>
       <title>Weltweit installierte Photovoltaikleistung 2024 überschreitet 2.260 Gigawatt</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/2025/weltweit-installierte-photovoltaikleistung-2024-ueberschreitet-2260-gigawatt-iea-pvps-trends-report</link>
@@ -95,20 +109,6 @@
       <description>Vier Forschungsprojekte zeigen, wie Turbomaschinen an den neuen Brennstoff angepasst werden können.</description>
       <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/projekteinblicke/2025/wasserstoffturbinen-so-entwickeln-forschende-die-turbinentechnologie-weiter</guid>
-    </item>
-    <item>
-      <title>Wie Bewohnerinnen und Bewohner den Energieverbrauch beeinflussen</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/2025/wie-bewohnerinnen-und-bewohner-den-energieverbrauch-beeinflussen</link>
-      <description>Eine Publikation der Begleitforschung EnergiewendeBauen zeigt, welche Rolle das Nutzendenverhalten beim Energieverbrauch von Gebäuden spielt.</description>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/2025/wie-bewohnerinnen-und-bewohner-den-energieverbrauch-beeinflussen</guid>
-    </item>
-    <item>
-      <title>Neuer Förderaufruf: Ideenwettbewerb zur Erschließung von entfernten Wärmequellen</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/2025/foerderaufruf-ideenwettbewerb-kosteneffiziente-erschliessung-entfernter-klimaneutraler-waermequellen</link>
-      <description>Ab sofort können insbesondere von Energieversorgern, Energiedienstleistern und Herstellern Ideen für Mikorprojekte eingereicht werden.</description>
-      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/2025/foerderaufruf-ideenwettbewerb-kosteneffiziente-erschliessung-entfernter-klimaneutraler-waermequellen</guid>
     </item>
   </channel>
 </rss>
