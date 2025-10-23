@@ -4,7 +4,14 @@
     <title>RSS Feed - gebaeudeforum</title>
     <description>Automatically generated RSS feed from gebaeudeforum spider</description>
     <language>de</language>
-    <lastBuildDate>Wed, 22 Oct 2025 04:04:31 </lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 04:04:18 </lastBuildDate>
+    <item>
+      <title>Leichtbauweisen im Fassadenbau</title>
+      <link>https://www.gebaeudeforum.de/realisieren/gebaeudehuelle/fassade/leichtbauweisen/</link>
+      <description>Moderne Vorhangfassaden entwickeln sich zunehmend zu multifunktionalen Bauteilen, die weit über den klassischen Witterungsschutz hinausgehen.</description>
+      <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.gebaeudeforum.de/realisieren/gebaeudehuelle/fassade/leichtbauweisen/</guid>
+    </item>
     <item>
       <title>Dachaufbau und Dämmung</title>
       <link>https://www.gebaeudeforum.de/realisieren/gebaeudehuelle/dachaufbau-und-daemmung/</link>
@@ -51,7 +58,7 @@
       <title>Themenschwerpunkt: Gebäudehülle</title>
       <link>https://www.gebaeudeforum.de/themenschwerpunkt/</link>
       <description>Der Themenschwerpunkt beleuchtet den Aufbau sowie die Funktion der Gebäudehülle und zeigt Wege zu energieeffizienter, zukunftsfähiger Bauqualität.</description>
-      <pubDate>Wed, 22 Oct 2025 04:04:31 +0000</pubDate>
+      <pubDate>Thu, 23 Oct 2025 04:04:18 +0000</pubDate>
       <guid>https://www.gebaeudeforum.de/themenschwerpunkt/</guid>
     </item>
     <item>
@@ -842,7 +849,7 @@
       <title>Matching-Tool für die Abwärmenutzung aus Rechenzentren</title>
       <link>https://www.gebaeudeforum.de/service/toolbox/abwaermenutzung-aus-rechenzentren/</link>
       <description>Das kartenbasierte Online-Tool bringt in nur wenigen Schritten Abwärmequellen mit potenziellen Abwärmeabnehmern zusammen.</description>
-      <pubDate>Wed, 22 Oct 2025 04:04:31 +0000</pubDate>
+      <pubDate>Thu, 23 Oct 2025 04:04:18 +0000</pubDate>
       <guid>https://www.gebaeudeforum.de/service/toolbox/abwaermenutzung-aus-rechenzentren/</guid>
     </item>
     <item>

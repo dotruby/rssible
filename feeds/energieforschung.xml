@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Wed, 22 Oct 2025 04:04:43 </lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 04:04:31 </lastBuildDate>
+    <item>
+      <title>Geothermie für die Zukunft: Forschung zur klimaneutralen Wärmeversorgung in Wörth am Rhein</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/2025/geothermie-forschung-zur-klimaneutralen-waermeversorgung-in-woerth-am-rhein-dekapalatin-bertha</link>
+      <description>Ziel des Projekts DEKAPALTIN-BERTHA ist es, die Nutzung tiefer Geothermie als klimafreundliche Wärmequelle für Industrie und Kommune vorzubereiten.</description>
+      <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/2025/geothermie-forschung-zur-klimaneutralen-waermeversorgung-in-woerth-am-rhein-dekapalatin-bertha</guid>
+    </item>
     <item>
       <title>„100 Prozent nachhaltig erzeugte Wärme für 400 Wohneinheiten funktioniert“</title>
       <link>https://www.energieforschung.de/de/aktuelles/interviews/2025/kalte-nahwaermenetze-faust</link>
@@ -102,13 +109,6 @@
       <description>Alle Daten sind bundesweit eingetragen: Interessierte können nun online auf GeotIS.de sehen, ob ihre Region für Erdwärmesonden geeignet ist.</description>
       <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/2024/einfacher-zugang-zu-erdwaerme</guid>
-    </item>
-    <item>
-      <title>Wasserstoffturbinen: So entwickeln Forschende die Turbinentechnologie weiter</title>
-      <link>https://www.energieforschung.de/de/aktuelles/projekteinblicke/2025/wasserstoffturbinen-so-entwickeln-forschende-die-turbinentechnologie-weiter</link>
-      <description>Vier Forschungsprojekte zeigen, wie Turbomaschinen an den neuen Brennstoff angepasst werden können.</description>
-      <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/projekteinblicke/2025/wasserstoffturbinen-so-entwickeln-forschende-die-turbinentechnologie-weiter</guid>
     </item>
   </channel>
 </rss>
