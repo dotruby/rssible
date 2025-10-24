@@ -4,7 +4,14 @@
     <title>RSS Feed - gebaeudeforum</title>
     <description>Automatically generated RSS feed from gebaeudeforum spider</description>
     <language>de</language>
-    <lastBuildDate>Thu, 23 Oct 2025 04:04:18 </lastBuildDate>
+    <lastBuildDate>Fri, 24 Oct 2025 04:04:19 </lastBuildDate>
+    <item>
+      <title>Schnittstellen im Steildach</title>
+      <link>https://www.gebaeudeforum.de/realisieren/qualitaet-am-bau/schnittstelle-zwischen-gewerken/steildach/</link>
+      <description>Das Steildach ist ein zentrales Element energieeffizienter Gebäude. Besonderes Augenmerk sollte den Schnittstellen gelten.</description>
+      <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.gebaeudeforum.de/realisieren/qualitaet-am-bau/schnittstelle-zwischen-gewerken/steildach/</guid>
+    </item>
     <item>
       <title>Leichtbauweisen im Fassadenbau</title>
       <link>https://www.gebaeudeforum.de/realisieren/gebaeudehuelle/fassade/leichtbauweisen/</link>
@@ -58,7 +65,7 @@
       <title>Themenschwerpunkt: Gebäudehülle</title>
       <link>https://www.gebaeudeforum.de/themenschwerpunkt/</link>
       <description>Der Themenschwerpunkt beleuchtet den Aufbau sowie die Funktion der Gebäudehülle und zeigt Wege zu energieeffizienter, zukunftsfähiger Bauqualität.</description>
-      <pubDate>Thu, 23 Oct 2025 04:04:18 +0000</pubDate>
+      <pubDate>Fri, 24 Oct 2025 04:04:19 +0000</pubDate>
       <guid>https://www.gebaeudeforum.de/themenschwerpunkt/</guid>
     </item>
     <item>
@@ -849,7 +856,7 @@
       <title>Matching-Tool für die Abwärmenutzung aus Rechenzentren</title>
       <link>https://www.gebaeudeforum.de/service/toolbox/abwaermenutzung-aus-rechenzentren/</link>
       <description>Das kartenbasierte Online-Tool bringt in nur wenigen Schritten Abwärmequellen mit potenziellen Abwärmeabnehmern zusammen.</description>
-      <pubDate>Thu, 23 Oct 2025 04:04:18 +0000</pubDate>
+      <pubDate>Fri, 24 Oct 2025 04:04:19 +0000</pubDate>
       <guid>https://www.gebaeudeforum.de/service/toolbox/abwaermenutzung-aus-rechenzentren/</guid>
     </item>
     <item>
