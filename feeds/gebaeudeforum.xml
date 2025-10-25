@@ -4,7 +4,14 @@
     <title>RSS Feed - gebaeudeforum</title>
     <description>Automatically generated RSS feed from gebaeudeforum spider</description>
     <language>de</language>
-    <lastBuildDate>Fri, 24 Oct 2025 04:04:19 </lastBuildDate>
+    <lastBuildDate>Sat, 25 Oct 2025 04:04:20 </lastBuildDate>
+    <item>
+      <title>Schnittstellen im Flachdach</title>
+      <link>https://www.gebaeudeforum.de/realisieren/qualitaet-am-bau/schnittstelle-zwischen-gewerken/flachdach/</link>
+      <description>Flachdächer bieten viele architektonische Möglichkeiten, stellen aber hohe Anforderungen an Detailplanung und Schnittstellen.</description>
+      <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.gebaeudeforum.de/realisieren/qualitaet-am-bau/schnittstelle-zwischen-gewerken/flachdach/</guid>
+    </item>
     <item>
       <title>Schnittstellen im Steildach</title>
       <link>https://www.gebaeudeforum.de/realisieren/qualitaet-am-bau/schnittstelle-zwischen-gewerken/steildach/</link>
@@ -65,7 +72,7 @@
       <title>Themenschwerpunkt: Gebäudehülle</title>
       <link>https://www.gebaeudeforum.de/themenschwerpunkt/</link>
       <description>Der Themenschwerpunkt beleuchtet den Aufbau sowie die Funktion der Gebäudehülle und zeigt Wege zu energieeffizienter, zukunftsfähiger Bauqualität.</description>
-      <pubDate>Fri, 24 Oct 2025 04:04:19 +0000</pubDate>
+      <pubDate>Sat, 25 Oct 2025 04:04:19 +0000</pubDate>
       <guid>https://www.gebaeudeforum.de/themenschwerpunkt/</guid>
     </item>
     <item>
@@ -856,7 +863,7 @@
       <title>Matching-Tool für die Abwärmenutzung aus Rechenzentren</title>
       <link>https://www.gebaeudeforum.de/service/toolbox/abwaermenutzung-aus-rechenzentren/</link>
       <description>Das kartenbasierte Online-Tool bringt in nur wenigen Schritten Abwärmequellen mit potenziellen Abwärmeabnehmern zusammen.</description>
-      <pubDate>Fri, 24 Oct 2025 04:04:19 +0000</pubDate>
+      <pubDate>Sat, 25 Oct 2025 04:04:19 +0000</pubDate>
       <guid>https://www.gebaeudeforum.de/service/toolbox/abwaermenutzung-aus-rechenzentren/</guid>
     </item>
     <item>
