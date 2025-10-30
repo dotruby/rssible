@@ -4,7 +4,21 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Wed, 29 Oct 2025 04:07:48 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Oct 2025 04:04:19 </lastBuildDate>
+    <item>
+      <title>„Entscheidend ist, dass die Speichertechnologie zur konkreten Anwendung passt.“</title>
+      <link>https://www.energieforschung.de/de/aktuelles/interviews/2025/thermische-waermespeicher-fuer-die-industrie-hauer</link>
+      <description>Der Bedarf an Speichern in der Industrie steigt. Welche Speichertypen derzeit im Gespräch sind, erläutert Dr. Andreas Hauer vom ZAE Bayern.</description>
+      <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/interviews/2025/thermische-waermespeicher-fuer-die-industrie-hauer</guid>
+    </item>
+    <item>
+      <title>Handlungsempfehlungen erarbeitet: Markthochlauf von Industriewärmepumpen beschleunigen</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/uml/2025/markthochlauf-industriewaermepumpen-beschleunigen-forschungsfeld-handlungsempfehlungen</link>
+      <description>Workshop-Ergebnisse zeigen, welche Hürden Industrie­wärmepumpen bremsen – und welche Schritte jetzt nötig sind.</description>
+      <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/uml/2025/markthochlauf-industriewaermepumpen-beschleunigen-forschungsfeld-handlungsempfehlungen</guid>
+    </item>
     <item>
       <title>Geothermie für die Zukunft: Forschung zur klimaneutralen Wärmeversorgung in Wörth am Rhein</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/2025/geothermie-forschung-zur-klimaneutralen-waermeversorgung-in-woerth-am-rhein-dekapalatin-bertha</link>
@@ -95,20 +109,6 @@
       <description>Für sichere Wasserstoffnutzung sind präzise Sensoren entscheidend. Neue Messverfahren erkennen Leckagen und Verunreinigungen schnell und zuverlässig.</description>
       <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/projekteinblicke/2025/fruehwarnsysteme-fuer-den-umgang-mit-wasserstoff</guid>
-    </item>
-    <item>
-      <title>Jetzt bewerben: Driving Urban Transitions (DUT) Call 2025</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/2025/jetzt-bewerben-dut-call-2025</link>
-      <description>Mit diesem Förderaufruf werden transnationale Projekte unterstützt, die sich mit städtischen Herausforderungen auseinandersetzen.</description>
-      <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/2025/jetzt-bewerben-dut-call-2025</guid>
-    </item>
-    <item>
-      <title>Bundesweite Karten fertiggestellt: Potenzial für Erdwärmesonden mit ein paar Klicks finden</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/2024/einfacher-zugang-zu-erdwaerme</link>
-      <description>Alle Daten sind bundesweit eingetragen: Interessierte können nun online auf GeotIS.de sehen, ob ihre Region für Erdwärmesonden geeignet ist.</description>
-      <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/2024/einfacher-zugang-zu-erdwaerme</guid>
     </item>
   </channel>
 </rss>
