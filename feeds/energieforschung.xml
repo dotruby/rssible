@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Thu, 30 Oct 2025 04:04:19 </lastBuildDate>
+    <lastBuildDate>Fri, 31 Oct 2025 04:05:02 </lastBuildDate>
+    <item>
+      <title>Hinweis auf Orientierungswerte für Projektanträge: Was gilt – und wie geprüft wird</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/2025/hinweis-auf-orientierungswerte-fuer-projektantraege</link>
+      <description>Orientierungswerte erleichtern Anträge im Energieforschungsprogramm und beschleunigen den Prüfprozess für typische Projektkosten.</description>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/2025/hinweis-auf-orientierungswerte-fuer-projektantraege</guid>
+    </item>
     <item>
       <title>„Entscheidend ist, dass die Speichertechnologie zur konkreten Anwendung passt.“</title>
       <link>https://www.energieforschung.de/de/aktuelles/interviews/2025/thermische-waermespeicher-fuer-die-industrie-hauer</link>
@@ -102,13 +109,6 @@
       <description>Es werden Projekte, die Energiesysteme digitaler, wirtschaftlicher oder flexibler machen sowie deren Emissionen reduzieren, gesucht.</description>
       <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/2025/internationaler-call-fuer-waerme-und-kaelteprojekte</guid>
-    </item>
-    <item>
-      <title>Präzise, schnell, robust: Frühwarnsysteme für den Umgang mit Wasserstoff</title>
-      <link>https://www.energieforschung.de/de/aktuelles/projekteinblicke/2025/fruehwarnsysteme-fuer-den-umgang-mit-wasserstoff</link>
-      <description>Für sichere Wasserstoffnutzung sind präzise Sensoren entscheidend. Neue Messverfahren erkennen Leckagen und Verunreinigungen schnell und zuverlässig.</description>
-      <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/projekteinblicke/2025/fruehwarnsysteme-fuer-den-umgang-mit-wasserstoff</guid>
     </item>
   </channel>
 </rss>
