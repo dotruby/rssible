@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Fri, 31 Oct 2025 04:05:02 </lastBuildDate>
+    <lastBuildDate>Sat, 01 Nov 2025 04:04:20 </lastBuildDate>
+    <item>
+      <title>Fachwerksanierung: Mit neuer Technik Altes bewahren</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/2025/fachwerksanierung-mit-neuer-technik-altes-bewahren</link>
+      <description>Wie Bauherren Fachwerkbauten energetisch sanieren können, ohne die bauliche Substanz zu gefährden, untersucht ein Forschungsteam in Hessen.</description>
+      <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/2025/fachwerksanierung-mit-neuer-technik-altes-bewahren</guid>
+    </item>
     <item>
       <title>Hinweis auf Orientierungswerte für Projektanträge: Was gilt – und wie geprüft wird</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/2025/hinweis-auf-orientierungswerte-fuer-projektantraege</link>
@@ -102,13 +109,6 @@
       <description>Seit Sommer 2023 organisiert das Forschungsnetzwerk Wasserstoff die Online-Veranstaltungsreihe „Wasserstand: Aktuelles aus der H2-Forschung“.</description>
       <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/uml/2025/zwei-jahre-diskussionsreihe-wasserstoffforschung-online</guid>
-    </item>
-    <item>
-      <title>Internationaler Call für Wärme- und Kälteprojekte</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/2025/internationaler-call-fuer-waerme-und-kaelteprojekte</link>
-      <description>Es werden Projekte, die Energiesysteme digitaler, wirtschaftlicher oder flexibler machen sowie deren Emissionen reduzieren, gesucht.</description>
-      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/2025/internationaler-call-fuer-waerme-und-kaelteprojekte</guid>
     </item>
   </channel>
 </rss>
