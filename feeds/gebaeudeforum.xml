@@ -4,7 +4,14 @@
     <title>RSS Feed - gebaeudeforum</title>
     <description>Automatically generated RSS feed from gebaeudeforum spider</description>
     <language>de</language>
-    <lastBuildDate>Mon, 03 Nov 2025 04:08:27 </lastBuildDate>
+    <lastBuildDate>Tue, 04 Nov 2025 04:04:18 </lastBuildDate>
+    <item>
+      <title>WEG-Praxisguide: Energetische Sanierung in WEGs</title>
+      <link>https://www.gebaeudeforum.de/wissen/weg-praxisguide/</link>
+      <description>Der neue WEG-Praxisguide bietet praxisnahe Informationen und Arbeitshilfen rund um die energetische Sanierung in Wohnungseigentümergemeinschaften.</description>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.gebaeudeforum.de/wissen/weg-praxisguide/</guid>
+    </item>
     <item>
       <title>GEG-Anforderungen für Hallen</title>
       <link>https://www.gebaeudeforum.de/realisieren/heizungstechnik/hallenheizungen/geg-anforderungen/</link>
@@ -79,7 +86,7 @@
       <title>Themenschwerpunkt: Gebäudehülle</title>
       <link>https://www.gebaeudeforum.de/themenschwerpunkt-7/</link>
       <description>Der Themenschwerpunkt beleuchtet den Aufbau sowie die Funktion der Gebäudehülle und zeigt Wege zu energieeffizienter, zukunftsfähiger Bauqualität.</description>
-      <pubDate>Mon, 03 Nov 2025 04:08:27 +0000</pubDate>
+      <pubDate>Tue, 04 Nov 2025 04:04:18 +0000</pubDate>
       <guid>https://www.gebaeudeforum.de/themenschwerpunkt-7/</guid>
     </item>
     <item>
@@ -503,11 +510,11 @@
       <guid>https://www.gebaeudeforum.de/service/toolbox/enbil/</guid>
     </item>
     <item>
-      <title>GEG: Gesetzliche Anforderungen an WEGs</title>
-      <link>https://www.gebaeudeforum.de/ordnungsrecht/geg/geg-weg/</link>
+      <title>Gebäudeenergiegesetz: Anforderungen an die Wärmeversorgung in WEGs</title>
+      <link>https://www.gebaeudeforum.de/wissen/weg-praxisguide/gesetzliche-grundlagen/geg-anforderungen/</link>
       <description>In einem neuen Themenbereich wurden noch einmal speziell Anforderungen des GEG an Wohneigentümergemeinschaften aufbereitet.</description>
       <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.gebaeudeforum.de/ordnungsrecht/geg/geg-weg/</guid>
+      <guid>https://www.gebaeudeforum.de/wissen/weg-praxisguide/gesetzliche-grundlagen/geg-anforderungen/</guid>
     </item>
     <item>
       <title>Newsletter mit Fachinformationen, Best-Practices und aktuellen Terminen</title>
@@ -870,7 +877,7 @@
       <title>Matching-Tool für die Abwärmenutzung aus Rechenzentren</title>
       <link>https://www.gebaeudeforum.de/service/toolbox/abwaermenutzung-aus-rechenzentren/</link>
       <description>Das kartenbasierte Online-Tool bringt in nur wenigen Schritten Abwärmequellen mit potenziellen Abwärmeabnehmern zusammen.</description>
-      <pubDate>Mon, 03 Nov 2025 04:08:27 +0000</pubDate>
+      <pubDate>Tue, 04 Nov 2025 04:04:18 +0000</pubDate>
       <guid>https://www.gebaeudeforum.de/service/toolbox/abwaermenutzung-aus-rechenzentren/</guid>
     </item>
     <item>

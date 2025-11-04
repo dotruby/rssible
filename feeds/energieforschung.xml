@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Mon, 03 Nov 2025 04:08:42 </lastBuildDate>
+    <lastBuildDate>Tue, 04 Nov 2025 04:04:23 </lastBuildDate>
+    <item>
+      <title>Das Energiesystem fit machen für extreme Stressfälle</title>
+      <link>https://www.energieforschung.de/de/aktuelles/interviews/2025/resilientes-energiesystem-droste-franke-remodigital</link>
+      <description>Das ReMoDigital-Team hat ein Konzept für einen Stresstest entwickelt, um die Resilienz des Energiesystems zu stärken. Bert Droste-Franke erklärt wie.</description>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/interviews/2025/resilientes-energiesystem-droste-franke-remodigital</guid>
+    </item>
     <item>
       <title>Fachwerksanierung: Mit neuer Technik Altes bewahren</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/2025/fachwerksanierung-mit-neuer-technik-altes-bewahren</link>
@@ -102,13 +109,6 @@
       <description>Bracht in Rauschenberg hat ein wegweisendes Anlagensystem aus Solarthermie,  Wärmepumpen, Holzkessel und Erdbeckenspeicher in Betrieb genommen.</description>
       <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/2025/100-prozent-regenerativ-solarwaerme-liefert-grossteil-der-waerme-fuer-hessisches-dorf</guid>
-    </item>
-    <item>
-      <title>Zwei Jahre Diskussionsreihe: Wasserstoffforschung online</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/uml/2025/zwei-jahre-diskussionsreihe-wasserstoffforschung-online</link>
-      <description>Seit Sommer 2023 organisiert das Forschungsnetzwerk Wasserstoff die Online-Veranstaltungsreihe „Wasserstand: Aktuelles aus der H2-Forschung“.</description>
-      <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/uml/2025/zwei-jahre-diskussionsreihe-wasserstoffforschung-online</guid>
     </item>
   </channel>
 </rss>
