@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Tue, 04 Nov 2025 04:04:23 </lastBuildDate>
+    <lastBuildDate>Wed, 05 Nov 2025 04:05:10 </lastBuildDate>
+    <item>
+      <title>Einreichungsstichtage für Projektideen: Auswahlrunden einmal pro Quartal</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/2025/einreichungsstichtage-fuer-projektideen-auswahlrunden-einmal-pro-quartal-energieforschungsprogramm</link>
+      <description>Ab 2026 gelten für alle Förderschwerpunkte der aktuellen Förderbekanntmachung zur angewandten Energieforschung feste Einreichungsstichtage.</description>
+      <pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/2025/einreichungsstichtage-fuer-projektideen-auswahlrunden-einmal-pro-quartal-energieforschungsprogramm</guid>
+    </item>
     <item>
       <title>Das Energiesystem fit machen für extreme Stressfälle</title>
       <link>https://www.energieforschung.de/de/aktuelles/interviews/2025/resilientes-energiesystem-droste-franke-remodigital</link>
@@ -102,13 +109,6 @@
       <description>Haushalte im Hamburger Stadtteil Wilhelmsburg sollen ab 2026 klimafreundlich mit Wärme aus einer neuen Geothermieanlage versorgt werden.</description>
       <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/2023/ueber-6000-haushalte-sollen-zukuenftig-mit-klimafreundlicher-waerme-versorgt-werden</guid>
-    </item>
-    <item>
-      <title>100 Prozent regenerativ: Solarwärme liefert Großteil der Wärme für hessisches Dorf</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/2025/100-prozent-regenerativ-solarwaerme-liefert-grossteil-der-waerme-fuer-hessisches-dorf</link>
-      <description>Bracht in Rauschenberg hat ein wegweisendes Anlagensystem aus Solarthermie,  Wärmepumpen, Holzkessel und Erdbeckenspeicher in Betrieb genommen.</description>
-      <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/2025/100-prozent-regenerativ-solarwaerme-liefert-grossteil-der-waerme-fuer-hessisches-dorf</guid>
     </item>
   </channel>
 </rss>
