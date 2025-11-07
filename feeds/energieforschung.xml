@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Thu, 06 Nov 2025 04:07:24 </lastBuildDate>
+    <lastBuildDate>Fri, 07 Nov 2025 04:04:22 </lastBuildDate>
+    <item>
+      <title>„Standards schaffen Vertrauen, Effizienz und Sicherheit“</title>
+      <link>https://www.energieforschung.de/de/aktuelles/interviews/2025/normungsroadmap-wasserstoff-lydia-vogt</link>
+      <description>Im Interview spricht Lydia Vogt über die Ergebnisse der Normungsroadmap Wasserstofftechnologien und die Bedeutung von Standards für die Energiewende.</description>
+      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/interviews/2025/normungsroadmap-wasserstoff-lydia-vogt</guid>
+    </item>
     <item>
       <title>URBAN ARENA vernetzt Wärmeversorger und Wissenschaft</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/2025/urban-arena-vernetzt-waermeversorger-und-wissenschaft</link>
@@ -102,13 +109,6 @@
       <description>Was passiert, wenn der Energiebedarf eines Quartiers CO</description>
       <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/uml/2025/nur-strom-quartier-im-praxischeck</guid>
-    </item>
-    <item>
-      <title>Natrium-Ionen-Batterien: Umweltschonende und sicherere Speicher-Alternative</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/uml/2025/natrium-ionen-batterien-umweltschonende-sicherere-speicher-alternative</link>
-      <description>Der Stromnetz-Dialog zeigte das Potenzial von Natrium-Ionen- verglichen mit Lithium-Ionen- und Blei-Säure-Batterien.</description>
-      <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/uml/2025/natrium-ionen-batterien-umweltschonende-sicherere-speicher-alternative</guid>
     </item>
   </channel>
 </rss>
