@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Fri, 07 Nov 2025 04:04:22 </lastBuildDate>
+    <lastBuildDate>Sat, 08 Nov 2025 04:04:05 </lastBuildDate>
+    <item>
+      <title>Wie deutsche Krematorien jährlich bis über 100.000 Tonnen CO₂ einsparen könnten</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/2025/wie-deutsche-krematorien-jaehrlich-bis-ueber-100000-tonnen-co2-einsparen-koennten-hhydrokrem</link>
+      <description>Das Forschungsprojekt HHydroKrem zeigt, wie Krematorien durch Wasserstoff, Strom und Wärmerückgewinnung ihren CO</description>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/2025/wie-deutsche-krematorien-jaehrlich-bis-ueber-100000-tonnen-co2-einsparen-koennten-hhydrokrem</guid>
+    </item>
     <item>
       <title>„Standards schaffen Vertrauen, Effizienz und Sicherheit“</title>
       <link>https://www.energieforschung.de/de/aktuelles/interviews/2025/normungsroadmap-wasserstoff-lydia-vogt</link>
@@ -102,13 +109,6 @@
       <description>Passgenau und zielorientiert: Prof. Dr. Kerstin Avila berichtet vom MatchMaking Symposium Wind – und erläutert, warum der Zeitpunkt richtig war.</description>
       <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/interviews/2025/matchmaking-symposium-windenergie-nachhaltig-gestalten</guid>
-    </item>
-    <item>
-      <title>Nur-Strom-Quartier im Praxis-Check</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/uml/2025/nur-strom-quartier-im-praxischeck</link>
-      <description>Was passiert, wenn der Energiebedarf eines Quartiers CO</description>
-      <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/uml/2025/nur-strom-quartier-im-praxischeck</guid>
     </item>
   </channel>
 </rss>
