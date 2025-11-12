@@ -4,7 +4,21 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Tue, 11 Nov 2025 04:06:34 </lastBuildDate>
+    <lastBuildDate>Wed, 12 Nov 2025 04:05:17 </lastBuildDate>
+    <item>
+      <title>2. Energieforschungskonferenz des BMWE: „Wir brauchen mutige Forschende“</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/uml/2025/energieforschungskonferenz-bmwe-im-livestream</link>
+      <description>Mit neuen Förderaufrufen und einer eigenen Transferoffensive für Energieinnovationen will das BMWE den deutschen Standort stärken.</description>
+      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/uml/2025/energieforschungskonferenz-bmwe-im-livestream</guid>
+    </item>
+    <item>
+      <title>PV-Anlagen entlang der Bahn: „Das Potenzial ist da – der Markt muss nur noch ertüchtigt werden“</title>
+      <link>https://www.energieforschung.de/de/aktuelles/interviews/2025/pv-anlagen-entlang-der-bahn-stromnetz</link>
+      <description>Wie PV-Anlagen entlang der Gleise künftig Strom direkt ins Bahnnetz speisen könnten, schildert Andreas Hensel vom Fraunhofer ISE im Interview.</description>
+      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/interviews/2025/pv-anlagen-entlang-der-bahn-stromnetz</guid>
+    </item>
     <item>
       <title>Wie deutsche Krematorien jährlich bis über 100.000 Tonnen CO₂ einsparen könnten</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/2025/wie-deutsche-krematorien-jaehrlich-bis-ueber-100000-tonnen-co2-einsparen-koennten-hhydrokrem</link>
@@ -95,20 +109,6 @@
       <description>Das Photovoltaik-Programm Photovoltaic Power Systems der Internationalen Energieagentur beleuchtet in seinem Trends-Report die PV-Entwicklungen 2024.</description>
       <pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/2025/weltweit-installierte-photovoltaikleistung-2024-ueberschreitet-2260-gigawatt-iea-pvps-trends-report</guid>
-    </item>
-    <item>
-      <title>Energieforschung im Zeichen von Industrie- und Standortpolitik</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/2025/energieforschung-im-zeichen-von-industrie-und-standortpolitik-jahrestagung-forschungsverbund-erneuerbare-energien</link>
-      <description>Jahrestagung des Forschungsverbunds Erneuerbare Energien: Welche Impulse kann die Energieforschung dem Wirtschaftsstandort Deutschland geben?</description>
-      <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/2025/energieforschung-im-zeichen-von-industrie-und-standortpolitik-jahrestagung-forschungsverbund-erneuerbare-energien</guid>
-    </item>
-    <item>
-      <title>„Wir wollen die Windenergie nachhaltig gestalten“</title>
-      <link>https://www.energieforschung.de/de/aktuelles/interviews/2025/matchmaking-symposium-windenergie-nachhaltig-gestalten</link>
-      <description>Passgenau und zielorientiert: Prof. Dr. Kerstin Avila berichtet vom MatchMaking Symposium Wind – und erläutert, warum der Zeitpunkt richtig war.</description>
-      <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/interviews/2025/matchmaking-symposium-windenergie-nachhaltig-gestalten</guid>
     </item>
   </channel>
 </rss>
