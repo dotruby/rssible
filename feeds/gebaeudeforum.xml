@@ -4,7 +4,14 @@
     <title>RSS Feed - gebaeudeforum</title>
     <description>Automatically generated RSS feed from gebaeudeforum spider</description>
     <language>de</language>
-    <lastBuildDate>Thu, 13 Nov 2025 04:07:31 </lastBuildDate>
+    <lastBuildDate>Fri, 14 Nov 2025 04:05:57 </lastBuildDate>
+    <item>
+      <title>Nistfassade aus dem 3D-Drucker</title>
+      <link>https://www.gebaeudeforum.de/best-practice/nistfassade/</link>
+      <description>Eine Fassade für Mensch und Tier: 3D-gedruckte Module schaffen urbane Nist- und Schutzräume und verbessern zugleich das Mikroklima.</description>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.gebaeudeforum.de/best-practice/nistfassade/</guid>
+    </item>
     <item>
       <title>WEG-Praxisguide: Energetische Sanierung in WEGs</title>
       <link>https://www.gebaeudeforum.de/wissen/weg-praxisguide/</link>
@@ -86,7 +93,7 @@
       <title>Themenschwerpunkt: Gebäudehülle</title>
       <link>https://www.gebaeudeforum.de/themenschwerpunkt-7/</link>
       <description>Der Themenschwerpunkt beleuchtet den Aufbau sowie die Funktion der Gebäudehülle und zeigt Wege zu energieeffizienter, zukunftsfähiger Bauqualität.</description>
-      <pubDate>Thu, 13 Nov 2025 04:07:31 +0000</pubDate>
+      <pubDate>Fri, 14 Nov 2025 04:05:56 +0000</pubDate>
       <guid>https://www.gebaeudeforum.de/themenschwerpunkt-7/</guid>
     </item>
     <item>
@@ -877,7 +884,7 @@
       <title>Matching-Tool für die Abwärmenutzung aus Rechenzentren</title>
       <link>https://www.gebaeudeforum.de/service/toolbox/abwaermenutzung-aus-rechenzentren/</link>
       <description>Das kartenbasierte Online-Tool bringt in nur wenigen Schritten Abwärmequellen mit potenziellen Abwärmeabnehmern zusammen.</description>
-      <pubDate>Thu, 13 Nov 2025 04:07:31 +0000</pubDate>
+      <pubDate>Fri, 14 Nov 2025 04:05:57 +0000</pubDate>
       <guid>https://www.gebaeudeforum.de/service/toolbox/abwaermenutzung-aus-rechenzentren/</guid>
     </item>
     <item>

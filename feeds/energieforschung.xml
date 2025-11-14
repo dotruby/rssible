@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Thu, 13 Nov 2025 04:07:37 </lastBuildDate>
+    <lastBuildDate>Fri, 14 Nov 2025 04:06:02 </lastBuildDate>
+    <item>
+      <title>Wärmepumpe im Altbau – eine lohnende Investition?</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/2025/waermepumpe-im-altbau-eine-lohnende-investition</link>
+      <description>Ein Forschungsteam des Fraunhofer ISE hat untersucht, ob sich in älteren Häusern der Einbau einer Wärmepumpe rentiert. Nun liegen die Ergebnisse vor.</description>
+      <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/2025/waermepumpe-im-altbau-eine-lohnende-investition</guid>
+    </item>
     <item>
       <title>2. Energieforschungskonferenz des BMWE: „Wir brauchen mutige Forschende“</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/uml/2025/energieforschungskonferenz-bmwe-im-livestream</link>
@@ -102,13 +109,6 @@
       <description>Geothermie-Beschleunigungsgesetz: Das Tempo beim Ausbau von Geothermieanlagen sowie Wärmepumpen, -speichern und -leitungen soll gesteigert werden.</description>
       <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/2025/neues-gesetz-soll-geothermie-ausbau-deutlich-beschleunigen</guid>
-    </item>
-    <item>
-      <title>Weltweit installierte Photovoltaikleistung 2024 überschreitet 2.260 Gigawatt</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/2025/weltweit-installierte-photovoltaikleistung-2024-ueberschreitet-2260-gigawatt-iea-pvps-trends-report</link>
-      <description>Das Photovoltaik-Programm Photovoltaic Power Systems der Internationalen Energieagentur beleuchtet in seinem Trends-Report die PV-Entwicklungen 2024.</description>
-      <pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/2025/weltweit-installierte-photovoltaikleistung-2024-ueberschreitet-2260-gigawatt-iea-pvps-trends-report</guid>
     </item>
   </channel>
 </rss>
