@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Mon, 17 Nov 2025 04:07:49 </lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 04:05:34 </lastBuildDate>
+    <item>
+      <title>Jetzt bewerben! Aufrufe zur Forschung für mehr Wettbewerbsfähigkeit und Resilienz veröffentlicht</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/2025/aufrufe-forschung-foerderaufrufe-wettbewerbsfaehigkeit-resilienz</link>
+      <description>Das Bundesministerium für Wirtschaft und Energie hat sieben neue Förderaufrufe veröffentlicht.</description>
+      <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/2025/aufrufe-forschung-foerderaufrufe-wettbewerbsfaehigkeit-resilienz</guid>
+    </item>
     <item>
       <title>Wärmepumpe im Altbau – eine lohnende Investition?</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/2025/waermepumpe-im-altbau-eine-lohnende-investition</link>
@@ -102,13 +109,6 @@
       <description>In Bad Nauheim versorgt ein innovatives kaltes Nahwärmenetz 400 Wohneinheiten. Wie, erklärt Projektleiter Hendrik Faust.</description>
       <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/interviews/2025/kalte-nahwaermenetze-faust</guid>
-    </item>
-    <item>
-      <title>Neues Gesetz soll Geothermie-Ausbau deutlich beschleunigen</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/2025/neues-gesetz-soll-geothermie-ausbau-deutlich-beschleunigen</link>
-      <description>Geothermie-Beschleunigungsgesetz: Das Tempo beim Ausbau von Geothermieanlagen sowie Wärmepumpen, -speichern und -leitungen soll gesteigert werden.</description>
-      <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/2025/neues-gesetz-soll-geothermie-ausbau-deutlich-beschleunigen</guid>
     </item>
   </channel>
 </rss>
