@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Thu, 20 Nov 2025 04:04:32 </lastBuildDate>
+    <lastBuildDate>Fri, 21 Nov 2025 04:04:49 </lastBuildDate>
+    <item>
+      <title>Jetzt anmelden: Kongress zur Energieforschung in Industrie und Gewerbe 2026</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/2025/kongress-zur-energieforschung-in-industrie-und-gewerbe-2026</link>
+      <description>Hybrid-Veranstaltung am 17. und 18. März 2026: Die Anmeldung ist ab sofort möglich. Die Teilnahme ist kostenfrei.</description>
+      <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/2025/kongress-zur-energieforschung-in-industrie-und-gewerbe-2026</guid>
+    </item>
     <item>
       <title>Jetzt bewerben! Aufrufe zur Forschung für mehr Wettbewerbsfähigkeit und Resilienz veröffentlicht</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/2025/aufrufe-forschung-foerderaufrufe-wettbewerbsfaehigkeit-resilienz</link>
@@ -102,13 +109,6 @@
       <description>Ziel des Projekts DEKAPALTIN-BERTHA ist es, die Nutzung tiefer Geothermie als klimafreundliche Wärmequelle für Industrie und Kommune vorzubereiten.</description>
       <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/2025/geothermie-forschung-zur-klimaneutralen-waermeversorgung-in-woerth-am-rhein-dekapalatin-bertha</guid>
-    </item>
-    <item>
-      <title>„100 Prozent nachhaltig erzeugte Wärme für 400 Wohneinheiten funktioniert“</title>
-      <link>https://www.energieforschung.de/de/aktuelles/interviews/2025/kalte-nahwaermenetze-faust</link>
-      <description>In Bad Nauheim versorgt ein innovatives kaltes Nahwärmenetz 400 Wohneinheiten. Wie, erklärt Projektleiter Hendrik Faust.</description>
-      <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/interviews/2025/kalte-nahwaermenetze-faust</guid>
     </item>
   </channel>
 </rss>
