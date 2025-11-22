@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Fri, 21 Nov 2025 04:04:49 </lastBuildDate>
+    <lastBuildDate>Sat, 22 Nov 2025 04:04:10 </lastBuildDate>
+    <item>
+      <title>Meilenstein für die internationale Wasserstoffforschung</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/2025/100-exco-meeting-des-hydrogen-tcp-meilenstein-fuer-die-internationale-wasserstoffforschung</link>
+      <description>Das Hydrogen Technology Collaboration Programme (Hydrogen TCP) der IEA hat Anfang November in Paris sein 100. Treffen des Exekutivkomitees begangen.</description>
+      <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/2025/100-exco-meeting-des-hydrogen-tcp-meilenstein-fuer-die-internationale-wasserstoffforschung</guid>
+    </item>
     <item>
       <title>Jetzt anmelden: Kongress zur Energieforschung in Industrie und Gewerbe 2026</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/2025/kongress-zur-energieforschung-in-industrie-und-gewerbe-2026</link>
@@ -102,13 +109,6 @@
       <description>Workshop-Ergebnisse zeigen, welche Hürden Industrie­wärmepumpen bremsen – und welche Schritte jetzt nötig sind.</description>
       <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/uml/2025/markthochlauf-industriewaermepumpen-beschleunigen-forschungsfeld-handlungsempfehlungen</guid>
-    </item>
-    <item>
-      <title>Geothermie für die Zukunft: Forschung zur klimaneutralen Wärmeversorgung in Wörth am Rhein</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/2025/geothermie-forschung-zur-klimaneutralen-waermeversorgung-in-woerth-am-rhein-dekapalatin-bertha</link>
-      <description>Ziel des Projekts DEKAPALTIN-BERTHA ist es, die Nutzung tiefer Geothermie als klimafreundliche Wärmequelle für Industrie und Kommune vorzubereiten.</description>
-      <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/2025/geothermie-forschung-zur-klimaneutralen-waermeversorgung-in-woerth-am-rhein-dekapalatin-bertha</guid>
     </item>
   </channel>
 </rss>
