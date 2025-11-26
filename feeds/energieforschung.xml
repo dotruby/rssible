@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Tue, 25 Nov 2025 04:08:10 </lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 04:07:11 </lastBuildDate>
+    <item>
+      <title>Mit maschinellem Lernen zum intelligent gesteuerten Gebäude-Energiesystem</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/2025/mit-maschinellem-lernen-zum-intelligent-gesteuerten-gebaeude-energiesystem</link>
+      <description>Im Projekt ML-EBESR ermöglicht eine KI, Energieflüsse in Gebäuden vorausschauend und damit effizienter zu steuern.</description>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/2025/mit-maschinellem-lernen-zum-intelligent-gesteuerten-gebaeude-energiesystem</guid>
+    </item>
     <item>
       <title>Meilenstein für die internationale Wasserstoffforschung</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/2025/100-exco-meeting-des-hydrogen-tcp-meilenstein-fuer-die-internationale-wasserstoffforschung</link>
@@ -102,13 +109,6 @@
       <description>Der Bedarf an Speichern in der Industrie steigt. Welche Speichertypen derzeit im Gespräch sind, erläutert Dr. Andreas Hauer vom ZAE Bayern.</description>
       <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/interviews/2025/thermische-waermespeicher-fuer-die-industrie-hauer</guid>
-    </item>
-    <item>
-      <title>Handlungsempfehlungen erarbeitet: Markthochlauf von Industriewärmepumpen beschleunigen</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/uml/2025/markthochlauf-industriewaermepumpen-beschleunigen-forschungsfeld-handlungsempfehlungen</link>
-      <description>Workshop-Ergebnisse zeigen, welche Hürden Industrie­wärmepumpen bremsen – und welche Schritte jetzt nötig sind.</description>
-      <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/uml/2025/markthochlauf-industriewaermepumpen-beschleunigen-forschungsfeld-handlungsempfehlungen</guid>
     </item>
   </channel>
 </rss>
