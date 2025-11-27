@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Wed, 26 Nov 2025 04:07:11 </lastBuildDate>
+    <lastBuildDate>Thu, 27 Nov 2025 04:05:33 </lastBuildDate>
+    <item>
+      <title>Leitfäden erleichtern Planung und Genehmigung von Wasserstoffnetzen und Power-to-Gas-Anlagen</title>
+      <link>https://www.energieforschung.de/de/news/portal-green-ii</link>
+      <description>PORTAL GREEN II hat fünf Leitfäden zu zentralen Fragen zu Genehmigung, Planung, Bau und Betrieb von Wasserstoffinfrastruktur veröffentlicht.</description>
+      <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/news/portal-green-ii</guid>
+    </item>
     <item>
       <title>Mit maschinellem Lernen zum intelligent gesteuerten Gebäude-Energiesystem</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/2025/mit-maschinellem-lernen-zum-intelligent-gesteuerten-gebaeude-energiesystem</link>
@@ -102,13 +109,6 @@
       <description>Orientierungswerte erleichtern Anträge im Energieforschungsprogramm und beschleunigen den Prüfprozess für typische Projektkosten.</description>
       <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/2025/hinweis-auf-orientierungswerte-fuer-projektantraege</guid>
-    </item>
-    <item>
-      <title>„Entscheidend ist, dass die Speichertechnologie zur konkreten Anwendung passt.“</title>
-      <link>https://www.energieforschung.de/de/aktuelles/interviews/2025/thermische-waermespeicher-fuer-die-industrie-hauer</link>
-      <description>Der Bedarf an Speichern in der Industrie steigt. Welche Speichertypen derzeit im Gespräch sind, erläutert Dr. Andreas Hauer vom ZAE Bayern.</description>
-      <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/interviews/2025/thermische-waermespeicher-fuer-die-industrie-hauer</guid>
     </item>
   </channel>
 </rss>
