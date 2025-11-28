@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Thu, 27 Nov 2025 04:05:33 </lastBuildDate>
+    <lastBuildDate>Fri, 28 Nov 2025 04:05:27 </lastBuildDate>
+    <item>
+      <title>Transformation bis 2035: Was das Forschungsnetzwerk Industrie und Gewerbe priorisiert</title>
+      <link>https://www.energieforschung.de/news/de/transformation-bis-2035-was-das-forschungsnetzwerk-industrie-und-gewerbe-priorisiert</link>
+      <description>Das Strategiepapier zeigt, welche Technologien die Industrie in den nächsten Jahren effizienter, robuster und wettbewerbsfähiger machen.</description>
+      <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/news/de/transformation-bis-2035-was-das-forschungsnetzwerk-industrie-und-gewerbe-priorisiert</guid>
+    </item>
     <item>
       <title>Leitfäden erleichtern Planung und Genehmigung von Wasserstoffnetzen und Power-to-Gas-Anlagen</title>
       <link>https://www.energieforschung.de/de/news/portal-green-ii</link>
@@ -102,13 +109,6 @@
       <description>Wie Bauherren Fachwerkbauten energetisch sanieren können, ohne die bauliche Substanz zu gefährden, untersucht ein Forschungsteam in Hessen.</description>
       <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/2025/fachwerksanierung-mit-neuer-technik-altes-bewahren</guid>
-    </item>
-    <item>
-      <title>Hinweis auf Orientierungswerte für Projektanträge: Was gilt – und wie geprüft wird</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/2025/hinweis-auf-orientierungswerte-fuer-projektantraege</link>
-      <description>Orientierungswerte erleichtern Anträge im Energieforschungsprogramm und beschleunigen den Prüfprozess für typische Projektkosten.</description>
-      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/2025/hinweis-auf-orientierungswerte-fuer-projektantraege</guid>
     </item>
   </channel>
 </rss>
