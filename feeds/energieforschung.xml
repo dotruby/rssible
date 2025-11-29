@@ -4,13 +4,20 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Fri, 28 Nov 2025 04:05:27 </lastBuildDate>
+    <lastBuildDate>Sat, 29 Nov 2025 04:04:33 </lastBuildDate>
+    <item>
+      <title>Erfolgsformat URBAN ARENA für weitere Stadtwerke geöffnet</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/2025/erfolgsformat-urban-arena-fuer-weitere-stadtwerke-geoeffnet</link>
+      <description>Die URBAN ARENA vernetzt Wissenschaft und Praxis beim Thema saisonale Wärmespeicherung. Weitere Stadtwerke können sich jetzt bewerben.</description>
+      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/2025/erfolgsformat-urban-arena-fuer-weitere-stadtwerke-geoeffnet</guid>
+    </item>
     <item>
       <title>Transformation bis 2035: Was das Forschungsnetzwerk Industrie und Gewerbe priorisiert</title>
-      <link>https://www.energieforschung.de/news/de/transformation-bis-2035-was-das-forschungsnetzwerk-industrie-und-gewerbe-priorisiert</link>
+      <link>https://www.energieforschung.de/de/aktuelles/news/2025/transformation-bis-2035-was-das-forschungsnetzwerk-industrie-und-gewerbe-priorisiert</link>
       <description>Das Strategiepapier zeigt, welche Technologien die Industrie in den nächsten Jahren effizienter, robuster und wettbewerbsfähiger machen.</description>
       <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/news/de/transformation-bis-2035-was-das-forschungsnetzwerk-industrie-und-gewerbe-priorisiert</guid>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/2025/transformation-bis-2035-was-das-forschungsnetzwerk-industrie-und-gewerbe-priorisiert</guid>
     </item>
     <item>
       <title>Leitfäden erleichtern Planung und Genehmigung von Wasserstoffnetzen und Power-to-Gas-Anlagen</title>
@@ -102,13 +109,6 @@
       <description>Das ReMoDigital-Team hat ein Konzept für einen Stresstest entwickelt, um die Resilienz des Energiesystems zu stärken. Bert Droste-Franke erklärt wie.</description>
       <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/interviews/2025/resilientes-energiesystem-droste-franke-remodigital</guid>
-    </item>
-    <item>
-      <title>Fachwerksanierung: Mit neuer Technik Altes bewahren</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/2025/fachwerksanierung-mit-neuer-technik-altes-bewahren</link>
-      <description>Wie Bauherren Fachwerkbauten energetisch sanieren können, ohne die bauliche Substanz zu gefährden, untersucht ein Forschungsteam in Hessen.</description>
-      <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/2025/fachwerksanierung-mit-neuer-technik-altes-bewahren</guid>
     </item>
   </channel>
 </rss>
