@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Mon, 01 Dec 2025 04:22:59 </lastBuildDate>
+    <lastBuildDate>Tue, 02 Dec 2025 04:09:58 </lastBuildDate>
+    <item>
+      <title>Wasser, Wärme, Wandel: FluSeeQ vereint Technik, Ökologie und Regulierung</title>
+      <link>https://www.energieforschung.de/de/aktuelles/projekteinblicke/2025/wasser-waerme-wandel-fluseeq-vereint-technik-oekologie-und-regulierung</link>
+      <description>FluSeeQ zeigt, wie sich das Potenzial von Flüssen und Seen für eine zukunftsfähige Wärmeversorgung sicher und umweltgerecht nutzen lässt.</description>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/projekteinblicke/2025/wasser-waerme-wandel-fluseeq-vereint-technik-oekologie-und-regulierung</guid>
+    </item>
     <item>
       <title>Erfolgsformat URBAN ARENA für weitere Stadtwerke geöffnet</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/2025/erfolgsformat-urban-arena-fuer-weitere-stadtwerke-geoeffnet</link>
@@ -102,13 +109,6 @@
       <description>Ab 2026 gelten für alle Förderschwerpunkte der aktuellen Förderbekanntmachung zur angewandten Energieforschung feste Einreichungsstichtage.</description>
       <pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/2025/einreichungsstichtage-fuer-projektideen-auswahlrunden-einmal-pro-quartal-energieforschungsprogramm</guid>
-    </item>
-    <item>
-      <title>Das Energiesystem fit machen für extreme Stressfälle</title>
-      <link>https://www.energieforschung.de/de/aktuelles/interviews/2025/resilientes-energiesystem-droste-franke-remodigital</link>
-      <description>Das ReMoDigital-Team hat ein Konzept für einen Stresstest entwickelt, um die Resilienz des Energiesystems zu stärken. Bert Droste-Franke erklärt wie.</description>
-      <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/interviews/2025/resilientes-energiesystem-droste-franke-remodigital</guid>
     </item>
   </channel>
 </rss>
