@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Tue, 02 Dec 2025 04:09:58 </lastBuildDate>
+    <lastBuildDate>Wed, 03 Dec 2025 04:08:51 </lastBuildDate>
+    <item>
+      <title>Supermarkt-Kühlschränke als thermische Batterie für Erneuerbare-Energien</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/2025/supermarkt-kuehlschraenke-als-thermische-batterie-fuer-erneuerbare-energien-remeasure</link>
+      <description>Im Projekt Remeasure wird ein Supermarkt zum thermischen Stromspeicher. In den Forschungsnetzwerken Energie wurden nun erste Ergebnisse vorgestellt.</description>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/2025/supermarkt-kuehlschraenke-als-thermische-batterie-fuer-erneuerbare-energien-remeasure</guid>
+    </item>
     <item>
       <title>Wasser, Wärme, Wandel: FluSeeQ vereint Technik, Ökologie und Regulierung</title>
       <link>https://www.energieforschung.de/de/aktuelles/projekteinblicke/2025/wasser-waerme-wandel-fluseeq-vereint-technik-oekologie-und-regulierung</link>
@@ -102,13 +109,6 @@
       <description>Um an 16 Standorten in Deutschland saisonale Wärmespeicherung umzusetzen, haben sich Fachleute im neuen Förderformat URBAN ARENA vernetzt.</description>
       <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/2025/urban-arena-vernetzt-waermeversorger-und-wissenschaft</guid>
-    </item>
-    <item>
-      <title>Einreichungsstichtage für Projektideen: Auswahlrunden einmal pro Quartal</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/2025/einreichungsstichtage-fuer-projektideen-auswahlrunden-einmal-pro-quartal-energieforschungsprogramm</link>
-      <description>Ab 2026 gelten für alle Förderschwerpunkte der aktuellen Förderbekanntmachung zur angewandten Energieforschung feste Einreichungsstichtage.</description>
-      <pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/2025/einreichungsstichtage-fuer-projektideen-auswahlrunden-einmal-pro-quartal-energieforschungsprogramm</guid>
     </item>
   </channel>
 </rss>
