@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Tue, 09 Dec 2025 04:08:53 </lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2025 04:11:36 </lastBuildDate>
+    <item>
+      <title>Bipolarplatten für Wasserelektrolyseure günstiger und robuster machen</title>
+      <link>https://www.energieforschung.de/de/aktuelles/interviews/2025/ticob-bipolarplatte</link>
+      <description>Thorsten Hickmann von Whitecell Eisenhuth gibt Einblick in eine neue Bipolarplatte, für eine billigere und zuverlässigere Wasserstoffproduktion.</description>
+      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/interviews/2025/ticob-bipolarplatte</guid>
+    </item>
     <item>
       <title>Supermarkt-Kühlschränke als thermische Batterie für Erneuerbare-Energien</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/2025/supermarkt-kuehlschraenke-als-thermische-batterie-fuer-erneuerbare-energien-remeasure</link>
@@ -102,13 +109,6 @@
       <description>Im Interview spricht Lydia Vogt über die Ergebnisse der Normungsroadmap Wasserstofftechnologien und die Bedeutung von Standards für die Energiewende.</description>
       <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/interviews/2025/normungsroadmap-wasserstoff-lydia-vogt</guid>
-    </item>
-    <item>
-      <title>URBAN ARENA vernetzt Wärmeversorger und Wissenschaft</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/2025/urban-arena-vernetzt-waermeversorger-und-wissenschaft</link>
-      <description>Um an 16 Standorten in Deutschland saisonale Wärmespeicherung umzusetzen, haben sich Fachleute im neuen Förderformat URBAN ARENA vernetzt.</description>
-      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/2025/urban-arena-vernetzt-waermeversorger-und-wissenschaft</guid>
     </item>
   </channel>
 </rss>
