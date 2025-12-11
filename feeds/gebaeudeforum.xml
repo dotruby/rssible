@@ -4,7 +4,14 @@
     <title>RSS Feed - gebaeudeforum</title>
     <description>Automatically generated RSS feed from gebaeudeforum spider</description>
     <language>de</language>
-    <lastBuildDate>Wed, 10 Dec 2025 04:11:31 </lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 04:13:46 </lastBuildDate>
+    <item>
+      <title>Erneuerbare Wärme für Mehrfamilienhäuser</title>
+      <link>https://www.gebaeudeforum.de/wissen/quartiere/waerme-und-kaelte-im-quartier/erneuerbare-waerme-fuer-mehrfamilienhaeuser/</link>
+      <description>Factsheets zu vier Mustergebäuden zeigen, wie verschiedene Mehrfamilienhäuser mit erneuerbaren Energien versorgt werden können.</description>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.gebaeudeforum.de/wissen/quartiere/waerme-und-kaelte-im-quartier/erneuerbare-waerme-fuer-mehrfamilienhaeuser/</guid>
+    </item>
     <item>
       <title>Zusammenspiel GEG und WPG</title>
       <link>https://www.gebaeudeforum.de/ordnungsrecht/geg/geg-und-wpg/</link>
@@ -926,7 +933,7 @@
       <title>Matching-Tool für die Abwärmenutzung aus Rechenzentren</title>
       <link>https://www.gebaeudeforum.de/service/toolbox/abwaermenutzung-aus-rechenzentren/</link>
       <description>Das kartenbasierte Online-Tool bringt in nur wenigen Schritten Abwärmequellen mit potenziellen Abwärmeabnehmern zusammen.</description>
-      <pubDate>Wed, 10 Dec 2025 04:11:31 +0000</pubDate>
+      <pubDate>Thu, 11 Dec 2025 04:13:46 +0000</pubDate>
       <guid>https://www.gebaeudeforum.de/service/toolbox/abwaermenutzung-aus-rechenzentren/</guid>
     </item>
     <item>

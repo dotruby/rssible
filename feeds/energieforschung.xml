@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Wed, 10 Dec 2025 04:11:36 </lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 04:13:52 </lastBuildDate>
+    <item>
+      <title>Bundesbericht Energieforschung 2025 verabschiedet</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/2025/bundesbericht-energieforschung-2025-verabschiedet</link>
+      <description>Das Bundeskabinett hat in seiner heutigen Sitzung den Bundesbericht Energieforschung 2025 verabschiedet.</description>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/2025/bundesbericht-energieforschung-2025-verabschiedet</guid>
+    </item>
     <item>
       <title>Bipolarplatten für Wasserelektrolyseure günstiger und robuster machen</title>
       <link>https://www.energieforschung.de/de/aktuelles/interviews/2025/ticob-bipolarplatte</link>
@@ -102,13 +109,6 @@
       <description>Das Forschungsprojekt HHydroKrem zeigt, wie Krematorien durch Wasserstoff, Strom und Wärmerückgewinnung ihren CO</description>
       <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/2025/wie-deutsche-krematorien-jaehrlich-bis-ueber-100000-tonnen-co2-einsparen-koennten-hhydrokrem</guid>
-    </item>
-    <item>
-      <title>„Standards schaffen Vertrauen, Effizienz und Sicherheit“</title>
-      <link>https://www.energieforschung.de/de/aktuelles/interviews/2025/normungsroadmap-wasserstoff-lydia-vogt</link>
-      <description>Im Interview spricht Lydia Vogt über die Ergebnisse der Normungsroadmap Wasserstofftechnologien und die Bedeutung von Standards für die Energiewende.</description>
-      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/interviews/2025/normungsroadmap-wasserstoff-lydia-vogt</guid>
     </item>
   </channel>
 </rss>
