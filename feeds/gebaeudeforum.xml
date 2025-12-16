@@ -4,7 +4,21 @@
     <title>RSS Feed - gebaeudeforum</title>
     <description>Automatically generated RSS feed from gebaeudeforum spider</description>
     <language>de</language>
-    <lastBuildDate>Mon, 15 Dec 2025 04:18:18 </lastBuildDate>
+    <lastBuildDate>Tue, 16 Dec 2025 04:13:48 </lastBuildDate>
+    <item>
+      <title>Toolbox mit neuer Struktur und neuen Tools</title>
+      <link>https://www.gebaeudeforum.de/service/toolbox/</link>
+      <description>Die Struktur der Toolbox wurde inhaltlich etwas angepasst, weiterhin wurden neue Tools im Bereich Analyse und Förderung ergänzt.</description>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.gebaeudeforum.de/service/toolbox/</guid>
+    </item>
+    <item>
+      <title>BEG-Reporting für Q3 2025 veröffentlicht</title>
+      <link>https://www.energiewechsel.de/KAENEF/Redaktion/DE/Dossier/BEG/beg-fachinformation.html</link>
+      <description>Das neue BEG-Reporting zeigt Förderdaten bis einschließlich Q3 2025. Demnach gewinnen Wärmepumpen und iSFP weiter an Bedeutung.</description>
+      <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.energiewechsel.de/KAENEF/Redaktion/DE/Dossier/BEG/beg-fachinformation.html</guid>
+    </item>
     <item>
       <title>Erneuerbare Wärme für Mehrfamilienhäuser</title>
       <link>https://www.gebaeudeforum.de/wissen/quartiere/waerme-und-kaelte-im-quartier/erneuerbare-waerme-fuer-mehrfamilienhaeuser/</link>
@@ -933,7 +947,7 @@
       <title>Matching-Tool für die Abwärmenutzung aus Rechenzentren</title>
       <link>https://www.gebaeudeforum.de/service/toolbox/abwaermenutzung-aus-rechenzentren/</link>
       <description>Das kartenbasierte Online-Tool bringt in nur wenigen Schritten Abwärmequellen mit potenziellen Abwärmeabnehmern zusammen.</description>
-      <pubDate>Mon, 15 Dec 2025 04:18:18 +0000</pubDate>
+      <pubDate>Tue, 16 Dec 2025 04:13:48 +0000</pubDate>
       <guid>https://www.gebaeudeforum.de/service/toolbox/abwaermenutzung-aus-rechenzentren/</guid>
     </item>
     <item>
