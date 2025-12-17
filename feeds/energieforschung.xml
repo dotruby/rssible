@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Tue, 16 Dec 2025 04:13:54 </lastBuildDate>
+    <lastBuildDate>Wed, 17 Dec 2025 04:11:19 </lastBuildDate>
+    <item>
+      <title>Segelndes Windturbinenschiff erfolgreich auf Ostsee getestet</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/2025/segelndes-windturbinenschiff-erfolgreich-auf-ostsee-getestet-sailwint-poc</link>
+      <description>Forschende haben im Projekt SAILWINT-PoC ein Schiff entwickelt und erfolgreich auf der Ostsee getestet, bei dem Windturbinen als Segel dienen.</description>
+      <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/2025/segelndes-windturbinenschiff-erfolgreich-auf-ostsee-getestet-sailwint-poc</guid>
+    </item>
     <item>
       <title>„Gebäude und Quartiere können das Energiesystem stabilisieren“</title>
       <link>https://www.energieforschung.de/de/aktuelles/interviews/2025/gebaeude-und-quartiere-koennen-das-energiesystem-stabilisieren</link>
@@ -102,13 +109,6 @@
       <description>Mit neuen Förderaufrufen und einer eigenen Transferoffensive für Energieinnovationen will das BMWE den deutschen Standort stärken.</description>
       <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/uml/2025/energieforschungskonferenz-bmwe-im-livestream</guid>
-    </item>
-    <item>
-      <title>PV-Anlagen entlang der Bahn: „Das Potenzial ist da – der Markt muss nur noch ertüchtigt werden“</title>
-      <link>https://www.energieforschung.de/de/aktuelles/interviews/2025/pv-anlagen-entlang-der-bahn-stromnetz</link>
-      <description>Wie PV-Anlagen entlang der Gleise künftig Strom direkt ins Bahnnetz speisen könnten, schildert Andreas Hensel vom Fraunhofer ISE im Interview.</description>
-      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/interviews/2025/pv-anlagen-entlang-der-bahn-stromnetz</guid>
     </item>
   </channel>
 </rss>

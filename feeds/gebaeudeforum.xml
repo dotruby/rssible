@@ -4,7 +4,7 @@
     <title>RSS Feed - gebaeudeforum</title>
     <description>Automatically generated RSS feed from gebaeudeforum spider</description>
     <language>de</language>
-    <lastBuildDate>Tue, 16 Dec 2025 04:13:48 </lastBuildDate>
+    <lastBuildDate>Wed, 17 Dec 2025 04:11:13 </lastBuildDate>
     <item>
       <title>Toolbox mit neuer Struktur und neuen Tools</title>
       <link>https://www.gebaeudeforum.de/service/toolbox/</link>
@@ -947,7 +947,7 @@
       <title>Matching-Tool für die Abwärmenutzung aus Rechenzentren</title>
       <link>https://www.gebaeudeforum.de/service/toolbox/abwaermenutzung-aus-rechenzentren/</link>
       <description>Das kartenbasierte Online-Tool bringt in nur wenigen Schritten Abwärmequellen mit potenziellen Abwärmeabnehmern zusammen.</description>
-      <pubDate>Tue, 16 Dec 2025 04:13:48 +0000</pubDate>
+      <pubDate>Wed, 17 Dec 2025 04:11:13 +0000</pubDate>
       <guid>https://www.gebaeudeforum.de/service/toolbox/abwaermenutzung-aus-rechenzentren/</guid>
     </item>
     <item>
@@ -1035,14 +1035,14 @@
       <guid>https://www.dena.de/newsroom/meldungen/2023/cyberangriff-auf-die-dena/</guid>
     </item>
     <item>
-      <title>GEG 2024: Fristen</title>
+      <title>Fristen im GEG 2024</title>
       <link>https://www.gebaeudeforum.de/ordnungsrecht/geg/geg-2024/fristen/</link>
       <description>Die neue Themenseite bietet einen Überblick zu wichtigen Fristen in der zweiten Novelle des Gebäudeenergiegesetzes (GEG 2024).</description>
       <pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://www.gebaeudeforum.de/ordnungsrecht/geg/geg-2024/fristen/</guid>
     </item>
     <item>
-      <title>GEG 2024: Nachweisverpflichtungen</title>
+      <title>Nachweispflichten im GEG 2024</title>
       <link>https://www.gebaeudeforum.de/ordnungsrecht/geg/geg-2024/nachweisverpflichtungen/</link>
       <description>Eine neue Themenseite zeigt, welche Nachweise bei Einbau, Betrieb und Austausch von Heizungsanlagen gemäß GEG 2024 notwendig sind.</description>
       <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
@@ -1623,7 +1623,7 @@
       <guid>https://www.gebaeudeforum.de/service/toolbox/kostentool-sanierung/</guid>
     </item>
     <item>
-      <title>Neue Verordnungen für Energieeinsparung</title>
+      <title>Verordnungen für Energieeinsparung</title>
       <link>https://www.gebaeudeforum.de/ordnungsrecht/geg/verordnungen-energieeinsparung/</link>
       <description>Auf einer entsprechenden Themenseite können die neuen Verordnungen für Energieeinsparungen (EnSikuMaV und EnSimiMaV) als PDF heruntergeladen werden.</description>
       <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
@@ -1912,7 +1912,7 @@
     <item>
       <title>Lernen Sie das Serviceteam kennen</title>
       <link>https://www.gebaeudeforum.de/service/fachhotline/serviceteam/</link>
-      <description>Das Serviceteam des Gebäudeforums klimaneutral hilft bei Fachfragen rund um energieeffizientes und klimaneutrales Bauen und Sanieren.</description>
+      <description>Das Serviceteam des Gebäudeforums klimaneutral hilft in der Fachhotline und bei schrfitlich eingereichten Fachfragen rund um energieeffizientes und klimaneutrales Bauen und Sanieren.</description>
       <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://www.gebaeudeforum.de/service/fachhotline/serviceteam/</guid>
     </item>
