@@ -26,11 +26,11 @@ jobs:
 
     - name: Run Gebäudeforum spider
       run: |
-        docker run --rm -v "${{ github.workspace }}/feeds:/app/feeds" rssible scrapy crawl gebaeudeforum
+        docker run --rm -v "${{ github.workspace }}/feeds:/app/feeds" rssible scrapy crawl gebaeudeforum -a max_items=10
 
     - name: Run Energieforschung spider
       run: |
-        docker run --rm -v "${{ github.workspace }}/feeds:/app/feeds" rssible scrapy crawl energieforschung
+        docker run --rm -v "${{ github.workspace }}/feeds:/app/feeds" rssible scrapy crawl energieforschung -a max_items=10
 
     - name: List generated feeds
       run: |
