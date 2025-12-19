@@ -1,9 +1,10 @@
 import scrapy
 from rssible.items import FeedItem
+from rssible.spiders.base import BaseSpider
 from datetime import datetime
 import re
 
-class EnergiforschungSpider(scrapy.Spider):
+class EnergiforschungSpider(BaseSpider):
     """
     Spider for German energy research news (Energieforschung.de)
     Scrapes energy research news, sustainability topics, and renewable energy articles
@@ -24,6 +25,10 @@ class EnergiforschungSpider(scrapy.Spider):
         self.logger.info(f"Found {len(subline_elements)} subline elements")
 
         for subline in subline_elements:
+            # Check if we've reached the max_items limit
+            if not self.should_continue_scraping():
+                return
+
             # Get the parent element of p.subline
             parent = subline.xpath('./..').get()
             if not parent:
@@ -96,4 +101,5 @@ class EnergiforschungSpider(scrapy.Spider):
             item['language'] = page_language
 
             self.logger.info(f"Extracted item: {title}")
+            self.increment_items_count()
             yield item

@@ -1,9 +1,10 @@
 import scrapy
 from rssible.items import FeedItem
+from rssible.spiders.base import BaseSpider
 from datetime import datetime
 import re
 
-class GebaeudeforumSpider(scrapy.Spider):
+class GebaeudeforumSpider(BaseSpider):
     """
     Spider for German building forum (Gebäudeforum) news archive
     Scrapes building industry news, sustainability topics, and energy efficiency articles
@@ -31,6 +32,10 @@ class GebaeudeforumSpider(scrapy.Spider):
         self.logger.info(f"Found {len(teaser_cards)} teaser cards")
 
         for card in teaser_cards:
+            # Check if we've reached the max_items limit
+            if not self.should_continue_scraping():
+                return
+
             # Extract title from h3.c-teaser__headline
             title = card.css('h3.c-teaser__headline::text').get()
             if not title:
@@ -89,4 +94,5 @@ class GebaeudeforumSpider(scrapy.Spider):
             item['language'] = page_language
 
             self.logger.info(f"Extracted item: {title}")
+            self.increment_items_count()
             yield item
