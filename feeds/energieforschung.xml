@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Fri, 19 Dec 2025 10:14:19 </lastBuildDate>
+    <lastBuildDate>Sat, 20 Dec 2025 04:07:30 </lastBuildDate>
+    <item>
+      <title>Neues Gesetz soll Geothermie-Ausbau deutlich beschleunigen</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/2025/neues-gesetz-soll-geothermie-ausbau-deutlich-beschleunigen</link>
+      <description>Geothermie-Beschleunigungsgesetz: Das Tempo beim Ausbau von Geothermieanlagen sowie Wärmepumpen, -speichern und -leitungen soll gesteigert werden.</description>
+      <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/2025/neues-gesetz-soll-geothermie-ausbau-deutlich-beschleunigen</guid>
+    </item>
     <item>
       <title>Segelndes Windturbinenschiff erfolgreich auf Ostsee getestet</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/2025/segelndes-windturbinenschiff-erfolgreich-auf-ostsee-getestet-sailwint-poc</link>
@@ -67,13 +74,6 @@
       <description>PORTAL GREEN II hat fünf Leitfäden zu zentralen Fragen zu Genehmigung, Planung, Bau und Betrieb von Wasserstoffinfrastruktur veröffentlicht.</description>
       <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/news/portal-green-ii</guid>
-    </item>
-    <item>
-      <title>Mit maschinellem Lernen zum intelligent gesteuerten Gebäude-Energiesystem</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/2025/mit-maschinellem-lernen-zum-intelligent-gesteuerten-gebaeude-energiesystem</link>
-      <description>Im Projekt ML-EBESR ermöglicht eine KI, Energieflüsse in Gebäuden vorausschauend und damit effizienter zu steuern.</description>
-      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/2025/mit-maschinellem-lernen-zum-intelligent-gesteuerten-gebaeude-energiesystem</guid>
     </item>
   </channel>
 </rss>
