@@ -4,13 +4,20 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Mon, 22 Dec 2025 04:18:29 </lastBuildDate>
+    <lastBuildDate>Tue, 23 Dec 2025 04:15:58 </lastBuildDate>
     <item>
       <title>Neues Gesetz soll Geothermie-Ausbau deutlich beschleunigen</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/2025/neues-gesetz-soll-geothermie-ausbau-deutlich-beschleunigen</link>
       <description>Geothermie-Beschleunigungsgesetz: Das Tempo beim Ausbau von Geothermieanlagen sowie Wärmepumpen, -speichern und -leitungen soll gesteigert werden.</description>
       <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/2025/neues-gesetz-soll-geothermie-ausbau-deutlich-beschleunigen</guid>
+    </item>
+    <item>
+      <title>„Wir könnten Standardsetter werden“</title>
+      <link>https://www.energieforschung.de/de/aktuelles/interviews/2025/windenergie-wir-koennten-standardsetter-werden</link>
+      <description>Dr. Jan Teßmer ist für den Betrieb des DLR-Forschungsparks Windenergie (WiValdi) zuständig. Im Interview spricht er über die aktuelle Forschung.</description>
+      <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/interviews/2025/windenergie-wir-koennten-standardsetter-werden</guid>
     </item>
     <item>
       <title>Segelndes Windturbinenschiff erfolgreich auf Ostsee getestet</title>
@@ -67,13 +74,6 @@
       <description>Das Strategiepapier zeigt, welche Technologien die Industrie in den nächsten Jahren effizienter, robuster und wettbewerbsfähiger machen.</description>
       <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/2025/transformation-bis-2035-was-das-forschungsnetzwerk-industrie-und-gewerbe-priorisiert</guid>
-    </item>
-    <item>
-      <title>Leitfäden erleichtern Planung und Genehmigung von Wasserstoffnetzen und Power-to-Gas-Anlagen</title>
-      <link>https://www.energieforschung.de/de/news/portal-green-ii</link>
-      <description>PORTAL GREEN II hat fünf Leitfäden zu zentralen Fragen zu Genehmigung, Planung, Bau und Betrieb von Wasserstoffinfrastruktur veröffentlicht.</description>
-      <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/news/portal-green-ii</guid>
     </item>
   </channel>
 </rss>
