@@ -4,7 +4,14 @@
     <title>RSS Feed - gebaeudeforum</title>
     <description>Automatically generated RSS feed from gebaeudeforum spider</description>
     <language>de</language>
-    <lastBuildDate>Mon, 05 Jan 2026 04:26:18 </lastBuildDate>
+    <lastBuildDate>Tue, 06 Jan 2026 04:17:15 </lastBuildDate>
+    <item>
+      <title>Info-Film zur Arbeit von Energieberatenden</title>
+      <link>https://www.gebaeudeforum.de/realisieren/qualitaet-am-bau/#c34683</link>
+      <description>Der Info-Film stellt die qualitätsgesicherte Arbeit von Energieberatenden vor und kann u.a. in der Kundenkommunikation genutzt werden.</description>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.gebaeudeforum.de/realisieren/qualitaet-am-bau/#c34683</guid>
+    </item>
     <item>
       <title>GSK-Dialoge: Überblick zu Veranstaltungen und Workshops</title>
       <link>https://www.gebaeudeforum.de/service/gebaeude-sanierungs-kompass/gsk-dialoge-2025/</link>
@@ -67,13 +74,6 @@
       <description>Besonders auf Quartierebene kann Abwärme durch Einspeisung in Wärmenetze effizient und wirtschaftlich genutzt werden.</description>
       <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://www.gebaeudeforum.de/wissen/quartiere/waerme-und-kaelte-im-quartier/abwaermenutzung/</guid>
-    </item>
-    <item>
-      <title>Vermittlung von Speakern</title>
-      <link>https://www.gebaeudeforum.de/partnernetzwerk/ueber-das-netzwerk/speaker/</link>
-      <description>Das Gebäudeforum unterstützt dabei, Speaker aus dem umfangreichen Partnernetzwerk für Veranstaltungen zu finden.</description>
-      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.gebaeudeforum.de/partnernetzwerk/ueber-das-netzwerk/speaker/</guid>
     </item>
   </channel>
 </rss>
