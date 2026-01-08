@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Wed, 07 Jan 2026 04:17:50 </lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 04:17:30 </lastBuildDate>
+    <item>
+      <title>Online-Tool unterstützt Hausbesitzer bei der energetischen Sanierung</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/building-dialogue-online-tool</link>
+      <description>Der neue Online-Wegweiser „Building Dialogue“ führt Schritt für Schritt durch den komplexen Prozess der energetischen Sanierung.</description>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/building-dialogue-online-tool</guid>
+    </item>
     <item>
       <title>„Wir könnten Standardsetter werden“</title>
       <link>https://www.energieforschung.de/de/aktuelles/interviews/2025/windenergie-wir-koennten-standardsetter-werden</link>
@@ -67,13 +74,6 @@
       <description>Die URBAN ARENA vernetzt Wissenschaft und Praxis beim Thema saisonale Wärmespeicherung. Weitere Stadtwerke können sich jetzt bewerben.</description>
       <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/2025/erfolgsformat-urban-arena-fuer-weitere-stadtwerke-geoeffnet</guid>
-    </item>
-    <item>
-      <title>Transformation bis 2035: Was das Forschungsnetzwerk Industrie und Gewerbe priorisiert</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/2025/transformation-bis-2035-was-das-forschungsnetzwerk-industrie-und-gewerbe-priorisiert</link>
-      <description>Das Strategiepapier zeigt, welche Technologien die Industrie in den nächsten Jahren effizienter, robuster und wettbewerbsfähiger machen.</description>
-      <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/2025/transformation-bis-2035-was-das-forschungsnetzwerk-industrie-und-gewerbe-priorisiert</guid>
     </item>
   </channel>
 </rss>
