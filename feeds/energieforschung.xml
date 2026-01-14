@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Tue, 13 Jan 2026 04:17:38 </lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 04:21:41 </lastBuildDate>
+    <item>
+      <title>„Wir haben zum ersten Mal ein solches Wärmenetz gebaut“</title>
+      <link>https://www.energieforschung.de/de/aktuelles/interviews/reallabor-der-energiewende-transurban-nrw</link>
+      <description>Projektleiter Dr. Christian Wilke von E.ON berichtet aus der Praxis des Reallabors der Energiewende TransUrban.NRW.</description>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/interviews/reallabor-der-energiewende-transurban-nrw</guid>
+    </item>
     <item>
       <title>Online-Tool unterstützt Hausbesitzer bei der energetischen Sanierung</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/building-dialogue-online-tool</link>
@@ -67,13 +74,6 @@
       <description>FluSeeQ zeigt, wie sich das Potenzial von Flüssen und Seen für eine zukunftsfähige Wärmeversorgung sicher und umweltgerecht nutzen lässt.</description>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/projekteinblicke/2025/wasser-waerme-wandel-fluseeq-vereint-technik-oekologie-und-regulierung</guid>
-    </item>
-    <item>
-      <title>Erfolgsformat URBAN ARENA für weitere Stadtwerke geöffnet</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/2025/erfolgsformat-urban-arena-fuer-weitere-stadtwerke-geoeffnet</link>
-      <description>Die URBAN ARENA vernetzt Wissenschaft und Praxis beim Thema saisonale Wärmespeicherung. Weitere Stadtwerke können sich jetzt bewerben.</description>
-      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/2025/erfolgsformat-urban-arena-fuer-weitere-stadtwerke-geoeffnet</guid>
     </item>
   </channel>
 </rss>
