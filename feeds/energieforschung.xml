@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Thu, 15 Jan 2026 04:18:34 </lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 04:18:00 </lastBuildDate>
+    <item>
+      <title>Künstliche Intelligenz für mehr Energieeffizienz: Ihre Erfahrungen sind gefragt</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/kuenstliche-intelligenz-energieeffizienz-umfrage-interviews-projekt-etagpt</link>
+      <description>Das Projekt etaGPT startet eine Umfrage für Input zu einem KI-Assistenten, der Industrieunternehmen in der Energieeffizienz unterstützen soll.</description>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/kuenstliche-intelligenz-energieeffizienz-umfrage-interviews-projekt-etagpt</guid>
+    </item>
     <item>
       <title>„Wir haben zum ersten Mal ein solches Wärmenetz gebaut“</title>
       <link>https://www.energieforschung.de/de/aktuelles/interviews/reallabor-der-energiewende-transurban-nrw</link>
@@ -67,13 +74,6 @@
       <description>Im Projekt Remeasure wird ein Supermarkt zum thermischen Stromspeicher. In den Forschungsnetzwerken Energie wurden nun erste Ergebnisse vorgestellt.</description>
       <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/2025/supermarkt-kuehlschraenke-als-thermische-batterie-fuer-erneuerbare-energien-remeasure</guid>
-    </item>
-    <item>
-      <title>Wasser, Wärme, Wandel: FluSeeQ vereint Technik, Ökologie und Regulierung</title>
-      <link>https://www.energieforschung.de/de/aktuelles/projekteinblicke/2025/wasser-waerme-wandel-fluseeq-vereint-technik-oekologie-und-regulierung</link>
-      <description>FluSeeQ zeigt, wie sich das Potenzial von Flüssen und Seen für eine zukunftsfähige Wärmeversorgung sicher und umweltgerecht nutzen lässt.</description>
-      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/projekteinblicke/2025/wasser-waerme-wandel-fluseeq-vereint-technik-oekologie-und-regulierung</guid>
     </item>
   </channel>
 </rss>
