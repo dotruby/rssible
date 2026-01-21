@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Tue, 20 Jan 2026 04:20:23 </lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 04:20:15 </lastBuildDate>
+    <item>
+      <title>Projekte aus der Energieforschung für Industrie und Gewerbe sichtbar machen</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/poster-call-projekte-energieforschung-industrie-gewerbe</link>
+      <description>Bis zum 28. Januar können Expertinnen und Experten ihre Postervorschläge für den Kongress zur Energieforschung in Industrie und Gewerbe einreichen.</description>
+      <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/poster-call-projekte-energieforschung-industrie-gewerbe</guid>
+    </item>
     <item>
       <title>Künstliche Intelligenz für mehr Energieeffizienz: Ihre Erfahrungen sind gefragt</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/kuenstliche-intelligenz-energieeffizienz-umfrage-interviews-projekt-etagpt</link>
@@ -67,13 +74,6 @@
       <description>Thorsten Hickmann von Whitecell Eisenhuth gibt Einblick in eine neue Bipolarplatte, für eine billigere und zuverlässigere Wasserstoffproduktion.</description>
       <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/interviews/2025/ticob-bipolarplatte</guid>
-    </item>
-    <item>
-      <title>Supermarkt-Kühlschränke als thermische Batterie für Erneuerbare-Energien</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/2025/supermarkt-kuehlschraenke-als-thermische-batterie-fuer-erneuerbare-energien-remeasure</link>
-      <description>Im Projekt Remeasure wird ein Supermarkt zum thermischen Stromspeicher. In den Forschungsnetzwerken Energie wurden nun erste Ergebnisse vorgestellt.</description>
-      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/2025/supermarkt-kuehlschraenke-als-thermische-batterie-fuer-erneuerbare-energien-remeasure</guid>
     </item>
   </channel>
 </rss>
