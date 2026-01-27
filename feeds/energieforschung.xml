@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Mon, 26 Jan 2026 04:26:23 </lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 04:20:48 </lastBuildDate>
+    <item>
+      <title>Bis zu 30 Prozent mehr Wärme aus Geothermie gewinnen</title>
+      <link>https://www.energieforschung.de/de/aktuelles/interviews/mikroprojekt-absofern</link>
+      <description>Wie der Rücklauf in geothermischen Fernwärmenetzen effizienter genutzt werden kann, erläutert Manuel Riepl vom Mikroprojekt AbsoFern im Interview.</description>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/interviews/mikroprojekt-absofern</guid>
+    </item>
     <item>
       <title>Projekte aus der Energieforschung für Industrie und Gewerbe sichtbar machen</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/poster-call-projekte-energieforschung-industrie-gewerbe</link>
@@ -67,13 +74,6 @@
       <description>Das Bundeskabinett hat in seiner Sitzung am 10. Dezember den Bundesbericht Energieforschung 2025 verabschiedet.</description>
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/2025/bundesbericht-energieforschung-2025-verabschiedet</guid>
-    </item>
-    <item>
-      <title>Bipolarplatten für Wasserelektrolyseure günstiger und robuster machen</title>
-      <link>https://www.energieforschung.de/de/aktuelles/interviews/2025/ticob-bipolarplatte</link>
-      <description>Thorsten Hickmann von Whitecell Eisenhuth gibt Einblick in eine neue Bipolarplatte, für eine billigere und zuverlässigere Wasserstoffproduktion.</description>
-      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/interviews/2025/ticob-bipolarplatte</guid>
     </item>
   </channel>
 </rss>
