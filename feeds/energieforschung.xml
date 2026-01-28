@@ -4,7 +4,7 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Tue, 27 Jan 2026 04:20:48 </lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 04:20:01 </lastBuildDate>
     <item>
       <title>Bis zu 30 Prozent mehr Wärme aus Geothermie gewinnen</title>
       <link>https://www.energieforschung.de/de/aktuelles/interviews/mikroprojekt-absofern</link>
@@ -25,6 +25,13 @@
       <description>Das Projekt etaGPT startet eine Umfrage für Input zu einem KI-Assistenten, der Industrieunternehmen in der Energieeffizienz unterstützen soll.</description>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/kuenstliche-intelligenz-energieeffizienz-umfrage-interviews-projekt-etagpt</guid>
+    </item>
+    <item>
+      <title>Vorschläge für Workshops und Themengruppen gesucht</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/forschungsnetzwerk-systemanalyse-workshops-themengruppen</link>
+      <description>Für das Forschungsnetzwerk Energiesystemanalyse werden Vorschläge für Workshops beim Jahrestreffen und neue Themengruppen gesucht.</description>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/forschungsnetzwerk-systemanalyse-workshops-themengruppen</guid>
     </item>
     <item>
       <title>„Wir haben zum ersten Mal ein solches Wärmenetz gebaut“</title>
@@ -67,13 +74,6 @@
       <description>Dr. Hee-Jung Yoon von der TU Darmstadt erklärt, wie CO₂-Emissionen im Gebäude- und Quartiersektor gesenkt werden können.</description>
       <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/interviews/2025/gebaeude-und-quartiere-koennen-das-energiesystem-stabilisieren</guid>
-    </item>
-    <item>
-      <title>Bundesbericht Energieforschung 2025 verabschiedet</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/2025/bundesbericht-energieforschung-2025-verabschiedet</link>
-      <description>Das Bundeskabinett hat in seiner Sitzung am 10. Dezember den Bundesbericht Energieforschung 2025 verabschiedet.</description>
-      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/2025/bundesbericht-energieforschung-2025-verabschiedet</guid>
     </item>
   </channel>
 </rss>

@@ -4,7 +4,14 @@
     <title>RSS Feed - gebaeudeforum</title>
     <description>Automatically generated RSS feed from gebaeudeforum spider</description>
     <language>de</language>
-    <lastBuildDate>Tue, 27 Jan 2026 04:20:42 </lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 04:19:56 </lastBuildDate>
+    <item>
+      <title>Pro-Kopf-Endenergieverbrauch</title>
+      <link>https://www.gebaeudeforum.de/wissen/zahlen-daten/gebaeudereport-2026/pro-kopf-endenergieverbrauch/</link>
+      <description>Die vertiefende Datenanalyse beschäftigt sich mit dem Endenergieverbrauch pro Kopf in den Gemeinden und dessen regionaler Verteilung.</description>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.gebaeudeforum.de/wissen/zahlen-daten/gebaeudereport-2026/pro-kopf-endenergieverbrauch/</guid>
+    </item>
     <item>
       <title>Themenschwerpunkt: dena-Gebäudereport 2026</title>
       <link>https://www.gebaeudeforum.de/wissen/zahlen-daten/gebaeudereport-2026/</link>
@@ -67,13 +74,6 @@
       <description>Speziell bei der Heizungswahl stellt sich häufig die Frage, wie sich die 65-Prozent-EE-Regel im GEG zu den Bestimmungen des WPG verhält.</description>
       <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://www.gebaeudeforum.de/ordnungsrecht/geg/geg-und-wpg/</guid>
-    </item>
-    <item>
-      <title>Sozialverträgliche Wärmewende im Quartier</title>
-      <link>https://www.gebaeudeforum.de/wissen/quartiere/waerme-und-kaelte-im-quartier/sozialvertraegliche-waermewende/</link>
-      <description>Anhand zweier Quartierstypen werden verschiedene Wärmeversorgungslösungen, ihre Kosten und die Verteilung auf Akteursgruppen analysiert.</description>
-      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.gebaeudeforum.de/wissen/quartiere/waerme-und-kaelte-im-quartier/sozialvertraegliche-waermewende/</guid>
     </item>
   </channel>
 </rss>
