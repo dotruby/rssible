@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Wed, 28 Jan 2026 04:20:01 </lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 04:31:58 </lastBuildDate>
+    <item>
+      <title>Neue Website bündelt Forschung zu „Energiewende und Gesellschaft“</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/website-forschung-energiewende-und-gesellschaft-bewegt</link>
+      <description>Die Begleitforschung BEWEGT richtet sich mit einer neuen Website sowohl an Wirtschaft und Politik als auch an Bürgerinnen und Bürger.</description>
+      <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/website-forschung-energiewende-und-gesellschaft-bewegt</guid>
+    </item>
     <item>
       <title>Bis zu 30 Prozent mehr Wärme aus Geothermie gewinnen</title>
       <link>https://www.energieforschung.de/de/aktuelles/interviews/mikroprojekt-absofern</link>
@@ -67,13 +74,6 @@
       <description>Forschende haben im Projekt SAILWINT-PoC ein Schiff entwickelt und erfolgreich auf der Ostsee getestet, bei dem Windturbinen als Segel dienen.</description>
       <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/2025/segelndes-windturbinenschiff-erfolgreich-auf-ostsee-getestet-sailwint-poc</guid>
-    </item>
-    <item>
-      <title>„Gebäude und Quartiere können das Energiesystem stabilisieren“</title>
-      <link>https://www.energieforschung.de/de/aktuelles/interviews/2025/gebaeude-und-quartiere-koennen-das-energiesystem-stabilisieren</link>
-      <description>Dr. Hee-Jung Yoon von der TU Darmstadt erklärt, wie CO₂-Emissionen im Gebäude- und Quartiersektor gesenkt werden können.</description>
-      <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/interviews/2025/gebaeude-und-quartiere-koennen-das-energiesystem-stabilisieren</guid>
     </item>
   </channel>
 </rss>

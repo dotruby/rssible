@@ -4,7 +4,14 @@
     <title>RSS Feed - gebaeudeforum</title>
     <description>Automatically generated RSS feed from gebaeudeforum spider</description>
     <language>de</language>
-    <lastBuildDate>Wed, 28 Jan 2026 04:19:56 </lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 04:31:52 </lastBuildDate>
+    <item>
+      <title>Wohnungsbau in Deutschland</title>
+      <link>https://www.gebaeudeforum.de/wissen/zahlen-daten/gebaeudereport-2026/wohnungsbau-in-deutschland/</link>
+      <description>Die vertiefende Analyse auf Datenbasis des dena-Gebäudereports 2026 zeigt deutliche regionale Unterschiede im Wohnungsbau.</description>
+      <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.gebaeudeforum.de/wissen/zahlen-daten/gebaeudereport-2026/wohnungsbau-in-deutschland/</guid>
+    </item>
     <item>
       <title>Pro-Kopf-Endenergieverbrauch</title>
       <link>https://www.gebaeudeforum.de/wissen/zahlen-daten/gebaeudereport-2026/pro-kopf-endenergieverbrauch/</link>
@@ -67,13 +74,6 @@
       <description>Factsheets zu vier Mustergebäuden zeigen, wie verschiedene Mehrfamilienhäuser mit erneuerbaren Energien versorgt werden können.</description>
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://www.gebaeudeforum.de/wissen/quartiere/waerme-und-kaelte-im-quartier/erneuerbare-waerme-fuer-mehrfamilienhaeuser/</guid>
-    </item>
-    <item>
-      <title>Zusammenspiel GEG und WPG</title>
-      <link>https://www.gebaeudeforum.de/ordnungsrecht/geg/geg-und-wpg/</link>
-      <description>Speziell bei der Heizungswahl stellt sich häufig die Frage, wie sich die 65-Prozent-EE-Regel im GEG zu den Bestimmungen des WPG verhält.</description>
-      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.gebaeudeforum.de/ordnungsrecht/geg/geg-und-wpg/</guid>
     </item>
   </channel>
 </rss>
