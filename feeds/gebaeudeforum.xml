@@ -4,7 +4,14 @@
     <title>RSS Feed - gebaeudeforum</title>
     <description>Automatically generated RSS feed from gebaeudeforum spider</description>
     <language>de</language>
-    <lastBuildDate>Thu, 29 Jan 2026 04:31:52 </lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 04:32:18 </lastBuildDate>
+    <item>
+      <title>Holzbau in Deutschland</title>
+      <link>https://www.gebaeudeforum.de/wissen/zahlen-daten/gebaeudereport-2026/holzbau-in-deutschland/</link>
+      <description>Diese vertiefende Analyse auf Basis des Gebäudereports 2026 befasst sich mit der Entwicklung des Holzbaus nach Gebäudetyp und Region.</description>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.gebaeudeforum.de/wissen/zahlen-daten/gebaeudereport-2026/holzbau-in-deutschland/</guid>
+    </item>
     <item>
       <title>Wohnungsbau in Deutschland</title>
       <link>https://www.gebaeudeforum.de/wissen/zahlen-daten/gebaeudereport-2026/wohnungsbau-in-deutschland/</link>
@@ -48,32 +55,11 @@
       <guid>https://www.gebaeudeforum.de/realisieren/qualitaet-am-bau/#c34683</guid>
     </item>
     <item>
-      <title>GSK-Dialoge: Überblick zu Veranstaltungen und Workshops</title>
-      <link>https://www.gebaeudeforum.de/service/gebaeude-sanierungs-kompass/gsk-dialoge-2025/</link>
-      <description>2025 widmete sich die Dialogreihe „Gebäude-Sanierungs-Kompass“ (GSK) vor allem Nichtwohngebäuden.</description>
-      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.gebaeudeforum.de/service/gebaeude-sanierungs-kompass/gsk-dialoge-2025/</guid>
-    </item>
-    <item>
-      <title>Toolbox mit neuer Struktur und neuen Tools</title>
-      <link>https://www.gebaeudeforum.de/service/toolbox/</link>
-      <description>Die Struktur der Toolbox wurde inhaltlich etwas angepasst, weiterhin wurden neue Tools im Bereich Analyse und Förderung ergänzt.</description>
-      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.gebaeudeforum.de/service/toolbox/</guid>
-    </item>
-    <item>
-      <title>BEG-Reporting für Q3 2025 veröffentlicht</title>
-      <link>https://www.energiewechsel.de/KAENEF/Redaktion/DE/Dossier/BEG/beg-fachinformation.html</link>
-      <description>Das neue BEG-Reporting zeigt Förderdaten bis einschließlich Q3 2025. Demnach gewinnen Wärmepumpen und iSFP weiter an Bedeutung.</description>
-      <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.energiewechsel.de/KAENEF/Redaktion/DE/Dossier/BEG/beg-fachinformation.html</guid>
-    </item>
-    <item>
-      <title>Erneuerbare Wärme für Mehrfamilienhäuser</title>
-      <link>https://www.gebaeudeforum.de/wissen/quartiere/waerme-und-kaelte-im-quartier/erneuerbare-waerme-fuer-mehrfamilienhaeuser/</link>
-      <description>Factsheets zu vier Mustergebäuden zeigen, wie verschiedene Mehrfamilienhäuser mit erneuerbaren Energien versorgt werden können.</description>
-      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.gebaeudeforum.de/wissen/quartiere/waerme-und-kaelte-im-quartier/erneuerbare-waerme-fuer-mehrfamilienhaeuser/</guid>
+      <title>Archiv Aktuelles 2025</title>
+      <link>https://www.gebaeudeforum.de/service/archiv-aktuelles/2025/</link>
+      <description>Übersicht aller in 2025 auf der Startseite des Gebäudeforums im Bereich "Aktuelles" veröffentlichen Meldungen der in chronologischer Reihenfolge.</description>
+      <pubDate>Fri, 30 Jan 2026 04:32:18 +0000</pubDate>
+      <guid>https://www.gebaeudeforum.de/service/archiv-aktuelles/2025/</guid>
     </item>
   </channel>
 </rss>

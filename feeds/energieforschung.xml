@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Thu, 29 Jan 2026 04:31:58 </lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 04:32:23 </lastBuildDate>
+    <item>
+      <title>Messsystem detektiert Seekabel am Meeresgrund</title>
+      <link>https://www.energieforschung.de/de/aktuelles/interviews/messsystem-detektion-seekabel-meeresgrund-sasacd</link>
+      <description>Mit seismoakustischen Abbildungsverfahren vermisst das neuentwickelte System aus dem Projekt SASACD den Meeresgrund und detektiert etwa Seekabel.</description>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/interviews/messsystem-detektion-seekabel-meeresgrund-sasacd</guid>
+    </item>
     <item>
       <title>Neue Website bündelt Forschung zu „Energiewende und Gesellschaft“</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/website-forschung-energiewende-und-gesellschaft-bewegt</link>
@@ -67,13 +74,6 @@
       <description>Geothermie-Beschleunigungsgesetz: Das Tempo beim Ausbau von Geothermieanlagen sowie Wärmepumpen, -speichern und -leitungen soll gesteigert werden.</description>
       <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/2025/neues-gesetz-soll-geothermie-ausbau-deutlich-beschleunigen</guid>
-    </item>
-    <item>
-      <title>Segelndes Windturbinenschiff erfolgreich auf Ostsee getestet</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/2025/segelndes-windturbinenschiff-erfolgreich-auf-ostsee-getestet-sailwint-poc</link>
-      <description>Forschende haben im Projekt SAILWINT-PoC ein Schiff entwickelt und erfolgreich auf der Ostsee getestet, bei dem Windturbinen als Segel dienen.</description>
-      <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/2025/segelndes-windturbinenschiff-erfolgreich-auf-ostsee-getestet-sailwint-poc</guid>
     </item>
   </channel>
 </rss>
