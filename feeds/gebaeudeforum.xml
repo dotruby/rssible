@@ -4,7 +4,14 @@
     <title>RSS Feed - gebaeudeforum</title>
     <description>Automatically generated RSS feed from gebaeudeforum spider</description>
     <language>de</language>
-    <lastBuildDate>Fri, 30 Jan 2026 04:32:18 </lastBuildDate>
+    <lastBuildDate>Sat, 31 Jan 2026 04:30:52 </lastBuildDate>
+    <item>
+      <title>Steckersolar-Anlagen</title>
+      <link>https://www.gebaeudeforum.de/wissen/zahlen-daten/gebaeudereport-2026/steckersolar-anlagen/</link>
+      <description>Die Datenanlyse auf Basis des Gebäudereports 2026 gibt einen Überblick zu Anzahl, Förderung und regionaler Verteilung von Steckersolar-Anlagen.</description>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.gebaeudeforum.de/wissen/zahlen-daten/gebaeudereport-2026/steckersolar-anlagen/</guid>
+    </item>
     <item>
       <title>Holzbau in Deutschland</title>
       <link>https://www.gebaeudeforum.de/wissen/zahlen-daten/gebaeudereport-2026/holzbau-in-deutschland/</link>
@@ -58,7 +65,7 @@
       <title>Archiv Aktuelles 2025</title>
       <link>https://www.gebaeudeforum.de/service/archiv-aktuelles/2025/</link>
       <description>Übersicht aller in 2025 auf der Startseite des Gebäudeforums im Bereich "Aktuelles" veröffentlichen Meldungen der in chronologischer Reihenfolge.</description>
-      <pubDate>Fri, 30 Jan 2026 04:32:18 +0000</pubDate>
+      <pubDate>Sat, 31 Jan 2026 04:30:52 +0000</pubDate>
       <guid>https://www.gebaeudeforum.de/service/archiv-aktuelles/2025/</guid>
     </item>
   </channel>
