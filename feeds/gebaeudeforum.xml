@@ -4,7 +4,14 @@
     <title>RSS Feed - gebaeudeforum</title>
     <description>Automatically generated RSS feed from gebaeudeforum spider</description>
     <language>de</language>
-    <lastBuildDate>Mon, 02 Feb 2026 04:40:37 </lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 04:34:03 </lastBuildDate>
+    <item>
+      <title>Wärmewende in Deutschland</title>
+      <link>https://www.gebaeudeforum.de/wissen/zahlen-daten/gebaeudereport-2026/waermewende-in-deutschland/</link>
+      <description>Von der kommunalen Wärmeplanung bis zum Anteil Erneuerbarer in Wärmenetzen: Neue Daten zeigen den aktuellen Stand der Wärmewende.</description>
+      <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.gebaeudeforum.de/wissen/zahlen-daten/gebaeudereport-2026/waermewende-in-deutschland/</guid>
+    </item>
     <item>
       <title>Steckersolar-Anlagen</title>
       <link>https://www.gebaeudeforum.de/wissen/zahlen-daten/gebaeudereport-2026/steckersolar-anlagen/</link>
@@ -65,7 +72,7 @@
       <title>Archiv Aktuelles 2025</title>
       <link>https://www.gebaeudeforum.de/service/archiv-aktuelles/2025/</link>
       <description>Übersicht aller in 2025 auf der Startseite des Gebäudeforums im Bereich "Aktuelles" veröffentlichen Meldungen der in chronologischer Reihenfolge.</description>
-      <pubDate>Mon, 02 Feb 2026 04:40:37 +0000</pubDate>
+      <pubDate>Tue, 03 Feb 2026 04:34:03 +0000</pubDate>
       <guid>https://www.gebaeudeforum.de/service/archiv-aktuelles/2025/</guid>
     </item>
   </channel>
