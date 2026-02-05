@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Wed, 04 Feb 2026 04:32:08 </lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 04:34:22 </lastBuildDate>
+    <item>
+      <title>Forschung schützt Energiesystem vor Störfällen und Angriffen</title>
+      <link>https://www.energieforschung.de/de/aktuelles/projekteinblicke/2025//versorgungssicherheit-resilienz</link>
+      <description>Um das Energiesystem resilient und zukunftssicher zu gestalten, fördert das BMWE Forschung, die das System vor Angriffen und Ausfällen schützt.</description>
+      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/projekteinblicke/2025//versorgungssicherheit-resilienz</guid>
+    </item>
     <item>
       <title>Messsystem detektiert Seekabel am Meeresgrund</title>
       <link>https://www.energieforschung.de/de/aktuelles/interviews/messsystem-detektion-seekabel-meeresgrund-sasacd</link>
@@ -67,13 +74,6 @@
       <description>Dr. Jan Teßmer ist für den Betrieb des DLR-Forschungsparks Windenergie (WiValdi) zuständig. Im Interview spricht er über die aktuelle Forschung.</description>
       <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/interviews/2025/windenergie-wir-koennten-standardsetter-werden</guid>
-    </item>
-    <item>
-      <title>Neues Gesetz soll Geothermie-Ausbau deutlich beschleunigen</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/2025/neues-gesetz-soll-geothermie-ausbau-deutlich-beschleunigen</link>
-      <description>Geothermie-Beschleunigungsgesetz: Das Tempo beim Ausbau von Geothermieanlagen sowie Wärmepumpen, -speichern und -leitungen soll gesteigert werden.</description>
-      <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/2025/neues-gesetz-soll-geothermie-ausbau-deutlich-beschleunigen</guid>
     </item>
   </channel>
 </rss>
