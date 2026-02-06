@@ -4,7 +4,14 @@
     <title>RSS Feed - gebaeudeforum</title>
     <description>Automatically generated RSS feed from gebaeudeforum spider</description>
     <language>de</language>
-    <lastBuildDate>Thu, 05 Feb 2026 04:34:16 </lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 04:34:00 </lastBuildDate>
+    <item>
+      <title>Sozialwohnungsbau in Deutschland</title>
+      <link>https://www.gebaeudeforum.de/wissen/zahlen-daten/gebaeudereport-2026/sozialwohnungsbau-in-deutschland/</link>
+      <description>Die Analyse zeigt seit Jahren sinkende Zahlen an Sozialwohnungen. Eine differenzierte Betrachtung offenbart jedoch regionale Unterschiede.</description>
+      <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.gebaeudeforum.de/wissen/zahlen-daten/gebaeudereport-2026/sozialwohnungsbau-in-deutschland/</guid>
+    </item>
     <item>
       <title>Energetische Sanierung in WEGs</title>
       <link>https://www.gebaeudeforum.de/wissen/zahlen-daten/gebaeudereport-2026/energetische-sanierung-in-wegs/</link>
@@ -67,13 +74,6 @@
       <description>Das Tool unterstützt bei der Prüfung, ob ein Gebäude schon für eine Wärmepumpe geeignet ist – oder welche Maßnahmen dafür noch nötig sind.</description>
       <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://www.gebaeudeforum.de/service/toolbox/gebaeudecheck-waermepumpe/</guid>
-    </item>
-    <item>
-      <title>Info-Film zur Arbeit von Energieberatenden</title>
-      <link>https://www.gebaeudeforum.de/realisieren/qualitaet-am-bau/#c34683</link>
-      <description>Der Info-Film stellt die qualitätsgesicherte Arbeit von Energieberatenden vor und kann u.a. in der Kundenkommunikation genutzt werden.</description>
-      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.gebaeudeforum.de/realisieren/qualitaet-am-bau/#c34683</guid>
     </item>
   </channel>
 </rss>

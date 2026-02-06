@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Thu, 05 Feb 2026 04:34:22 </lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 04:34:06 </lastBuildDate>
+    <item>
+      <title>Wasserstoff aus Biomasse – eine echte Alternative zur Elektrolyse?</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/wasserstoff-aus-biomasse-eisen-bioenergietalk-hycsbiomass</link>
+      <description>Bei der thermochemischen Vergasung von biogenen Reststoffen entstehen Gase, die das Forschungsprojekt HyCS-Biomass zur Wasserstoffgewinnung nutzt.</description>
+      <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/wasserstoff-aus-biomasse-eisen-bioenergietalk-hycsbiomass</guid>
+    </item>
     <item>
       <title>Forschung schützt Energiesystem vor Störfällen und Angriffen</title>
       <link>https://www.energieforschung.de/de/aktuelles/projekteinblicke/2025//versorgungssicherheit-resilienz</link>
@@ -67,13 +74,6 @@
       <description>Der neue Online-Leitfaden „Building Dialogue“ führt Schritt für Schritt durch den komplexen Prozess der energetischen Sanierung.</description>
       <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/building-dialogue-online-tool</guid>
-    </item>
-    <item>
-      <title>„Wir könnten Standardsetter werden“</title>
-      <link>https://www.energieforschung.de/de/aktuelles/interviews/2025/windenergie-wir-koennten-standardsetter-werden</link>
-      <description>Dr. Jan Teßmer ist für den Betrieb des DLR-Forschungsparks Windenergie (WiValdi) zuständig. Im Interview spricht er über die aktuelle Forschung.</description>
-      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/interviews/2025/windenergie-wir-koennten-standardsetter-werden</guid>
     </item>
   </channel>
 </rss>
