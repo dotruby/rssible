@@ -4,7 +4,14 @@
     <title>RSS Feed - gebaeudeforum</title>
     <description>Automatically generated RSS feed from gebaeudeforum spider</description>
     <language>de</language>
-    <lastBuildDate>Tue, 10 Feb 2026 04:45:28 </lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 04:43:56 </lastBuildDate>
+    <item>
+      <title>Quartier mit grünen Achsen</title>
+      <link>https://www.gebaeudeforum.de/best-practice/quartier-mit-gruenen-achsen/</link>
+      <description>Die Gartenstadt Drewitz zeigt, wie aus einer Plattenbausiedlung ein nachhaltiges und klimaresilientes Quartier wird.</description>
+      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.gebaeudeforum.de/best-practice/quartier-mit-gruenen-achsen/</guid>
+    </item>
     <item>
       <title>Sozialwohnungsbau in Deutschland</title>
       <link>https://www.gebaeudeforum.de/wissen/zahlen-daten/gebaeudereport-2026/sozialwohnungsbau-in-deutschland/</link>
@@ -67,13 +74,6 @@
       <description>Das Portal präsentiert mit über 150 Beispielen die vielfältigen Ansätze, mit denen Fachleute an einem klimaneutralen Gebäudebestand arbeiten.</description>
       <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://www.gebaeudeforum.de/best-practice/</guid>
-    </item>
-    <item>
-      <title>Gebäudecheck Wärmepumpe</title>
-      <link>https://www.gebaeudeforum.de/service/toolbox/gebaeudecheck-waermepumpe/</link>
-      <description>Das Tool unterstützt bei der Prüfung, ob ein Gebäude schon für eine Wärmepumpe geeignet ist – oder welche Maßnahmen dafür noch nötig sind.</description>
-      <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.gebaeudeforum.de/service/toolbox/gebaeudecheck-waermepumpe/</guid>
     </item>
   </channel>
 </rss>
