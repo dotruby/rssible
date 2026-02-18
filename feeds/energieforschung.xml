@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Tue, 17 Feb 2026 04:36:56 </lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 04:38:17 </lastBuildDate>
+    <item>
+      <title>Innovative Großbatteriespeicher für ein flexibles und stabiles Stromnetz</title>
+      <link>https://www.energieforschung.de/de/aktuelles/projekteinblicke/grossbatteriespeicher-next-meba</link>
+      <description>Forschungserkenntnisse aus dem Reallabor Next-MeBa sollen zu effizienten, günstigeren, langlebigeren und sichereren Großbatteriespeichern beitragen.</description>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/projekteinblicke/grossbatteriespeicher-next-meba</guid>
+    </item>
     <item>
       <title>„Mit dem Wandel des Strommarktes wird strategisches Bieten immer relevanter“</title>
       <link>https://www.energieforschung.de/de/aktuelles/interviews/forschungsprojekt-bets</link>
@@ -67,13 +74,6 @@
       <description>Für das Forschungsnetzwerk Energiesystemanalyse werden Vorschläge für Workshops beim Jahrestreffen und neue Themengruppen gesucht.</description>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/forschungsnetzwerk-systemanalyse-workshops-themengruppen</guid>
-    </item>
-    <item>
-      <title>„Wir haben zum ersten Mal ein solches Wärmenetz gebaut“</title>
-      <link>https://www.energieforschung.de/de/aktuelles/interviews/reallabor-der-energiewende-transurban-nrw</link>
-      <description>Projektleiter Dr. Christian Wilke von E.ON berichtet aus der Praxis des Reallabors der Energiewende TransUrban.NRW.</description>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/interviews/reallabor-der-energiewende-transurban-nrw</guid>
     </item>
   </channel>
 </rss>
