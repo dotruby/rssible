@@ -4,7 +4,21 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Wed, 18 Feb 2026 04:38:17 </lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 04:37:13 </lastBuildDate>
+    <item>
+      <title>Information zu geänderten Schwellenwerten bei Vergaben</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/information-geaenderte-schwellenwerte-vergaben</link>
+      <description>Aufgrund eines Beschlusses des Bundeskabinettes ändern sich vorübergehend Schwellenwerte bei Vergaben.</description>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/information-geaenderte-schwellenwerte-vergaben</guid>
+    </item>
+    <item>
+      <title>Reallabore gehen in die nächste Runde</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/reallabore-gehen-in-die-naechste-runde</link>
+      <description>Seit Veröffentlichung des Förderaufrufs am 17. November 2025 sind insgesamt 64 Skizzen eingegangen, die nun sukzessive bewertet werden.</description>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/reallabore-gehen-in-die-naechste-runde</guid>
+    </item>
     <item>
       <title>Innovative Großbatteriespeicher für ein flexibles und stabiles Stromnetz</title>
       <link>https://www.energieforschung.de/de/aktuelles/projekteinblicke/grossbatteriespeicher-next-meba</link>
@@ -60,20 +74,6 @@
       <description>Bis zum 28. Januar können Expertinnen und Experten ihre Postervorschläge für den Kongress zur Energieforschung in Industrie und Gewerbe einreichen.</description>
       <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/poster-call-projekte-energieforschung-industrie-gewerbe</guid>
-    </item>
-    <item>
-      <title>Künstliche Intelligenz für mehr Energieeffizienz: Ihre Erfahrungen sind gefragt</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/kuenstliche-intelligenz-energieeffizienz-umfrage-interviews-projekt-etagpt</link>
-      <description>Das Projekt etaGPT startet eine Umfrage für Input zu einem KI-Assistenten, der Industrieunternehmen in der Energieeffizienz unterstützen soll.</description>
-      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/kuenstliche-intelligenz-energieeffizienz-umfrage-interviews-projekt-etagpt</guid>
-    </item>
-    <item>
-      <title>Vorschläge für Workshops und Themengruppen gesucht</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/forschungsnetzwerk-systemanalyse-workshops-themengruppen</link>
-      <description>Für das Forschungsnetzwerk Energiesystemanalyse werden Vorschläge für Workshops beim Jahrestreffen und neue Themengruppen gesucht.</description>
-      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/forschungsnetzwerk-systemanalyse-workshops-themengruppen</guid>
     </item>
   </channel>
 </rss>

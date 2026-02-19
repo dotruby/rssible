@@ -4,7 +4,14 @@
     <title>RSS Feed - gebaeudeforum</title>
     <description>Automatically generated RSS feed from gebaeudeforum spider</description>
     <language>de</language>
-    <lastBuildDate>Wed, 18 Feb 2026 04:38:11 </lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 04:37:06 </lastBuildDate>
+    <item>
+      <title>Energieeffizienz und Netzentlastung</title>
+      <link>https://www.gebaeudeforum.de/realisieren/gebaeude-im-gesamtsystem/optimierung-von-verbrauch-und-erzeugung/energieeffizienz-und-netzentlastung/</link>
+      <description>Energieeffizienz, Digitalisierung und erneuerbare Energien können in einem netzdienlichen Gebäude gemeinsam zur Netzentlastung beitragen.</description>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.gebaeudeforum.de/realisieren/gebaeude-im-gesamtsystem/optimierung-von-verbrauch-und-erzeugung/energieeffizienz-und-netzentlastung/</guid>
+    </item>
     <item>
       <title>Newsletter mit Fachinformationen, Best Practices und aktuellen Terminen</title>
       <link>https://www.gebaeudeforum.de/service/newsletter/</link>
@@ -67,13 +74,6 @@
       <description>Die vertiefende Analyse auf Datenbasis des dena-Gebäudereports 2026 zeigt deutliche regionale Unterschiede im Wohnungsbau.</description>
       <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://www.gebaeudeforum.de/wissen/zahlen-daten/gebaeudereport-2026/wohnungsbau-in-deutschland/</guid>
-    </item>
-    <item>
-      <title>Pro-Kopf-Endenergieverbrauch</title>
-      <link>https://www.gebaeudeforum.de/wissen/zahlen-daten/gebaeudereport-2026/pro-kopf-endenergieverbrauch/</link>
-      <description>Die vertiefende Datenanalyse beschäftigt sich mit dem Endenergieverbrauch pro Kopf in den Gemeinden und dessen regionaler Verteilung.</description>
-      <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.gebaeudeforum.de/wissen/zahlen-daten/gebaeudereport-2026/pro-kopf-endenergieverbrauch/</guid>
     </item>
   </channel>
 </rss>
