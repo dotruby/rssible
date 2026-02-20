@@ -4,7 +4,14 @@
     <title>RSS Feed - gebaeudeforum</title>
     <description>Automatically generated RSS feed from gebaeudeforum spider</description>
     <language>de</language>
-    <lastBuildDate>Thu, 19 Feb 2026 04:37:06 </lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 04:33:54 </lastBuildDate>
+    <item>
+      <title>Heizungsmonitoring</title>
+      <link>https://www.gebaeudeforum.de/realisieren/gebaeude-im-gesamtsystem/optimierung-von-verbrauch-und-erzeugung/heizungsmonitoring/</link>
+      <description>Digitale Lösungen senken Kosten, erhöhen den Komfort und unterstützen Wohnungs­unternehmen bei der Umsetzung regulatorischer Anforderungen.</description>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.gebaeudeforum.de/realisieren/gebaeude-im-gesamtsystem/optimierung-von-verbrauch-und-erzeugung/heizungsmonitoring/</guid>
+    </item>
     <item>
       <title>Energieeffizienz und Netzentlastung</title>
       <link>https://www.gebaeudeforum.de/realisieren/gebaeude-im-gesamtsystem/optimierung-von-verbrauch-und-erzeugung/energieeffizienz-und-netzentlastung/</link>
@@ -67,13 +74,6 @@
       <description>Diese vertiefende Analyse auf Basis des Gebäudereports 2026 befasst sich mit der Entwicklung des Holzbaus nach Gebäudetyp und Region.</description>
       <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://www.gebaeudeforum.de/wissen/zahlen-daten/gebaeudereport-2026/holzbau-in-deutschland/</guid>
-    </item>
-    <item>
-      <title>Wohnungsbau in Deutschland</title>
-      <link>https://www.gebaeudeforum.de/wissen/zahlen-daten/gebaeudereport-2026/wohnungsbau-in-deutschland/</link>
-      <description>Die vertiefende Analyse auf Datenbasis des dena-Gebäudereports 2026 zeigt deutliche regionale Unterschiede im Wohnungsbau.</description>
-      <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.gebaeudeforum.de/wissen/zahlen-daten/gebaeudereport-2026/wohnungsbau-in-deutschland/</guid>
     </item>
   </channel>
 </rss>
