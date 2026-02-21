@@ -4,7 +4,14 @@
     <title>RSS Feed - gebaeudeforum</title>
     <description>Automatically generated RSS feed from gebaeudeforum spider</description>
     <language>de</language>
-    <lastBuildDate>Fri, 20 Feb 2026 04:33:54 </lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 04:31:17 </lastBuildDate>
+    <item>
+      <title>Förderung für vernetzte Gesamtsysteme</title>
+      <link>https://www.gebaeudeforum.de/realisieren/gebaeude-im-gesamtsystem/regulatorik-und-implementierung/foerderung-fuer-vernetzte-gesamtsysteme/</link>
+      <description>Der Förderwegweiser des KEDi bietet einen Überblick zu Fördermöglichkeiten für die Transformation von Gebäuden zu vernetzen Gesamtsystemen.</description>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.gebaeudeforum.de/realisieren/gebaeude-im-gesamtsystem/regulatorik-und-implementierung/foerderung-fuer-vernetzte-gesamtsysteme/</guid>
+    </item>
     <item>
       <title>Heizungsmonitoring</title>
       <link>https://www.gebaeudeforum.de/realisieren/gebaeude-im-gesamtsystem/optimierung-von-verbrauch-und-erzeugung/heizungsmonitoring/</link>
@@ -67,13 +74,6 @@
       <description>Die Datenanlyse auf Basis des Gebäudereports 2026 gibt einen Überblick zu Anzahl, Förderung und regionaler Verteilung von Steckersolar-Anlagen.</description>
       <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://www.gebaeudeforum.de/wissen/zahlen-daten/gebaeudereport-2026/steckersolar-anlagen/</guid>
-    </item>
-    <item>
-      <title>Holzbau in Deutschland</title>
-      <link>https://www.gebaeudeforum.de/wissen/zahlen-daten/gebaeudereport-2026/holzbau-in-deutschland/</link>
-      <description>Diese vertiefende Analyse auf Basis des Gebäudereports 2026 befasst sich mit der Entwicklung des Holzbaus nach Gebäudetyp und Region.</description>
-      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.gebaeudeforum.de/wissen/zahlen-daten/gebaeudereport-2026/holzbau-in-deutschland/</guid>
     </item>
   </channel>
 </rss>
