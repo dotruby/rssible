@@ -4,7 +4,14 @@
     <title>RSS Feed - gebaeudeforum</title>
     <description>Automatically generated RSS feed from gebaeudeforum spider</description>
     <language>de</language>
-    <lastBuildDate>Mon, 23 Feb 2026 04:40:43 </lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 04:36:04 </lastBuildDate>
+    <item>
+      <title>Monitoringvorgaben des GEG</title>
+      <link>https://www.gebaeudeforum.de/realisieren/gebaeude-im-gesamtsystem/regulatorik-und-implementierung/monitoringvorgaben-des-geg/</link>
+      <description>Das kontinuierliche Monitoring von gebäudetechnischen Systemen ist auch im Gebäudeenergiegesetz verankert.</description>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.gebaeudeforum.de/realisieren/gebaeude-im-gesamtsystem/regulatorik-und-implementierung/monitoringvorgaben-des-geg/</guid>
+    </item>
     <item>
       <title>Förderung für vernetzte Gesamtsysteme</title>
       <link>https://www.gebaeudeforum.de/realisieren/gebaeude-im-gesamtsystem/regulatorik-und-implementierung/foerderung-fuer-vernetzte-gesamtsysteme/</link>
@@ -67,13 +74,6 @@
       <description>Von der kommunalen Wärmeplanung bis zum Anteil Erneuerbarer in Wärmenetzen: Neue Daten zeigen den aktuellen Stand der Wärmewende.</description>
       <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://www.gebaeudeforum.de/wissen/zahlen-daten/gebaeudereport-2026/waermewende-in-deutschland/</guid>
-    </item>
-    <item>
-      <title>Steckersolar-Anlagen</title>
-      <link>https://www.gebaeudeforum.de/wissen/zahlen-daten/gebaeudereport-2026/steckersolar-anlagen/</link>
-      <description>Die Datenanlyse auf Basis des Gebäudereports 2026 gibt einen Überblick zu Anzahl, Förderung und regionaler Verteilung von Steckersolar-Anlagen.</description>
-      <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.gebaeudeforum.de/wissen/zahlen-daten/gebaeudereport-2026/steckersolar-anlagen/</guid>
     </item>
   </channel>
 </rss>
