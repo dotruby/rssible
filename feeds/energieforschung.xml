@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Tue, 24 Feb 2026 04:36:10 </lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 04:37:19 </lastBuildDate>
+    <item>
+      <title>Effizienzpotenziale von Blockheizkraftwerken besser nutzen</title>
+      <link>https://www.energieforschung.de/de/aktuelles/interviews/mikroprojekt-eqboosterht</link>
+      <description>Im Mikroprojekt eQBoosterHT hat ein Team erforscht, welche Effizienzgewinne Absorptionswärmepumpen an Blockheizkraftwerken bringen.</description>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/interviews/mikroprojekt-eqboosterht</guid>
+    </item>
     <item>
       <title>Information zu geänderten Schwellenwerten bei Vergaben</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/information-geaenderte-schwellenwerte-vergaben</link>
@@ -67,13 +74,6 @@
       <description>Wie der Rücklauf in geothermischen Fernwärmenetzen effizienter genutzt werden kann, erläutert Manuel Riepl vom Mikroprojekt AbsoFern im Interview.</description>
       <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/interviews/mikroprojekt-absofern</guid>
-    </item>
-    <item>
-      <title>Projekte aus der Energieforschung für Industrie und Gewerbe sichtbar machen</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/poster-call-projekte-energieforschung-industrie-gewerbe</link>
-      <description>Bis zum 28. Januar können Expertinnen und Experten ihre Postervorschläge für den Kongress zur Energieforschung in Industrie und Gewerbe einreichen.</description>
-      <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/poster-call-projekte-energieforschung-industrie-gewerbe</guid>
     </item>
   </channel>
 </rss>

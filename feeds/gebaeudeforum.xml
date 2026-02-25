@@ -4,7 +4,14 @@
     <title>RSS Feed - gebaeudeforum</title>
     <description>Automatically generated RSS feed from gebaeudeforum spider</description>
     <language>de</language>
-    <lastBuildDate>Tue, 24 Feb 2026 04:36:04 </lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 04:37:12 </lastBuildDate>
+    <item>
+      <title>Datensicherheit im Smart Building</title>
+      <link>https://www.gebaeudeforum.de/realisieren/gebaeude-im-gesamtsystem/regulatorik-und-implementierung/datensicherheit/</link>
+      <description>Für Datensicherheit und -schutz im vernetzten Gebäudeenergiesystem gelten unterschiedliche rechtliche und technische Rahmenbedingungen.</description>
+      <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.gebaeudeforum.de/realisieren/gebaeude-im-gesamtsystem/regulatorik-und-implementierung/datensicherheit/</guid>
+    </item>
     <item>
       <title>Monitoringvorgaben des GEG</title>
       <link>https://www.gebaeudeforum.de/realisieren/gebaeude-im-gesamtsystem/regulatorik-und-implementierung/monitoringvorgaben-des-geg/</link>
@@ -67,13 +74,6 @@
       <description>Die Seite bietet Einblicke in die Ausgangslage, Einstellungen und Planungen von WEGs im Hinblick auf energetische Sanierungen.</description>
       <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://www.gebaeudeforum.de/wissen/zahlen-daten/gebaeudereport-2026/energetische-sanierung-in-wegs/</guid>
-    </item>
-    <item>
-      <title>Wärmewende in Deutschland</title>
-      <link>https://www.gebaeudeforum.de/wissen/zahlen-daten/gebaeudereport-2026/waermewende-in-deutschland/</link>
-      <description>Von der kommunalen Wärmeplanung bis zum Anteil Erneuerbarer in Wärmenetzen: Neue Daten zeigen den aktuellen Stand der Wärmewende.</description>
-      <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.gebaeudeforum.de/wissen/zahlen-daten/gebaeudereport-2026/waermewende-in-deutschland/</guid>
     </item>
   </channel>
 </rss>
