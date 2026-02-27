@@ -4,13 +4,27 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Thu, 26 Feb 2026 04:35:06 </lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 04:33:35 </lastBuildDate>
     <item>
       <title>Effizienzpotenziale von Blockheizkraftwerken besser nutzen</title>
       <link>https://www.energieforschung.de/de/aktuelles/interviews/mikroprojekt-eqboosterht</link>
       <description>Im Mikroprojekt eQBoosterHT hat ein Team erforscht, welche Effizienzgewinne Absorptionswärmepumpen an Blockheizkraftwerken bringen.</description>
       <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/interviews/mikroprojekt-eqboosterht</guid>
+    </item>
+    <item>
+      <title>Geothermie-Fachmesse: Von Forschungsprojekten und Förderberatung bis zu Bohrtechnik und Wärmepumpen</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/geothermie-fachmesse-geotherm-forschung-foerderberatung-bohrtechnik-waermepumpen</link>
+      <description>Die GeoTHERM hat sich zur weltweit größten Fachmesse zum Thema Geothermie entwickelt. Dieses Jahr findet sie am 26. &amp; 27. Februar in Offenburg statt.</description>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/geothermie-fachmesse-geotherm-forschung-foerderberatung-bohrtechnik-waermepumpen</guid>
+    </item>
+    <item>
+      <title>Hohe Nachfrage nach Tests an Hochleistungselektronik</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/hipe-lab-hohe-nachfrage-tests-hochleistungselektronik</link>
+      <description>Drei Jahre nach Projektabschluss des Förderprojekts HiPE-WiND ist das Testlabor an der Universität Bremen im Jahr 2025 erstmals komplett ausgebucht.</description>
+      <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/hipe-lab-hohe-nachfrage-tests-hochleistungselektronik</guid>
     </item>
     <item>
       <title>Information zu geänderten Schwellenwerten bei Vergaben</title>
@@ -53,27 +67,6 @@
       <description>Um das Energiesystem resilient und zukunftssicher zu gestalten, fördert das BMWE Forschung, die das System vor Angriffen und Ausfällen schützt.</description>
       <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/projekteinblicke/versorgungssicherheit-resilienz</guid>
-    </item>
-    <item>
-      <title>Messsystem detektiert Seekabel am Meeresgrund</title>
-      <link>https://www.energieforschung.de/de/aktuelles/interviews/messsystem-detektion-seekabel-meeresgrund-sasacd</link>
-      <description>Mit seismoakustischen Abbildungsverfahren vermisst das neuentwickelte System aus dem Projekt SASACD den Meeresgrund und detektiert etwa Seekabel.</description>
-      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/interviews/messsystem-detektion-seekabel-meeresgrund-sasacd</guid>
-    </item>
-    <item>
-      <title>Neue Website bündelt Forschung zu „Energiewende und Gesellschaft“</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/website-forschung-energiewende-und-gesellschaft-bewegt</link>
-      <description>Die Begleitforschung BEWEGT richtet sich mit einer neuen Website sowohl an Wirtschaft und Politik als auch an Bürgerinnen und Bürger.</description>
-      <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/website-forschung-energiewende-und-gesellschaft-bewegt</guid>
-    </item>
-    <item>
-      <title>Bis zu 30 Prozent mehr Wärme aus Geothermie gewinnen</title>
-      <link>https://www.energieforschung.de/de/aktuelles/interviews/mikroprojekt-absofern</link>
-      <description>Wie der Rücklauf in geothermischen Fernwärmenetzen effizienter genutzt werden kann, erläutert Manuel Riepl vom Mikroprojekt AbsoFern im Interview.</description>
-      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/interviews/mikroprojekt-absofern</guid>
     </item>
   </channel>
 </rss>
