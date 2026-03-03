@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Mon, 02 Mar 2026 04:34:32 </lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 04:34:00 </lastBuildDate>
+    <item>
+      <title>Innovationswettbewerb</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/foerderaufruf-wettbewerb-schwimmbad-urban-wave</link>
+      <description>Im Fokus steht die energetische Modernisierung kommunaler Bestandsbäder. In drei Phasen werden Konzept, Bau und Betrieb gefördert und prämiert.</description>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/foerderaufruf-wettbewerb-schwimmbad-urban-wave</guid>
+    </item>
     <item>
       <title>Effizienzpotenziale von Blockheizkraftwerken besser nutzen</title>
       <link>https://www.energieforschung.de/de/aktuelles/interviews/mikroprojekt-eqboosterht</link>
@@ -60,13 +67,6 @@
       <description>Bei der thermochemischen Vergasung von biogenen Reststoffen entstehen Gase, die das Forschungsprojekt HyCS-Biomass zur Wasserstoffgewinnung nutzt.</description>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/wasserstoff-aus-biomasse-eisen-bioenergietalk-hycsbiomass</guid>
-    </item>
-    <item>
-      <title>Forschung schützt Energiesystem vor Störfällen und Angriffen</title>
-      <link>https://www.energieforschung.de/de/aktuelles/projekteinblicke/versorgungssicherheit-resilienz</link>
-      <description>Um das Energiesystem resilient und zukunftssicher zu gestalten, fördert das BMWE Forschung, die das System vor Angriffen und Ausfällen schützt.</description>
-      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/projekteinblicke/versorgungssicherheit-resilienz</guid>
     </item>
   </channel>
 </rss>
