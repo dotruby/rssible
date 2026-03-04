@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Tue, 03 Mar 2026 04:34:00 </lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 04:32:00 </lastBuildDate>
+    <item>
+      <title>Förderformat vorkommerzielle Auftragsvergabe: Interessierte für Marktkonsultation gesucht</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/neues-foerderformat-vorkommerzielle-auftragsvergabe-marktkonsultation</link>
+      <description>Für das neue Förderformat der vorkommerziellen Auftragsvergabe Pre-Commercial Procurement werden Interessierte für einen Konsultationsprozess gesucht.</description>
+      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/neues-foerderformat-vorkommerzielle-auftragsvergabe-marktkonsultation</guid>
+    </item>
     <item>
       <title>Innovationswettbewerb</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/foerderaufruf-wettbewerb-schwimmbad-urban-wave</link>
@@ -60,13 +67,6 @@
       <description>Warum strategisches Bieten an der Strombörse immer relevanter wird, erläutert Prof. Dr. Marc Deissenroth-Uhrig vom Projekt BETS im Interview.</description>
       <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/interviews/forschungsprojekt-bets</guid>
-    </item>
-    <item>
-      <title>Wasserstoff aus Biomasse – eine echte Alternative zur Elektrolyse?</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/wasserstoff-aus-biomasse-eisen-bioenergietalk-hycsbiomass</link>
-      <description>Bei der thermochemischen Vergasung von biogenen Reststoffen entstehen Gase, die das Forschungsprojekt HyCS-Biomass zur Wasserstoffgewinnung nutzt.</description>
-      <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/wasserstoff-aus-biomasse-eisen-bioenergietalk-hycsbiomass</guid>
     </item>
   </channel>
 </rss>
