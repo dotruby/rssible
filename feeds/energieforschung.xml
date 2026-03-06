@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Thu, 05 Mar 2026 04:33:24 </lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 04:32:46 </lastBuildDate>
+    <item>
+      <title>KI-Regelung macht industrielle Kälteversorgung energieeffizienter</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/ki-regelung-macht-industrielle-kaelteversorgung-energieeffizienter</link>
+      <description>Ob schwankende Strompreise oder variierende Wärmebedarfe: Mit dem Einsatz von KI wird der Betrieb von industriellen Kältesystemen optimiert.</description>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/ki-regelung-macht-industrielle-kaelteversorgung-energieeffizienter</guid>
+    </item>
     <item>
       <title>Förderformat vorkommerzielle Auftragsvergabe: Interessierte für Marktkonsultation gesucht</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/neues-foerderformat-vorkommerzielle-auftragsvergabe-marktkonsultation</link>
@@ -60,13 +67,6 @@
       <description>Forschungserkenntnisse aus dem Reallabor Next-MeBa sollen zu effizienten, günstigeren, langlebigeren und sichereren Großbatteriespeichern beitragen.</description>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/projekteinblicke/grossbatteriespeicher-next-meba</guid>
-    </item>
-    <item>
-      <title>„Mit dem Wandel des Strommarktes wird strategisches Bieten immer relevanter“</title>
-      <link>https://www.energieforschung.de/de/aktuelles/interviews/forschungsprojekt-bets</link>
-      <description>Warum strategisches Bieten an der Strombörse immer relevanter wird, erläutert Prof. Dr. Marc Deissenroth-Uhrig vom Projekt BETS im Interview.</description>
-      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/interviews/forschungsprojekt-bets</guid>
     </item>
   </channel>
 </rss>
