@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Wed, 11 Mar 2026 04:34:07 </lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 04:33:21 </lastBuildDate>
+    <item>
+      <title>Urban Vibro Truck gewinnt renommierte Geothermie-Auszeichnung</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/urban-vibro-truck-geothermie-auszeichnung-innovation-seismisches-messfahrzeug</link>
+      <description>Der im Forschungsprojekt UVT entwickelte „Urban Vibro Truck“ ist auf der diesjährigen GeoTHERM-Messe mit einem Innovationspreis ausgezeichnet worden.</description>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/urban-vibro-truck-geothermie-auszeichnung-innovation-seismisches-messfahrzeug</guid>
+    </item>
     <item>
       <title>KI-Regelung macht industrielle Kälteversorgung energieeffizienter</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/ki-regelung-macht-industrielle-kaelteversorgung-energieeffizienter</link>
@@ -60,13 +67,6 @@
       <description>Seit Veröffentlichung des Förderaufrufs am 17. November 2025 sind insgesamt 62 Skizzen eingegangen, die nun sukzessive bewertet werden.</description>
       <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/reallabore-gehen-in-die-naechste-runde</guid>
-    </item>
-    <item>
-      <title>Innovative Großbatteriespeicher für ein flexibles und stabiles Stromnetz</title>
-      <link>https://www.energieforschung.de/de/aktuelles/projekteinblicke/grossbatteriespeicher-next-meba</link>
-      <description>Forschungserkenntnisse aus dem Reallabor Next-MeBa sollen zu effizienten, günstigeren, langlebigeren und sichereren Großbatteriespeichern beitragen.</description>
-      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/projekteinblicke/grossbatteriespeicher-next-meba</guid>
     </item>
   </channel>
 </rss>
