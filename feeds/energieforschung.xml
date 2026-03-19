@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Wed, 18 Mar 2026 04:39:28 </lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 04:38:32 </lastBuildDate>
+    <item>
+      <title>Mehr Strom verfügbar machen dank optimiertem Batteriegroßspeicher</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/optimierte-batteriegrossspeicher-mehr-strom-bmsmart</link>
+      <description>Zustandsdiagnose und gekoppeltes Multi-Use-Management: Ergebnisse des Projekts BMSmart machen Batteriegroßspeicher wirtschaftlicher und effizienter.</description>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/optimierte-batteriegrossspeicher-mehr-strom-bmsmart</guid>
+    </item>
     <item>
       <title>Urban Vibro Truck gewinnt renommierte Geothermie-Auszeichnung</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/urban-vibro-truck-geothermie-auszeichnung-innovation-seismisches-messfahrzeug</link>
@@ -60,13 +67,6 @@
       <description>Aufgrund eines Beschlusses des Bundeskabinettes ändern sich vorübergehend Schwellenwerte bei Vergaben.</description>
       <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/information-geaenderte-schwellenwerte-vergaben</guid>
-    </item>
-    <item>
-      <title>Reallabore gehen in die nächste Runde</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/reallabore-gehen-in-die-naechste-runde</link>
-      <description>Seit Veröffentlichung des Förderaufrufs am 17. November 2025 sind insgesamt 62 Skizzen eingegangen, die nun sukzessive bewertet werden.</description>
-      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/reallabore-gehen-in-die-naechste-runde</guid>
     </item>
   </channel>
 </rss>
