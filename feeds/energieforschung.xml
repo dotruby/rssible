@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Thu, 19 Mar 2026 04:38:32 </lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 04:34:01 </lastBuildDate>
+    <item>
+      <title>Rekordwirkungsgrade: Effiziente Tandem-Photovoltaikmodule für begrenzte Flächen</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/rekordwirkungsgrade-hocheffiziente-tandem-photovoltaikmodule-vorfahrt-mod30plus</link>
+      <description>In den Verbundprojekten „Vorfahrt“ und „Mod30plus“ sind bedeutende Fortschritte bei hocheffizienten Photovoltaikmodulen gelungen.</description>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/rekordwirkungsgrade-hocheffiziente-tandem-photovoltaikmodule-vorfahrt-mod30plus</guid>
+    </item>
     <item>
       <title>Mehr Strom verfügbar machen dank optimiertem Batteriegroßspeicher</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/optimierte-batteriegrossspeicher-mehr-strom-bmsmart</link>
@@ -60,13 +67,6 @@
       <description>Drei Jahre nach Projektabschluss des Förderprojekts HiPE-WiND ist das Testlabor an der Universität Bremen im Jahr 2025 komplett ausgebucht gewesen.</description>
       <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/hipe-lab-hohe-nachfrage-tests-hochleistungselektronik</guid>
-    </item>
-    <item>
-      <title>Information zu geänderten Schwellenwerten bei Vergaben</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/information-geaenderte-schwellenwerte-vergaben</link>
-      <description>Aufgrund eines Beschlusses des Bundeskabinettes ändern sich vorübergehend Schwellenwerte bei Vergaben.</description>
-      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/information-geaenderte-schwellenwerte-vergaben</guid>
     </item>
   </channel>
 </rss>
