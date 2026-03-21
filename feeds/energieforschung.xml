@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Fri, 20 Mar 2026 04:34:01 </lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 04:31:44 </lastBuildDate>
+    <item>
+      <title>KI beschleunigt die Planung von Gebäudeenergiesystemen</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/ki-beschleunigt-planung-gebaeudeenergiesysteme-energieversorgung-smartprior</link>
+      <description>KI beschleunigt die Planung von Gebäudeenergiesystemen: SmartPrior ermöglicht schnelle Analysen und fundierte Entscheidungen.</description>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/ki-beschleunigt-planung-gebaeudeenergiesysteme-energieversorgung-smartprior</guid>
+    </item>
     <item>
       <title>Rekordwirkungsgrade: Effiziente Tandem-Photovoltaikmodule für begrenzte Flächen</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/rekordwirkungsgrade-hocheffiziente-tandem-photovoltaikmodule-vorfahrt-mod30plus</link>
@@ -60,13 +67,6 @@
       <description>Die GeoTHERM hat sich zur weltweit größten Fachmesse zum Thema Geothermie entwickelt. Dieses Jahr findet sie am 26. &amp; 27. Februar in Offenburg statt.</description>
       <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/geothermie-fachmesse-geotherm-forschung-foerderberatung-bohrtechnik-waermepumpen</guid>
-    </item>
-    <item>
-      <title>Hohe Nachfrage nach Tests an Hochleistungselektronik</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/hipe-lab-hohe-nachfrage-tests-hochleistungselektronik</link>
-      <description>Drei Jahre nach Projektabschluss des Förderprojekts HiPE-WiND ist das Testlabor an der Universität Bremen im Jahr 2025 komplett ausgebucht gewesen.</description>
-      <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/hipe-lab-hohe-nachfrage-tests-hochleistungselektronik</guid>
     </item>
   </channel>
 </rss>
