@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Tue, 24 Mar 2026 04:37:07 </lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 04:38:45 </lastBuildDate>
+    <item>
+      <title>Mit neuer Beschichtung zu nachhaltigeren Lebensmittelverpackungen</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/beschichtung_nachaltige_lebensmittelverpackungen</link>
+      <description>Kostenvorteil: Dank einer neuen Beschichtung können Lebensmittelverpackungen jetzt auch in den Papier-Recycling-Kreislauf eingebunden werden.</description>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/beschichtung_nachaltige_lebensmittelverpackungen</guid>
+    </item>
     <item>
       <title>KI beschleunigt die Planung von Gebäudeenergiesystemen</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/ki-beschleunigt-planung-gebaeudeenergiesysteme-energieversorgung-smartprior</link>
@@ -60,13 +67,6 @@
       <description>Im Mikroprojekt eQBoosterHT hat ein Team erforscht, welche Effizienzgewinne Absorptionswärmepumpen an Blockheizkraftwerken bringen.</description>
       <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/interviews/mikroprojekt-eqboosterht</guid>
-    </item>
-    <item>
-      <title>Geothermie-Fachmesse: Von Forschungsprojekten und Förderberatung bis zu Bohrtechnik und Wärmepumpen</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/geothermie-fachmesse-geotherm-forschung-foerderberatung-bohrtechnik-waermepumpen</link>
-      <description>Die GeoTHERM hat sich zur weltweit größten Fachmesse zum Thema Geothermie entwickelt. Dieses Jahr findet sie am 26. &amp; 27. Februar in Offenburg statt.</description>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/geothermie-fachmesse-geotherm-forschung-foerderberatung-bohrtechnik-waermepumpen</guid>
     </item>
   </channel>
 </rss>
