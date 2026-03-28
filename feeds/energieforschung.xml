@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Fri, 27 Mar 2026 04:46:51 </lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 04:37:48 </lastBuildDate>
+    <item>
+      <title>Lösungen schaffen: BMWE auf den Berliner Energietagen 2026</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/loesungen-schaffen-bmwe-berliner-energietage-2026</link>
+      <description>Das Bundesministerium für Wirtschaft und Energie ist mit mehreren Veranstaltungen auf den Berliner Energietagen 2026 aktiv.</description>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/loesungen-schaffen-bmwe-berliner-energietage-2026</guid>
+    </item>
     <item>
       <title>Mit neuer Beschichtung zu nachhaltigeren Lebensmittelverpackungen</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/beschichtung-nachaltige-lebensmittelverpackungen</link>
@@ -60,13 +67,6 @@
       <description>Im Fokus steht die energetische Modernisierung kommunaler Bestandsbäder. In drei Phasen werden Konzept, Bau und Betrieb gefördert und prämiert.</description>
       <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/foerderaufruf-wettbewerb-schwimmbad-urban-wave</guid>
-    </item>
-    <item>
-      <title>Effizienzpotenziale von Blockheizkraftwerken besser nutzen</title>
-      <link>https://www.energieforschung.de/de/aktuelles/interviews/mikroprojekt-eqboosterht</link>
-      <description>Im Mikroprojekt eQBoosterHT hat ein Team erforscht, welche Effizienzgewinne Absorptionswärmepumpen an Blockheizkraftwerken bringen.</description>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/interviews/mikroprojekt-eqboosterht</guid>
     </item>
   </channel>
 </rss>
