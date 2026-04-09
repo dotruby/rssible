@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Wed, 08 Apr 2026 04:49:49 </lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 04:47:13 </lastBuildDate>
+    <item>
+      <title>Effizienzrekorde und deutliche Leistungsunterschiede: Stromspeicher-Inspektion 2026</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/stromspeicher-inspektion-2026-vergleich-photovoltaik-speichersysteme-effizienzrekorde-pv-speicher</link>
+      <description>Die HTW Berlin hat ihre Stromspeicher-Inspektion 2026 veröffentlicht. Das Projekt PV-Speicher bildet die wissenschaftliche Grundlage der Studie.</description>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/stromspeicher-inspektion-2026-vergleich-photovoltaik-speichersysteme-effizienzrekorde-pv-speicher</guid>
+    </item>
     <item>
       <title>„Klimaziele einhalten und zugleich das Energiesystem robust gestalten muss kein Widerspruch sein“</title>
       <link>https://www.energieforschung.de/de/aktuelles/interviews/klimaziele-einhalten-energiesystem-robust-gestalten-forschungsvorhaben-rewards</link>
@@ -67,13 +74,6 @@
       <description>Für das neue Förderformat der vorkommerziellen Auftragsvergabe Pre-Commercial Procurement werden Interessierte für einen Konsultationsprozess gesucht.</description>
       <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/neues-foerderformat-vorkommerzielle-auftragsvergabe-marktkonsultation</guid>
-    </item>
-    <item>
-      <title>Innovationswettbewerb</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/foerderaufruf-wettbewerb-schwimmbad-urban-wave</link>
-      <description>Im Fokus steht die energetische Modernisierung kommunaler Bestandsbäder. In drei Phasen werden Konzept, Bau und Betrieb gefördert und prämiert.</description>
-      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/foerderaufruf-wettbewerb-schwimmbad-urban-wave</guid>
     </item>
   </channel>
 </rss>
