@@ -4,7 +4,21 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Fri, 10 Apr 2026 04:57:45 </lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 04:39:04 </lastBuildDate>
+    <item>
+      <title>Auftakt für BEWEGT: Forschende wollen Gesellschaftsforschung stärken</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/auftakt-bewegt-gesellschaftsforschung</link>
+      <description>Vernetzen, mitgestalten, bewegen: Das war das Ziel der zweitägigen Auftaktveranstaltung der Begleitforschung BEWEGT Mitte März in Berlin.</description>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/auftakt-bewegt-gesellschaftsforschung</guid>
+    </item>
+    <item>
+      <title>Salzkavernen als flexible Wasserstoffspeicher</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/salzkavernen-wasserstoffspeicher-pilotprojekt-h2cast-etzel</link>
+      <description>Das optimale Betriebsverfahren für Salzkavernen als Speicher für Wasserstoff testen Forschende aktuell im Pilotprojekt H2CAST Etzel in Niedersachsen.</description>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/salzkavernen-wasserstoffspeicher-pilotprojekt-h2cast-etzel</guid>
+    </item>
     <item>
       <title>Effizienzrekorde und deutliche Leistungsunterschiede: Stromspeicher-Inspektion 2026</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/stromspeicher-inspektion-2026-vergleich-photovoltaik-speichersysteme-effizienzrekorde-pv-speicher</link>
@@ -60,20 +74,6 @@
       <description>Der im Forschungsprojekt UVT entwickelte „Urban Vibro Truck“ ist auf der diesjährigen GeoTHERM-Messe mit einem Innovationspreis ausgezeichnet worden.</description>
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/urban-vibro-truck-geothermie-auszeichnung-innovation-seismisches-messfahrzeug</guid>
-    </item>
-    <item>
-      <title>KI-Regelung macht industrielle Kälteversorgung energieeffizienter</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/ki-regelung-macht-industrielle-kaelteversorgung-energieeffizienter</link>
-      <description>Ob schwankende Strompreise oder variierende Wärmebedarfe: Mit dem Einsatz von KI wird der Betrieb von industriellen Kältesystemen optimiert.</description>
-      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/ki-regelung-macht-industrielle-kaelteversorgung-energieeffizienter</guid>
-    </item>
-    <item>
-      <title>Förderformat vorkommerzielle Auftragsvergabe: Interessierte für Marktkonsultation gesucht</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/neues-foerderformat-vorkommerzielle-auftragsvergabe-marktkonsultation</link>
-      <description>Für das neue Förderformat der vorkommerziellen Auftragsvergabe Pre-Commercial Procurement werden Interessierte für einen Konsultationsprozess gesucht.</description>
-      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/neues-foerderformat-vorkommerzielle-auftragsvergabe-marktkonsultation</guid>
     </item>
   </channel>
 </rss>
