@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Tue, 14 Apr 2026 04:56:34 </lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 04:56:35 </lastBuildDate>
+    <item>
+      <title>20 Jahre ZIEHL – Hochtemperatursupraleiter für den Umbau des Energiesystems</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/hochtemperatursupraleiter-transformation-energiesystem-htsl-ziehl-jahrestagung</link>
+      <description>Stromnetze müssen leistungsfähiger und effizienter werden. Die ZIEHL 2026 zeigt, welchen Beitrag Hochtemperatursupraleiter dazu leisten können.</description>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/hochtemperatursupraleiter-transformation-energiesystem-htsl-ziehl-jahrestagung</guid>
+    </item>
     <item>
       <title>Auftakt für BEWEGT: Forschende wollen Gesellschaftsforschung stärken</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/auftakt-bewegt-gesellschaftsforschung</link>
@@ -67,13 +74,6 @@
       <description>Zustandsdiagnose und gekoppeltes Multi-Use-Management: Ergebnisse des Projekts BMSmart machen Batteriegroßspeicher wirtschaftlicher und effizienter.</description>
       <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/optimierte-batteriegrossspeicher-mehr-strom-bmsmart</guid>
-    </item>
-    <item>
-      <title>Urban Vibro Truck gewinnt renommierte Geothermie-Auszeichnung</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/urban-vibro-truck-geothermie-auszeichnung-innovation-seismisches-messfahrzeug</link>
-      <description>Der im Forschungsprojekt UVT entwickelte „Urban Vibro Truck“ ist auf der diesjährigen GeoTHERM-Messe mit einem Innovationspreis ausgezeichnet worden.</description>
-      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/urban-vibro-truck-geothermie-auszeichnung-innovation-seismisches-messfahrzeug</guid>
     </item>
   </channel>
 </rss>
