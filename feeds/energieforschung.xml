@@ -4,7 +4,21 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Thu, 16 Apr 2026 05:00:45 </lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 04:59:03 </lastBuildDate>
+    <item>
+      <title>BMWE startet neuen Förderaufruf MODEX-2 für Modellvergleiche</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/foerderaufruf-modellvergleiche-veroeffentlicht-modex-2</link>
+      <description>Das BMWE veröffentlicht einen neuen Förderaufruf für mehr Transparenz und Vergleichbarkeit von systemanalytischen Modellen.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/foerderaufruf-modellvergleiche-veroeffentlicht-modex-2</guid>
+    </item>
+    <item>
+      <title>Fernwärmeleitungen effizienter sanieren</title>
+      <link>https://www.energieforschung.de/de/aktuelles/projekteinblicke/sanierung-fernwaermeleitungen-vereinfacht</link>
+      <description>Wie die erforderliche Sanierung von Fernwärmenetzen effizienter als bisher erfolgen kann, zeigen mehrere BMWE-Förderprojekte.</description>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/projekteinblicke/sanierung-fernwaermeleitungen-vereinfacht</guid>
+    </item>
     <item>
       <title>20 Jahre ZIEHL – Hochtemperatursupraleiter für den Umbau des Energiesystems</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/hochtemperatursupraleiter-transformation-energiesystem-htsl-ziehl-jahrestagung</link>
@@ -60,20 +74,6 @@
       <description>KI beschleunigt die Planung von Gebäudeenergiesystemen: SmartPrior ermöglicht schnelle Analysen und fundierte Entscheidungen.</description>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/ki-beschleunigt-planung-gebaeudeenergiesysteme-energieversorgung-smartprior</guid>
-    </item>
-    <item>
-      <title>Rekordwirkungsgrade: Effiziente Tandem-Photovoltaikmodule für begrenzte Flächen</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/rekordwirkungsgrade-hocheffiziente-tandem-photovoltaikmodule-vorfahrt-mod30plus</link>
-      <description>In den Verbundprojekten „Vorfahrt“ und „Mod30plus“ sind bedeutende Fortschritte bei hocheffizienten Photovoltaikmodulen gelungen.</description>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/rekordwirkungsgrade-hocheffiziente-tandem-photovoltaikmodule-vorfahrt-mod30plus</guid>
-    </item>
-    <item>
-      <title>Mehr Strom verfügbar machen dank optimiertem Batteriegroßspeicher</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/optimierte-batteriegrossspeicher-mehr-strom-bmsmart</link>
-      <description>Zustandsdiagnose und gekoppeltes Multi-Use-Management: Ergebnisse des Projekts BMSmart machen Batteriegroßspeicher wirtschaftlicher und effizienter.</description>
-      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/optimierte-batteriegrossspeicher-mehr-strom-bmsmart</guid>
     </item>
   </channel>
 </rss>
