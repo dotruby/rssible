@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Wed, 22 Apr 2026 04:56:49 </lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 05:00:01 </lastBuildDate>
+    <item>
+      <title>Energieforschung zeigt Lösungen für Speicher, Recycling und Effizienz bei Erneuerbaren</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/energieforschung-zeigt-loesungen-fuer-speicher-recycling-und-effizienz-bei-erneuerbaren</link>
+      <description>Energieforschung liefert Lösungen für Speicher, Recycling und Effizienz bei Erneuerbaren – von Geothermie bis Photovoltaik.</description>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/energieforschung-zeigt-loesungen-fuer-speicher-recycling-und-effizienz-bei-erneuerbaren</guid>
+    </item>
     <item>
       <title>BMWE startet neuen Förderaufruf MODEX-2 für Modellvergleiche</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/foerderaufruf-modellvergleiche-veroeffentlicht-modex-2</link>
@@ -67,13 +74,6 @@
       <description>Kostenvorteil: Dank einer neuen Beschichtung können Lebensmittelverpackungen jetzt auch in den Papier-Recycling-Kreislauf eingebunden werden.</description>
       <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/beschichtung-nachaltige-lebensmittelverpackungen</guid>
-    </item>
-    <item>
-      <title>KI beschleunigt die Planung von Gebäudeenergiesystemen</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/ki-beschleunigt-planung-gebaeudeenergiesysteme-energieversorgung-smartprior</link>
-      <description>KI beschleunigt die Planung von Gebäudeenergiesystemen: SmartPrior ermöglicht schnelle Analysen und fundierte Entscheidungen.</description>
-      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/ki-beschleunigt-planung-gebaeudeenergiesysteme-energieversorgung-smartprior</guid>
     </item>
   </channel>
 </rss>
