@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Mon, 04 May 2026 05:08:50 </lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 05:03:16 </lastBuildDate>
+    <item>
+      <title>Innovationswettbewerb Energiequartiere: Neue Impulse für Bestandsquartiere</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/energieforschung-startschuss-innovationswettbewerb-energiequartiere-berliner-energietage-2026</link>
+      <description>Bei den Berliner Energietagen stellt das BMWE den „Innovationswettbewerb Energiequartiere“ vor: Wandel zu effizienten, resilienten Quartieren.</description>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/energieforschung-startschuss-innovationswettbewerb-energiequartiere-berliner-energietage-2026</guid>
+    </item>
     <item>
       <title>Photovoltaik bleibt global auf Rekordkurs: Zubau von nahezu 700 Gigawatt</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/photovoltaik-rekordkurs-zubau-700-gigawatt-weltweit-iea-pvps-snapshot-report</link>
@@ -67,13 +74,6 @@
       <description>Die HTW Berlin hat ihre Stromspeicher-Inspektion 2026 veröffentlicht. Das Projekt PV-Speicher bildet die wissenschaftliche Grundlage der Studie.</description>
       <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/stromspeicher-inspektion-2026-vergleich-photovoltaik-speichersysteme-effizienzrekorde-pv-speicher</guid>
-    </item>
-    <item>
-      <title>„Klimaziele einhalten und zugleich das Energiesystem robust gestalten muss kein Widerspruch sein“</title>
-      <link>https://www.energieforschung.de/de/aktuelles/interviews/klimaziele-einhalten-energiesystem-robust-gestalten-forschungsvorhaben-rewards</link>
-      <description>Das Projekt REWARDS nimmt Risiken systematisch in den Blick – mit Fokus auf langfristigen Systementwicklungen, Energiesouveränität und Resilienz.</description>
-      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/interviews/klimaziele-einhalten-energiesystem-robust-gestalten-forschungsvorhaben-rewards</guid>
     </item>
   </channel>
 </rss>
