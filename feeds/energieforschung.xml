@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Wed, 06 May 2026 05:05:06 </lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 05:07:35 </lastBuildDate>
+    <item>
+      <title>Deutlich weniger Silberverbrauch für die Produktion von TOPCon-Solarzellen</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/deutlich-weniger-silberverbrauch-produktion-topcon-solarzellen-photovoltaik-projekt-euro</link>
+      <description>Im Projekt EURO gelang es, die für die Herstellung von TOPCon-Solarzellen benötigte Menge an Silber um den Faktor zehn zu reduzieren.</description>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/deutlich-weniger-silberverbrauch-produktion-topcon-solarzellen-photovoltaik-projekt-euro</guid>
+    </item>
     <item>
       <title>Innovationswettbewerb Energiequartiere: Neue Impulse für Bestandsquartiere</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/energieforschung-startschuss-innovationswettbewerb-energiequartiere-berliner-energietage-2026</link>
@@ -67,13 +74,6 @@
       <description>Das optimale Betriebsverfahren für Salzkavernen als Speicher für Wasserstoff testen Forschende aktuell im Pilotprojekt H2CAST Etzel in Niedersachsen.</description>
       <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/salzkavernen-wasserstoffspeicher-pilotprojekt-h2cast-etzel</guid>
-    </item>
-    <item>
-      <title>Effizienzrekorde und deutliche Leistungsunterschiede: Stromspeicher-Inspektion 2026</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/stromspeicher-inspektion-2026-vergleich-photovoltaik-speichersysteme-effizienzrekorde-pv-speicher</link>
-      <description>Die HTW Berlin hat ihre Stromspeicher-Inspektion 2026 veröffentlicht. Das Projekt PV-Speicher bildet die wissenschaftliche Grundlage der Studie.</description>
-      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/stromspeicher-inspektion-2026-vergleich-photovoltaik-speichersysteme-effizienzrekorde-pv-speicher</guid>
     </item>
   </channel>
 </rss>
