@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Thu, 07 May 2026 05:07:35 </lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 05:00:51 </lastBuildDate>
+    <item>
+      <title>Praxisleitfaden für Erdwärmesonden in städtischen Quartieren</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/praxisleitfaden-erdwaermesonden-oberflaechnnahe-geothermie-stadt-quartiere-planung-urbangroundheat</link>
+      <description>Ob Bestandsquartiere in der Stadt ihre Wärmeversorgung auf Geothermie umstellen können, lässt sich dank eines Praxisleitfadens jetzt einfacher planen.</description>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/praxisleitfaden-erdwaermesonden-oberflaechnnahe-geothermie-stadt-quartiere-planung-urbangroundheat</guid>
+    </item>
     <item>
       <title>Deutlich weniger Silberverbrauch für die Produktion von TOPCon-Solarzellen</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/deutlich-weniger-silberverbrauch-produktion-topcon-solarzellen-photovoltaik-projekt-euro</link>
@@ -67,13 +74,6 @@
       <description>Vernetzen, mitgestalten, bewegen: Das war das Ziel der zweitägigen Auftaktveranstaltung der Begleitforschung BEWEGT Mitte März in Berlin.</description>
       <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/auftakt-bewegt-gesellschaftsforschung</guid>
-    </item>
-    <item>
-      <title>Salzkavernen als flexible Wasserstoffspeicher</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/salzkavernen-wasserstoffspeicher-pilotprojekt-h2cast-etzel</link>
-      <description>Das optimale Betriebsverfahren für Salzkavernen als Speicher für Wasserstoff testen Forschende aktuell im Pilotprojekt H2CAST Etzel in Niedersachsen.</description>
-      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/salzkavernen-wasserstoffspeicher-pilotprojekt-h2cast-etzel</guid>
     </item>
   </channel>
 </rss>
