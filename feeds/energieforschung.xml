@@ -4,7 +4,21 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Fri, 08 May 2026 05:00:51 </lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 05:04:36 </lastBuildDate>
+    <item>
+      <title>Mit Vor-Ort-Wasserstoff-Anlagen zu mehr Resilienz für die Industrie</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/berliner-energietage-resilienz-industrie-gewerbe-wasserstoff-anlagen</link>
+      <description>Ist die Energieversorgung gestört, kann das gravierende wirtschaftliche Folgen haben. Mit Vor-Ort-Energiesystemen lässt sich die Resilienz verbessern.</description>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/berliner-energietage-resilienz-industrie-gewerbe-wasserstoff-anlagen</guid>
+    </item>
+    <item>
+      <title>Mit „EnArgus-Augen“ auf die Energieforschung blicken: So bleibt das Informationssystem innovativ</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/berliner-energietage-enargus-energieforschung-informationssystem</link>
+      <description>EnArgus ist das zentrale Informationssystem der Energieforschungsförderung. Bei den Berliner Energietagen wurden geplante Neuerungen vorgestellt.</description>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/berliner-energietage-enargus-energieforschung-informationssystem</guid>
+    </item>
     <item>
       <title>Praxisleitfaden für Erdwärmesonden in städtischen Quartieren</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/praxisleitfaden-erdwaermesonden-oberflaechnnahe-geothermie-stadt-quartiere-planung-urbangroundheat</link>
@@ -60,20 +74,6 @@
       <description>Wie die erforderliche Sanierung von Fernwärmenetzen effizienter als bisher erfolgen kann, zeigen mehrere BMWE-Förderprojekte.</description>
       <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/projekteinblicke/sanierung-fernwaermeleitungen-vereinfacht</guid>
-    </item>
-    <item>
-      <title>20 Jahre ZIEHL – Hochtemperatursupraleiter für den Umbau des Energiesystems</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/hochtemperatursupraleiter-transformation-energiesystem-htsl-ziehl-jahrestagung</link>
-      <description>Stromnetze müssen leistungsfähiger und effizienter werden. Die ZIEHL 2026 zeigt, welchen Beitrag Hochtemperatursupraleiter dazu leisten können.</description>
-      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/hochtemperatursupraleiter-transformation-energiesystem-htsl-ziehl-jahrestagung</guid>
-    </item>
-    <item>
-      <title>Auftakt für BEWEGT: Forschende wollen Gesellschaftsforschung stärken</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/auftakt-bewegt-gesellschaftsforschung</link>
-      <description>Vernetzen, mitgestalten, bewegen: Das war das Ziel der zweitägigen Auftaktveranstaltung der Begleitforschung BEWEGT Mitte März in Berlin.</description>
-      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/auftakt-bewegt-gesellschaftsforschung</guid>
     </item>
   </channel>
 </rss>
