@@ -4,7 +4,21 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Thu, 21 May 2026 05:24:28 </lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 05:20:41 </lastBuildDate>
+    <item>
+      <title>Bundesregierung startet unter Federführung des BMWE den Prozess zur Wasserstoff-Roadmap</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/bundesregierung-startet-unter-federfuehrung-des-bmwe-den-prozess-zur-wasserstoff-roadmap</link>
+      <description>Die Bundesregierung hat heute im Rahmen der Hightech Agenda Deutschland den Startschuss zur Entwicklung einer Wasserstoff-Roadmap gegeben.</description>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/bundesregierung-startet-unter-federfuehrung-des-bmwe-den-prozess-zur-wasserstoff-roadmap</guid>
+    </item>
+    <item>
+      <title>Vom Labor in die Fabrik: Skalierung von Perowskit-Silizium-Tandemsolarzellen</title>
+      <link>https://www.energieforschung.de/de/aktuelles/projekteinblicke/skalierung-perowskit-silizium-tandemsolarzellen-labor-pero-si-scale</link>
+      <description>Das Fraunhofer-Institut für Solare Energiesysteme ISE hat ein neues Labor zum Hochskalieren von Tandemsolarzellen eingeweiht.</description>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/projekteinblicke/skalierung-perowskit-silizium-tandemsolarzellen-labor-pero-si-scale</guid>
+    </item>
     <item>
       <title>Das waren die Berliner Energietage 2026</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/berliner-energietage-2026-resilienz-innovationswettbewerb-aktuelle-herausforderungen</link>
@@ -60,20 +74,6 @@
       <description>Die Photovoltaik wächst weltweit weiterhin dynamisch und festigt nicht nur in Deutschland ihre Rolle als zentrale Säule beim Umbau des Energiesystems.</description>
       <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/photovoltaik-rekordkurs-zubau-700-gigawatt-weltweit-iea-pvps-snapshot-report</guid>
-    </item>
-    <item>
-      <title>Weniger CO₂ durch Abfall: Wie Reststoffe in Strom und synthetische Energieträger umgewandelt werden</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/umwandlung-abfall-reststoffe-strom-synthetische-energietraeger-weniger-co2-polygenerationsanlage-projekt-verena</link>
-      <description>Das VERENA-Wissenschaftsteam zeigt in einer Polygenerationsanlage, wie aus Reststoffen synthetische Energieträger und Strom gewonnen werden können.</description>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/umwandlung-abfall-reststoffe-strom-synthetische-energietraeger-weniger-co2-polygenerationsanlage-projekt-verena</guid>
-    </item>
-    <item>
-      <title>Energieforschung zeigt Lösungen für Speicher, Recycling und Effizienz bei Erneuerbaren</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/energieforschung-loesungen-speicher-recycling-effizienz-erneuerbare-energien-systemkosten-resilienz-kreislaufwirtschaft-berliner-energietage-2026</link>
-      <description>Energieforschung liefert Lösungen für Speicher, Recycling und Effizienz bei Erneuerbaren – von Geothermie bis Photovoltaik.</description>
-      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/energieforschung-loesungen-speicher-recycling-effizienz-erneuerbare-energien-systemkosten-resilienz-kreislaufwirtschaft-berliner-energietage-2026</guid>
     </item>
   </channel>
 </rss>
