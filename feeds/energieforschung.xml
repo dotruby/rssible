@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Fri, 22 May 2026 05:20:41 </lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 05:14:38 </lastBuildDate>
+    <item>
+      <title>Reallabore liefern wichtige Ansätze für den Wasserstoffhochlauf</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/h2-reallabore-kongress-wasserstoffhochlauf</link>
+      <description>Die Teilnehmenden des 2. Kongresses der H2-Reallabore warfen einen Blick zurück auf fünf Jahre Reallabore der Energiewende mit Fokus Wasserstoff.</description>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/h2-reallabore-kongress-wasserstoffhochlauf</guid>
+    </item>
     <item>
       <title>Bundesregierung startet unter Federführung des BMWE den Prozess zur Wasserstoff-Roadmap</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/bundesregierung-startet-unter-federfuehrung-des-bmwe-den-prozess-zur-wasserstoff-roadmap</link>
@@ -67,13 +74,6 @@
       <description>Bei den Berliner Energietagen stellt das BMWE den „Innovationswettbewerb Energiequartiere“ vor: Wandel zu effizienten, resilienten Quartieren.</description>
       <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/energieforschung-startschuss-innovationswettbewerb-energiequartiere-berliner-energietage-2026</guid>
-    </item>
-    <item>
-      <title>Photovoltaik bleibt global auf Rekordkurs: Zubau von nahezu 700 Gigawatt</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/photovoltaik-rekordkurs-zubau-700-gigawatt-weltweit-iea-pvps-snapshot-report</link>
-      <description>Die Photovoltaik wächst weltweit weiterhin dynamisch und festigt nicht nur in Deutschland ihre Rolle als zentrale Säule beim Umbau des Energiesystems.</description>
-      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/photovoltaik-rekordkurs-zubau-700-gigawatt-weltweit-iea-pvps-snapshot-report</guid>
     </item>
   </channel>
 </rss>
