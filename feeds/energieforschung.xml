@@ -4,7 +4,21 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Tue, 02 Jun 2026 05:33:39 </lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 05:36:05 </lastBuildDate>
+    <item>
+      <title>URBAN ARENA setzt Grundlagen für saisonale Wärmespeicher</title>
+      <link>https://www.energieforschung.de/de/aktuelles/projekteinblicke/urban-arena-start-mikroprojekte-saisonale-waermespeicher</link>
+      <description>Die letzten drei von insgesamt 23 hervorgegangenen Mikroprojekten der URBAN ARENA Seasonal Heat Storage haben im Juni mit den Arbeiten begonnen.</description>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/projekteinblicke/urban-arena-start-mikroprojekte-saisonale-waermespeicher</guid>
+    </item>
+    <item>
+      <title>Integration eines Erdbeckenspeichers in das Lübecker Fernwärmenetz</title>
+      <link>https://www.energieforschung.de/de/interviews/integration-eines-erdbeckenspeichers-in-das-luebecker-fernwaermenetz</link>
+      <description>Warum ein Erdbeckenspeicher gut in das Lübecker Fernwärmenetz passen würde, berichtet Saskia Andersen, Stadtwerke Lübeck, im Interview zu HANSE.</description>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/interviews/integration-eines-erdbeckenspeichers-in-das-luebecker-fernwaermenetz</guid>
+    </item>
     <item>
       <title>Reallabore liefern wichtige Ansätze für den Wasserstoffhochlauf</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/h2-reallabore-kongress-wasserstoffhochlauf</link>
@@ -60,20 +74,6 @@
       <description>Ob Bestandsquartiere in der Stadt ihre Wärmeversorgung auf Geothermie umstellen können, lässt sich dank eines Praxisleitfadens jetzt einfacher planen.</description>
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/praxisleitfaden-erdwaermesonden-oberflaechnnahe-geothermie-stadt-quartiere-planung-urbangroundheat</guid>
-    </item>
-    <item>
-      <title>Deutlich weniger Silberverbrauch für die Produktion von TOPCon-Solarzellen</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/deutlich-weniger-silberverbrauch-produktion-topcon-solarzellen-photovoltaik-projekt-euro</link>
-      <description>Im Projekt EURO gelang es, die für die Herstellung von TOPCon-Solarzellen benötigte Menge an Silber um den Faktor zehn zu reduzieren.</description>
-      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/deutlich-weniger-silberverbrauch-produktion-topcon-solarzellen-photovoltaik-projekt-euro</guid>
-    </item>
-    <item>
-      <title>Innovationswettbewerb Energiequartiere: Neue Impulse für Bestandsquartiere</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/energieforschung-startschuss-innovationswettbewerb-energiequartiere-berliner-energietage-2026</link>
-      <description>Bei den Berliner Energietagen stellt das BMWE den „Innovationswettbewerb Energiequartiere“ vor: Wandel zu effizienten, resilienten Quartieren.</description>
-      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/energieforschung-startschuss-innovationswettbewerb-energiequartiere-berliner-energietage-2026</guid>
     </item>
   </channel>
 </rss>
