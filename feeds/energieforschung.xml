@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Wed, 10 Jun 2026 05:30:41 </lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 05:34:19 </lastBuildDate>
+    <item>
+      <title>Evaluationsbericht zur Projektförderung des BMWE im 7. Energieforschungsprogramm veröffentlicht</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/schlussbericht-evaluation-projektfoerderung-7-energieforschungsprogramm</link>
+      <description>Die Projektförderung des BMWE im 7. Energieforschungsprogramm hat die Energieforschung gestärkt und den Umbau des Energiesystems unterstützt.</description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/schlussbericht-evaluation-projektfoerderung-7-energieforschungsprogramm</guid>
+    </item>
     <item>
       <title>URBAN ARENA setzt Grundlagen für saisonale Wärmespeicher</title>
       <link>https://www.energieforschung.de/de/aktuelles/projekteinblicke/urban-arena-start-mikroprojekte-saisonale-waermespeicher</link>
@@ -67,13 +74,6 @@
       <description>EnArgus ist das zentrale Informationssystem der Energieforschungsförderung. Bei den Berliner Energietagen wurden geplante Neuerungen vorgestellt.</description>
       <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/berliner-energietage-enargus-energieforschung-informationssystem</guid>
-    </item>
-    <item>
-      <title>Praxisleitfaden für Erdwärmesonden in städtischen Quartieren</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/praxisleitfaden-erdwaermesonden-oberflaechnnahe-geothermie-stadt-quartiere-planung-urbangroundheat</link>
-      <description>Ob Bestandsquartiere in der Stadt ihre Wärmeversorgung auf Geothermie umstellen können, lässt sich dank eines Praxisleitfadens jetzt einfacher planen.</description>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/praxisleitfaden-erdwaermesonden-oberflaechnnahe-geothermie-stadt-quartiere-planung-urbangroundheat</guid>
     </item>
   </channel>
 </rss>
