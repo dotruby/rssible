@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Fri, 12 Jun 2026 05:34:05 </lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 05:37:06 </lastBuildDate>
+    <item>
+      <title>17-Jähriger gewinnt BMWE-Preis für innovative Windkraftanlage fürs Eigenheim</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/jugend-forscht-2026-sonderpreis-bmwe</link>
+      <description>Den Jugend-forscht-Preis „Energie“, gestiftet durch Katherina Reiche, Bundesministerin für Wirtschaft und Energie, gewann Ben Waldmann aus Thüringen.</description>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/jugend-forscht-2026-sonderpreis-bmwe</guid>
+    </item>
     <item>
       <title>Evaluationsbericht zur Projektförderung des BMWE im 7. Energieforschungsprogramm veröffentlicht</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/schlussbericht-evaluation-projektfoerderung-7-energieforschungsprogramm</link>
@@ -13,18 +20,18 @@
       <guid>https://www.energieforschung.de/de/aktuelles/news/schlussbericht-evaluation-projektfoerderung-7-energieforschungsprogramm</guid>
     </item>
     <item>
+      <title>Integration eines Erdbeckenspeichers in das Lübecker Fernwärmenetz</title>
+      <link>https://www.energieforschung.de/de/interviews/integration-eines-erdbeckenspeichers-in-das-luebecker-fernwaermenetz</link>
+      <description>Warum ein Erdbeckenspeicher gut in das Lübecker Fernwärmenetz passen würde, berichtet Saskia Andersen, Stadtwerke Lübeck, im Interview zu HANSE.</description>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/interviews/integration-eines-erdbeckenspeichers-in-das-luebecker-fernwaermenetz</guid>
+    </item>
+    <item>
       <title>URBAN ARENA setzt Grundlagen für saisonale Wärmespeicher</title>
       <link>https://www.energieforschung.de/de/aktuelles/projekteinblicke/urban-arena-start-mikroprojekte-saisonale-waermespeicher</link>
       <description>Die letzten drei von insgesamt 23 hervorgegangenen Mikroprojekten der URBAN ARENA Seasonal Heat Storage haben im Juni mit den Arbeiten begonnen.</description>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/projekteinblicke/urban-arena-start-mikroprojekte-saisonale-waermespeicher</guid>
-    </item>
-    <item>
-      <title>Integration eines Erdbeckenspeichers in das Lübecker Fernwärmenetz</title>
-      <link>https://www.energieforschung.de/de/interviews/integration-eines-erdbeckenspeichers-in-das-luebecker-fernwaermenetz</link>
-      <description>Warum ein Erdbeckenspeicher gut in das Lübecker Fernwärmenetz passen würde, berichtet Saskia Andersen, Stadtwerke Lübeck, im Interview zu HANSE.</description>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/interviews/integration-eines-erdbeckenspeichers-in-das-luebecker-fernwaermenetz</guid>
     </item>
     <item>
       <title>Reallabore liefern wichtige Ansätze für den Wasserstoffhochlauf</title>
@@ -67,13 +74,6 @@
       <description>Ist die Energieversorgung gestört, kann das gravierende wirtschaftliche Folgen haben. Mit Vor-Ort-Energiesystemen lässt sich die Resilienz verbessern.</description>
       <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/berliner-energietage-resilienz-industrie-gewerbe-wasserstoff-anlagen</guid>
-    </item>
-    <item>
-      <title>Mit „EnArgus-Augen“ auf die Energieforschung blicken: So bleibt das Informationssystem innovativ</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/berliner-energietage-enargus-energieforschung-informationssystem</link>
-      <description>EnArgus ist das zentrale Informationssystem der Energieforschungsförderung. Bei den Berliner Energietagen wurden geplante Neuerungen vorgestellt.</description>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/berliner-energietage-enargus-energieforschung-informationssystem</guid>
     </item>
   </channel>
 </rss>
