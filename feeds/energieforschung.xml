@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Mon, 15 Jun 2026 05:46:48 </lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 05:49:26 </lastBuildDate>
+    <item>
+      <title>PCP „Toolkit für aktives Verteilmanagement“ gestartet: Jetzt bewerben</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/pcp-toolkit-aktives-verteilmanagement-jetzt-bewerben</link>
+      <description>Ziel des Förderformats PCP ist die Entwicklung innovativer und praxistauglicher Werkzeuge für ein aktives Management von Niederspannungsnetzen.</description>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/pcp-toolkit-aktives-verteilmanagement-jetzt-bewerben</guid>
+    </item>
     <item>
       <title>17-Jähriger gewinnt BMWE-Preis für innovative Windkraftanlage fürs Eigenheim</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/jugend-forscht-2026-sonderpreis-bmwe</link>
@@ -67,13 +74,6 @@
       <description>Das Forschungsprojekt enerPort II hat untersucht, wie sich auch bei stark schwankenden Lasten eine zuverlässige Energieversorgung sicherstellen lässt.</description>
       <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/projektabschluss-enerport-zwei</guid>
-    </item>
-    <item>
-      <title>Mit Vor-Ort-Wasserstoff-Anlagen zu mehr Resilienz für die Industrie</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/berliner-energietage-resilienz-industrie-gewerbe-wasserstoff-anlagen</link>
-      <description>Ist die Energieversorgung gestört, kann das gravierende wirtschaftliche Folgen haben. Mit Vor-Ort-Energiesystemen lässt sich die Resilienz verbessern.</description>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/berliner-energietage-resilienz-industrie-gewerbe-wasserstoff-anlagen</guid>
     </item>
   </channel>
 </rss>
