@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Wed, 17 Jun 2026 05:38:07 </lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 05:35:13 </lastBuildDate>
+    <item>
+      <title>Solarwärme für Leipzig: Forschung ebnet den Weg ins Fernwärmenetz</title>
+      <link>https://www.energieforschung.de/de/aktuelles/projekteinblicke/solarthermie-groesste-solarthermieanlage-deutschlands-fernwaerme-waermenetze</link>
+      <description>Deutschlands größte Solarthermieanlage in Leipzig zeigt, wie Solarwärme im großen Maßstab Teil der kommunalen Wärmeversorgung werden kann.</description>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/projekteinblicke/solarthermie-groesste-solarthermieanlage-deutschlands-fernwaerme-waermenetze</guid>
+    </item>
     <item>
       <title>PCP „Toolkit für aktives Verteilmanagement“ gestartet: Jetzt bewerben</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/pcp-toolkit-aktives-verteilmanagement-jetzt-bewerben</link>
@@ -67,13 +74,6 @@
       <description>Mit eigenen Veranstaltungen beteiligte sich das BMWE an den Berliner Energietagen und trug zur Debatte um die Modernisierung des Energiesystems bei.</description>
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/berliner-energietage-2026-resilienz-innovationswettbewerb-aktuelle-herausforderungen</guid>
-    </item>
-    <item>
-      <title>Projektabschluss enerPort II: Wie integrierte Energiesysteme im Hafenbetrieb funktionieren können</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/projektabschluss-enerport-zwei</link>
-      <description>Das Forschungsprojekt enerPort II hat untersucht, wie sich auch bei stark schwankenden Lasten eine zuverlässige Energieversorgung sicherstellen lässt.</description>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/projektabschluss-enerport-zwei</guid>
     </item>
   </channel>
 </rss>
