@@ -4,7 +4,21 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Thu, 18 Jun 2026 05:35:13 </lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 05:42:49 </lastBuildDate>
+    <item>
+      <title>Schwimmbäder starten in den Wettbewerb</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/start-design-phase-wettbewerb-schwimmbad-urban-wave</link>
+      <description>Fünf Projekte starten im Innovationswettbewerb „UrbanWave – Stadtbad der Zukunft“ und entwickeln Konzepte für klimafreundliche Hallenbäder.</description>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/start-design-phase-wettbewerb-schwimmbad-urban-wave</guid>
+    </item>
+    <item>
+      <title>Segmentierte Photovoltaikmodule steigern Ertrag bei Teilverschattung</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/segmentierte-photovoltaikmodule-steigerung-ertrag-teilverschattung-segmentpv</link>
+      <description>Im Projekt SegmentPV haben Forschende untersucht, wie Energieverluste sowie Hot-Spots bei verschatteten Photovoltaikmodulen reduziert werden können.</description>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/segmentierte-photovoltaikmodule-steigerung-ertrag-teilverschattung-segmentpv</guid>
+    </item>
     <item>
       <title>Solarwärme für Leipzig: Forschung ebnet den Weg ins Fernwärmenetz</title>
       <link>https://www.energieforschung.de/de/aktuelles/projekteinblicke/solarthermie-groesste-solarthermieanlage-deutschlands-fernwaerme-waermenetze</link>
@@ -60,20 +74,6 @@
       <description>Die Bundesregierung hat heute im Rahmen der Hightech Agenda Deutschland den Startschuss zur Entwicklung einer Wasserstoff-Roadmap gegeben.</description>
       <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/bundesregierung-startet-unter-federfuehrung-des-bmwe-den-prozess-zur-wasserstoff-roadmap</guid>
-    </item>
-    <item>
-      <title>Vom Labor in die Fabrik: Skalierung von Perowskit-Silizium-Tandemsolarzellen</title>
-      <link>https://www.energieforschung.de/de/aktuelles/projekteinblicke/skalierung-perowskit-silizium-tandemsolarzellen-labor-pero-si-scale</link>
-      <description>Das Fraunhofer-Institut für Solare Energiesysteme ISE hat ein neues Labor zum Hochskalieren von Tandemsolarzellen eingeweiht.</description>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/projekteinblicke/skalierung-perowskit-silizium-tandemsolarzellen-labor-pero-si-scale</guid>
-    </item>
-    <item>
-      <title>Das waren die Berliner Energietage 2026</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/berliner-energietage-2026-resilienz-innovationswettbewerb-aktuelle-herausforderungen</link>
-      <description>Mit eigenen Veranstaltungen beteiligte sich das BMWE an den Berliner Energietagen und trug zur Debatte um die Modernisierung des Energiesystems bei.</description>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/berliner-energietage-2026-resilienz-innovationswettbewerb-aktuelle-herausforderungen</guid>
     </item>
   </channel>
 </rss>
