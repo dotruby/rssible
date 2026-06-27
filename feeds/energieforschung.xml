@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Fri, 26 Jun 2026 05:25:33 </lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 05:17:24 </lastBuildDate>
+    <item>
+      <title>Weltkulturerbe Speicherstadt Hamburg wird CO₂-neutral</title>
+      <link>https://www.energieforschung.de/de/aktuelles/weltkulturerbe-speicherstadt-hamburg-wird-co2-neutral</link>
+      <description>Bis 2040 soll das einzigartige Gebäudeensemble klimaneutral werden. Das Projekt „CO2-neutrales Welterbe Speicherstadt Hamburg“ legte den Grundstein.</description>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/weltkulturerbe-speicherstadt-hamburg-wird-co2-neutral</guid>
+    </item>
     <item>
       <title>Schwimmbäder starten in den Wettbewerb</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/start-design-phase-wettbewerb-schwimmbad-urban-wave</link>
@@ -67,13 +74,6 @@
       <description>Die Teilnehmenden des 2. Kongresses der H2-Reallabore warfen einen Blick zurück auf fünf Jahre Reallabore der Energiewende mit Fokus Wasserstoff.</description>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/h2-reallabore-kongress-wasserstoffhochlauf</guid>
-    </item>
-    <item>
-      <title>Bundesregierung startet unter Federführung des BMWE den Prozess zur Wasserstoff-Roadmap</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/bundesregierung-startet-unter-federfuehrung-des-bmwe-den-prozess-zur-wasserstoff-roadmap</link>
-      <description>Die Bundesregierung hat heute im Rahmen der Hightech Agenda Deutschland den Startschuss zur Entwicklung einer Wasserstoff-Roadmap gegeben.</description>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/bundesregierung-startet-unter-federfuehrung-des-bmwe-den-prozess-zur-wasserstoff-roadmap</guid>
     </item>
   </channel>
 </rss>
