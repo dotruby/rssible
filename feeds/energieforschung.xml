@@ -4,7 +4,21 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Thu, 02 Jul 2026 05:18:09 </lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 05:17:02 </lastBuildDate>
+    <item>
+      <title>CETP Joint Call 2026: Am 6. Juli Fragen stellen und Projekte vorbereiten</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/cetpartnership-joint-call-2026-jetzt-projekte-vorbereiten</link>
+      <description>Für den fünften Förderaufruf der</description>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/cetpartnership-joint-call-2026-jetzt-projekte-vorbereiten</guid>
+    </item>
+    <item>
+      <title>Wenn die Fassade zum Kraftwerk wird</title>
+      <link>https://www.energieforschung.de/de/aktuelles/projekteinblicke/bauwerkintegrierte-photovoltaik-wenn-die-fassade-zum-kraftwerk-wird</link>
+      <description>Wie BIPV die Gebäudehülle in einen aktiven Stromerzeuger verwandelt, zeigen vier BMWE-Förderprojekte.</description>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/projekteinblicke/bauwerkintegrierte-photovoltaik-wenn-die-fassade-zum-kraftwerk-wird</guid>
+    </item>
     <item>
       <title>Weltkulturerbe Speicherstadt Hamburg wird CO₂-neutral</title>
       <link>https://www.energieforschung.de/de/aktuelles/weltkulturerbe-speicherstadt-hamburg-wird-co2-neutral</link>
@@ -60,20 +74,6 @@
       <description>Warum ein Erdbeckenspeicher gut in das Lübecker Fernwärmenetz passen würde, berichtet Saskia Andersen, Stadtwerke Lübeck, im Interview zu HANSE.</description>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/interviews/integration-eines-erdbeckenspeichers-in-das-luebecker-fernwaermenetz</guid>
-    </item>
-    <item>
-      <title>URBAN ARENA setzt Grundlagen für saisonale Wärmespeicher</title>
-      <link>https://www.energieforschung.de/de/aktuelles/projekteinblicke/urban-arena-start-mikroprojekte-saisonale-waermespeicher</link>
-      <description>Die letzten drei von insgesamt 23 hervorgegangenen Mikroprojekten der URBAN ARENA Seasonal Heat Storage haben im Juni mit den Arbeiten begonnen.</description>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/projekteinblicke/urban-arena-start-mikroprojekte-saisonale-waermespeicher</guid>
-    </item>
-    <item>
-      <title>Reallabore liefern wichtige Ansätze für den Wasserstoffhochlauf</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/h2-reallabore-kongress-wasserstoffhochlauf</link>
-      <description>Die Teilnehmenden des 2. Kongresses der H2-Reallabore warfen einen Blick zurück auf fünf Jahre Reallabore der Energiewende mit Fokus Wasserstoff.</description>
-      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/h2-reallabore-kongress-wasserstoffhochlauf</guid>
     </item>
   </channel>
 </rss>
