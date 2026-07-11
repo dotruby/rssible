@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Fri, 10 Jul 2026 05:18:46 </lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 05:01:52 </lastBuildDate>
+    <item>
+      <title>Etappenziel geschafft: Gasreinigungsanlage geht in Betrieb</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/reallabor-energiepark-bad-lauchstaedt-etappenziel-gasreinigungsanlage</link>
+      <description>Das Reallabor der Energiewende Energiepark Bad Lauchstädt hat mit der Inbetriebnahme der Gasreinigungsanlage einen Meilenstein erreicht.</description>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/reallabor-energiepark-bad-lauchstaedt-etappenziel-gasreinigungsanlage</guid>
+    </item>
     <item>
       <title>CETP Joint Call 2026: Am 6. Juli Fragen stellen und Projekte vorbereiten</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/cetpartnership-joint-call-2026-jetzt-projekte-vorbereiten</link>
@@ -67,13 +74,6 @@
       <description>Die Projektförderung des BMWE im 7. Energieforschungsprogramm hat die Energieforschung gestärkt und den Umbau des Energiesystems unterstützt.</description>
       <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/schlussbericht-evaluation-projektfoerderung-7-energieforschungsprogramm</guid>
-    </item>
-    <item>
-      <title>Integration eines Erdbeckenspeichers in das Lübecker Fernwärmenetz</title>
-      <link>https://www.energieforschung.de/de/interviews/integration-eines-erdbeckenspeichers-in-das-luebecker-fernwaermenetz</link>
-      <description>Warum ein Erdbeckenspeicher gut in das Lübecker Fernwärmenetz passen würde, berichtet Saskia Andersen, Stadtwerke Lübeck, im Interview zu HANSE.</description>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/interviews/integration-eines-erdbeckenspeichers-in-das-luebecker-fernwaermenetz</guid>
     </item>
   </channel>
 </rss>
