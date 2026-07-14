@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Mon, 13 Jul 2026 05:09:21 </lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 04:59:31 </lastBuildDate>
+    <item>
+      <title>Wie die Gasmotorenforschung Blockheizkraftwerke zukunftsfest macht</title>
+      <link>https://www.energieforschung.de/de/aktuelles/projekteinblicke/gasmotorenforschung-blockheizkraftwerke-bhkw</link>
+      <description>Gasmotoren sind eine Schlüsseltechnologie für den Umbau des Energiesystems. Forschende arbeiten daran, erneuerbare Gase wie Wasserstoff einzusetzen.</description>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/projekteinblicke/gasmotorenforschung-blockheizkraftwerke-bhkw</guid>
+    </item>
     <item>
       <title>Etappenziel geschafft: Gasreinigungsanlage geht in Betrieb</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/reallabor-energiepark-bad-lauchstaedt-etappenziel-gasreinigungsanlage</link>
@@ -67,13 +74,6 @@
       <description>Den Jugend-forscht-Preis „Energie“, gestiftet durch Katherina Reiche, Bundesministerin für Wirtschaft und Energie, gewann Ben Waldmann aus Thüringen.</description>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/jugend-forscht-2026-sonderpreis-bmwe</guid>
-    </item>
-    <item>
-      <title>Evaluationsbericht zur Projektförderung des BMWE im 7. Energieforschungsprogramm veröffentlicht</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/schlussbericht-evaluation-projektfoerderung-7-energieforschungsprogramm</link>
-      <description>Die Projektförderung des BMWE im 7. Energieforschungsprogramm hat die Energieforschung gestärkt und den Umbau des Energiesystems unterstützt.</description>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/schlussbericht-evaluation-projektfoerderung-7-energieforschungsprogramm</guid>
     </item>
   </channel>
 </rss>
