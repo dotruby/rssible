@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Tue, 14 Jul 2026 04:59:31 </lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 04:59:37 </lastBuildDate>
+    <item>
+      <title>Organische Photovoltaik für einen energieeffizienten Gebäudebetrieb</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/organische-photovoltaik-sensoren-energieeffizienz-gebaeude-retro-pv</link>
+      <description>Im kürzlich gestarteten Projekt RetrO-PV entwickeln Forschende organische Photovoltaikmodule, die Energie für Sensoren in Bestandsgebäuden liefern.</description>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/organische-photovoltaik-sensoren-energieeffizienz-gebaeude-retro-pv</guid>
+    </item>
     <item>
       <title>Wie die Gasmotorenforschung Blockheizkraftwerke zukunftsfest macht</title>
       <link>https://www.energieforschung.de/de/aktuelles/projekteinblicke/gasmotorenforschung-blockheizkraftwerke-bhkw</link>
@@ -67,13 +74,6 @@
       <description>Ziel des Formats PCP ist die Entwicklung innovativer und praxistauglicher Werkzeuge für ein aktives Management von Niederspannungsnetzen.</description>
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/pcp-toolkit-aktives-verteilmanagement-jetzt-bewerben</guid>
-    </item>
-    <item>
-      <title>17-Jähriger gewinnt BMWE-Preis für innovative Windkraftanlage fürs Eigenheim</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/jugend-forscht-2026-sonderpreis-bmwe</link>
-      <description>Den Jugend-forscht-Preis „Energie“, gestiftet durch Katherina Reiche, Bundesministerin für Wirtschaft und Energie, gewann Ben Waldmann aus Thüringen.</description>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/jugend-forscht-2026-sonderpreis-bmwe</guid>
     </item>
   </channel>
 </rss>
