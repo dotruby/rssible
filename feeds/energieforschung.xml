@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Wed, 15 Jul 2026 04:59:37 </lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 05:01:24 </lastBuildDate>
+    <item>
+      <title>Energieeffizient schleifen: Kühlschmierstoffe gezielt in die Kontaktzone bringen</title>
+      <link>https://www.energieforschung.de/de/aktuelles/projekteinblicke/energieeffizient-schleifen-kuehlschmierstoffe-gezielt-in-kontaktzone-bringen-odyzeus</link>
+      <description>Mit innovativen Kühllösungen machen die OdyZeuS-Projekte das Schleifen schwer zerspanbarer Werkstoffe effizienter, präziser und ressourcenschonender.</description>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/projekteinblicke/energieeffizient-schleifen-kuehlschmierstoffe-gezielt-in-kontaktzone-bringen-odyzeus</guid>
+    </item>
     <item>
       <title>Organische Photovoltaik für einen energieeffizienten Gebäudebetrieb</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/organische-photovoltaik-sensoren-energieeffizienz-gebaeude-retro-pv</link>
@@ -67,13 +74,6 @@
       <description>Deutschlands größte Solarthermieanlage in Leipzig zeigt, wie Solarwärme im großen Maßstab Teil der kommunalen Wärmeversorgung werden kann.</description>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/projekteinblicke/solarthermie-groesste-solarthermieanlage-deutschlands-fernwaerme-waermenetze</guid>
-    </item>
-    <item>
-      <title>PCP „Toolkit für aktives Verteilmanagement“ gestartet: Jetzt bewerben</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/pcp-toolkit-aktives-verteilmanagement-jetzt-bewerben</link>
-      <description>Ziel des Formats PCP ist die Entwicklung innovativer und praxistauglicher Werkzeuge für ein aktives Management von Niederspannungsnetzen.</description>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/pcp-toolkit-aktives-verteilmanagement-jetzt-bewerben</guid>
     </item>
   </channel>
 </rss>
