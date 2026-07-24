@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Thu, 23 Jul 2026 05:03:30 </lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 05:03:00 </lastBuildDate>
+    <item>
+      <title>Information zu geänderten Schwellenwerten bei Vergaben</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/information-geaenderte-schwellenwerte-vergaben</link>
+      <description>Aufgrund eines Beschlusses des Bundeskabinettes ändern sich vorübergehend Schwellenwerte bei Vergaben.</description>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/information-geaenderte-schwellenwerte-vergaben</guid>
+    </item>
     <item>
       <title>Energieeffizient schleifen: Kühlschmierstoffe gezielt in die Kontaktzone bringen</title>
       <link>https://www.energieforschung.de/de/aktuelles/projekteinblicke/energieeffizient-schleifen-kuehlschmierstoffe-gezielt-in-kontaktzone-bringen-odyzeus</link>
@@ -67,13 +74,6 @@
       <description>Im Projekt SegmentPV haben Forschende untersucht, wie Energieverluste sowie Hot-Spots bei verschatteten Photovoltaikmodulen reduziert werden können.</description>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/segmentierte-photovoltaikmodule-steigerung-ertrag-teilverschattung-segmentpv</guid>
-    </item>
-    <item>
-      <title>Solarwärme für Leipzig: Forschung ebnet den Weg ins Fernwärmenetz</title>
-      <link>https://www.energieforschung.de/de/aktuelles/projekteinblicke/solarthermie-groesste-solarthermieanlage-deutschlands-fernwaerme-waermenetze</link>
-      <description>Deutschlands größte Solarthermieanlage in Leipzig zeigt, wie Solarwärme im großen Maßstab Teil der kommunalen Wärmeversorgung werden kann.</description>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/projekteinblicke/solarthermie-groesste-solarthermieanlage-deutschlands-fernwaerme-waermenetze</guid>
     </item>
   </channel>
 </rss>
