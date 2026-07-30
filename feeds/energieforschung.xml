@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Wed, 29 Jul 2026 05:03:37 </lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 05:00:49 </lastBuildDate>
+    <item>
+      <title>Energie sparen, Wärme gewinnen: Forschung für eine effiziente Wasserwirtschaft</title>
+      <link>https://www.energieforschung.de/de/aktuelles/projekteinblicke/energie-sparen-waerme-gewinnen-forschung-effiziente-wasserwirtschaft</link>
+      <description>Drei Forschungsprojekte entwickeln neue Ansätze für eine energieeffiziente Wasserwirtschaft und die sichere Nutzung von Trinkwasser als Wärmequelle.</description>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/projekteinblicke/energie-sparen-waerme-gewinnen-forschung-effiziente-wasserwirtschaft</guid>
+    </item>
     <item>
       <title>Information zu geänderten Schwellenwerten bei Vergaben</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/information-geaenderte-schwellenwerte-vergaben</link>
@@ -67,13 +74,6 @@
       <description>Fünf Projekte starten im Innovationswettbewerb „UrbanWave – Stadtbad der Zukunft“ und entwickeln Konzepte für klimafreundliche Hallenbäder.</description>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/start-design-phase-wettbewerb-schwimmbad-urban-wave</guid>
-    </item>
-    <item>
-      <title>Segmentierte Photovoltaikmodule steigern Ertrag bei Teilverschattung</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/segmentierte-photovoltaikmodule-steigerung-ertrag-teilverschattung-segmentpv</link>
-      <description>Im Projekt SegmentPV haben Forschende untersucht, wie Energieverluste sowie Hot-Spots bei verschatteten Photovoltaikmodulen reduziert werden können.</description>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/segmentierte-photovoltaikmodule-steigerung-ertrag-teilverschattung-segmentpv</guid>
     </item>
   </channel>
 </rss>
