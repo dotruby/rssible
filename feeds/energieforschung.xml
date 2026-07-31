@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Thu, 30 Jul 2026 05:00:49 </lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 05:09:11 </lastBuildDate>
+    <item>
+      <title>Neuer Förderaufruf: Begleitforschung zur Mission Wasserstoff gesucht</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/foerderaufruf-begleitforschung-wasserstoff</link>
+      <description>Jetzt bewerben auf den aktuellen Förderaufruf „Begleitforschung zur Mission Wasserstoff im Energieforschungsprogramm“.</description>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/foerderaufruf-begleitforschung-wasserstoff</guid>
+    </item>
     <item>
       <title>Energie sparen, Wärme gewinnen: Forschung für eine effiziente Wasserwirtschaft</title>
       <link>https://www.energieforschung.de/de/aktuelles/projekteinblicke/energie-sparen-waerme-gewinnen-forschung-effiziente-wasserwirtschaft</link>
@@ -67,13 +74,6 @@
       <description>Bis 2040 soll das einzigartige Gebäudeensemble klimaneutral werden. Das Projekt „CO2-neutrales Welterbe Speicherstadt Hamburg“ legte den Grundstein.</description>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/weltkulturerbe-speicherstadt-hamburg-wird-co2-neutral</guid>
-    </item>
-    <item>
-      <title>Schwimmbäder starten in den Wettbewerb</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/start-design-phase-wettbewerb-schwimmbad-urban-wave</link>
-      <description>Fünf Projekte starten im Innovationswettbewerb „UrbanWave – Stadtbad der Zukunft“ und entwickeln Konzepte für klimafreundliche Hallenbäder.</description>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/start-design-phase-wettbewerb-schwimmbad-urban-wave</guid>
     </item>
   </channel>
 </rss>
