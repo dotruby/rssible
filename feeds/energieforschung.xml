@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Fri, 31 Jul 2026 05:09:11 </lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 05:03:54 </lastBuildDate>
+    <item>
+      <title>Innovative Großbatteriespeicher für ein flexibles und stabiles Stromnetz</title>
+      <link>https://www.energieforschung.de/de/aktuelles/projekteinblicke/grossbatteriespeicher-next-meba</link>
+      <description>Forschungserkenntnisse aus dem Reallabor Next-MeBa sollen zu effizienten, günstigeren, langlebigeren und sichereren Großbatteriespeichern beitragen.</description>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/projekteinblicke/grossbatteriespeicher-next-meba</guid>
+    </item>
     <item>
       <title>Neuer Förderaufruf: Begleitforschung zur Mission Wasserstoff gesucht</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/foerderaufruf-begleitforschung-wasserstoff</link>
@@ -67,13 +74,6 @@
       <description>Wie BIPV die Gebäudehülle in einen aktiven Stromerzeuger verwandelt, zeigen vier BMWE-Förderprojekte.</description>
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/projekteinblicke/bauwerkintegrierte-photovoltaik-wenn-die-fassade-zum-kraftwerk-wird</guid>
-    </item>
-    <item>
-      <title>Weltkulturerbe Speicherstadt Hamburg wird CO₂-neutral</title>
-      <link>https://www.energieforschung.de/de/aktuelles/weltkulturerbe-speicherstadt-hamburg-wird-co2-neutral</link>
-      <description>Bis 2040 soll das einzigartige Gebäudeensemble klimaneutral werden. Das Projekt „CO2-neutrales Welterbe Speicherstadt Hamburg“ legte den Grundstein.</description>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/weltkulturerbe-speicherstadt-hamburg-wird-co2-neutral</guid>
     </item>
   </channel>
 </rss>
