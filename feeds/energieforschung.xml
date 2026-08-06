@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Wed, 05 Aug 2026 05:02:21 </lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 05:02:23 </lastBuildDate>
+    <item>
+      <title>Umrüstung von Biogasanlagen zu dezentralen Speicherkraftwerken</title>
+      <link>https://www.energieforschung.de/de/aktuelles/projekteinblicke/umruestung-von-biogasanlagen-zu-dezentralen-speicherkraftwerken</link>
+      <description>Wie die Methanisierung in bestehende Energie- und Infrastruktursysteme integriert werden können, demonstrieren drei vom BMWE geförderte Projekte.</description>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/projekteinblicke/umruestung-von-biogasanlagen-zu-dezentralen-speicherkraftwerken</guid>
+    </item>
     <item>
       <title>Innovative Großbatteriespeicher für ein flexibles und stabiles Stromnetz</title>
       <link>https://www.energieforschung.de/de/aktuelles/projekteinblicke/grossbatteriespeicher-next-meba</link>
@@ -67,13 +74,6 @@
       <description>Für den fünften Förderaufruf der</description>
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/cetpartnership-joint-call-2026-jetzt-projekte-vorbereiten</guid>
-    </item>
-    <item>
-      <title>Wenn die Fassade zum Kraftwerk wird</title>
-      <link>https://www.energieforschung.de/de/aktuelles/projekteinblicke/bauwerkintegrierte-photovoltaik-wenn-die-fassade-zum-kraftwerk-wird</link>
-      <description>Wie BIPV die Gebäudehülle in einen aktiven Stromerzeuger verwandelt, zeigen vier BMWE-Förderprojekte.</description>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/projekteinblicke/bauwerkintegrierte-photovoltaik-wenn-die-fassade-zum-kraftwerk-wird</guid>
     </item>
   </channel>
 </rss>
