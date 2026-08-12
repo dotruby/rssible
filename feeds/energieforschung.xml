@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Tue, 11 Aug 2026 04:28:59 </lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 04:33:29 </lastBuildDate>
+    <item>
+      <title>Wie kann Wasserstoff das Stromnetz flexibler machen?</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/wasserstoff-stromnetz-flexiblitaet-projekt-hydrogas</link>
+      <description>Das Projektteam von HYDROgas entwickelt eine innovative Gassensorik, die Reinheit und Gaskonzentration des Wasserstoffs misst.</description>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/wasserstoff-stromnetz-flexiblitaet-projekt-hydrogas</guid>
+    </item>
     <item>
       <title>25 Jahre Geothermie-Forschung in Groß Schönebeck</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/25-jahre-geothermie-forschung-gross-schoenebeck</link>
@@ -67,13 +74,6 @@
       <description>Gasmotoren sind eine Schlüsseltechnologie für den Umbau des Energiesystems. Forschende arbeiten daran, erneuerbare Gase wie Wasserstoff einzusetzen.</description>
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/projekteinblicke/gasmotorenforschung-blockheizkraftwerke-bhkw</guid>
-    </item>
-    <item>
-      <title>Etappenziel geschafft: Gasreinigungsanlage geht in Betrieb</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/reallabor-energiepark-bad-lauchstaedt-etappenziel-gasreinigungsanlage</link>
-      <description>Das Reallabor der Energiewende Energiepark Bad Lauchstädt hat mit der Inbetriebnahme der Gasreinigungsanlage einen Meilenstein erreicht.</description>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/reallabor-energiepark-bad-lauchstaedt-etappenziel-gasreinigungsanlage</guid>
     </item>
   </channel>
 </rss>
