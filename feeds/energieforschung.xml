@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Wed, 12 Aug 2026 04:33:29 </lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 04:35:15 </lastBuildDate>
+    <item>
+      <title>Das Forschungsprojekt KOVER identifiziert Risiken, bevor sie die Umsetzung bremsen</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/kommunale-waermeplanung-waermeversorgung-forschungsprojekt-kover</link>
+      <description>Mit der kommunalen Wärmeplanung legen Städte und Gemeinden fest, wie sie ihre Wärmeversorgung schrittweise klimaverträglich gestalten wollen.</description>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/kommunale-waermeplanung-waermeversorgung-forschungsprojekt-kover</guid>
+    </item>
     <item>
       <title>Wie kann Wasserstoff das Stromnetz flexibler machen?</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/wasserstoff-stromnetz-flexiblitaet-projekt-hydrogas</link>
@@ -67,13 +74,6 @@
       <description>Im kürzlich gestarteten Projekt RetrO-PV entwickeln Forschende organische Photovoltaikmodule, die Energie für Sensoren in Bestandsgebäuden liefern.</description>
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/organische-photovoltaik-sensoren-energieeffizienz-gebaeude-retro-pv</guid>
-    </item>
-    <item>
-      <title>Wie die Gasmotorenforschung Blockheizkraftwerke zukunftsfest macht</title>
-      <link>https://www.energieforschung.de/de/aktuelles/projekteinblicke/gasmotorenforschung-blockheizkraftwerke-bhkw</link>
-      <description>Gasmotoren sind eine Schlüsseltechnologie für den Umbau des Energiesystems. Forschende arbeiten daran, erneuerbare Gase wie Wasserstoff einzusetzen.</description>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/projekteinblicke/gasmotorenforschung-blockheizkraftwerke-bhkw</guid>
     </item>
   </channel>
 </rss>
