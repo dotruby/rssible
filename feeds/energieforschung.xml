@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Thu, 13 Aug 2026 04:35:15 </lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 04:33:33 </lastBuildDate>
+    <item>
+      <title>Acht Verbundvorhaben heben gemeinsam die Flexibilitäts-potenziale von Quartieren</title>
+      <link>https://www.energieforschung.de/de/aktuelles/projekteinblicke/flexible-quartiere</link>
+      <description>Acht Forschungsprojekte bringen ihre Fachkompetenzen zusammen, um Flexibilitätspotenziale in Quartieren zu erschließen.</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/projekteinblicke/flexible-quartiere</guid>
+    </item>
     <item>
       <title>Das Forschungsprojekt KOVER identifiziert Risiken, bevor sie die Umsetzung bremsen</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/kommunale-waermeplanung-waermeversorgung-forschungsprojekt-kover</link>
@@ -67,13 +74,6 @@
       <description>Mit innovativen Kühllösungen machen die OdyZeuS-Projekte das Schleifen schwer zerspanbarer Werkstoffe effizienter, präziser und ressourcenschonender.</description>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/projekteinblicke/energieeffizient-schleifen-kuehlschmierstoffe-gezielt-in-kontaktzone-bringen-odyzeus</guid>
-    </item>
-    <item>
-      <title>Organische Photovoltaik für einen energieeffizienten Gebäudebetrieb</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/organische-photovoltaik-sensoren-energieeffizienz-gebaeude-retro-pv</link>
-      <description>Im kürzlich gestarteten Projekt RetrO-PV entwickeln Forschende organische Photovoltaikmodule, die Energie für Sensoren in Bestandsgebäuden liefern.</description>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/organische-photovoltaik-sensoren-energieeffizienz-gebaeude-retro-pv</guid>
     </item>
   </channel>
 </rss>
