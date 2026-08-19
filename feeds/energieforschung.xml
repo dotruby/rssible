@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Tue, 18 Aug 2026 04:12:58 </lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 04:13:13 </lastBuildDate>
+    <item>
+      <title>Forschungsprojekt GIGA-M startet seismische Messkampagne in und um München</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/potenzial-tiefengeothermie-seismik-messkampagne-muenchen-waermeversorgung-projekt-giga-m</link>
+      <description>Um das Potenzial der Tiefengeothermie im Großraum München zu erkunden, werden im Rahmen des Projekts GIGA-M im August Seismikmessungen durchgeführt.</description>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/potenzial-tiefengeothermie-seismik-messkampagne-muenchen-waermeversorgung-projekt-giga-m</guid>
+    </item>
     <item>
       <title>Von der Forschung in die Fertigung: Wie organische PV-Module günstiger produziert werden können</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/organische-photovoltaik-module-guenstigere-produktion-projekt-durchblick-pv</link>
@@ -67,13 +74,6 @@
       <description>Drei Forschungsprojekte entwickeln neue Ansätze für eine energieeffiziente Wasserwirtschaft und die sichere Nutzung von Trinkwasser als Wärmequelle.</description>
       <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/projekteinblicke/energie-sparen-waerme-gewinnen-forschung-effiziente-wasserwirtschaft</guid>
-    </item>
-    <item>
-      <title>Information zu geänderten Schwellenwerten bei Vergaben</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/information-geaenderte-schwellenwerte-vergaben</link>
-      <description>Aufgrund eines Beschlusses des Bundeskabinettes ändern sich vorübergehend Schwellenwerte bei Vergaben.</description>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/information-geaenderte-schwellenwerte-vergaben</guid>
     </item>
   </channel>
 </rss>
