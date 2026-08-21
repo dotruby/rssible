@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Thu, 20 Aug 2026 04:13:09 </lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 04:13:47 </lastBuildDate>
+    <item>
+      <title>Wie Forschung Kollisionsrisiken an Windenergieanlagen genauer berechnet</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/windenergie-und-vogelschutz-wie-forschung-kollisionsrisiken-genauer-berechnet</link>
+      <description>Das Mikroprojekt RKR_Pro hat die für den Rotmilan entwickelte probabilistische Methode mithilfe realer Flugdaten auf weitere Vogelarten erweitert.</description>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/windenergie-und-vogelschutz-wie-forschung-kollisionsrisiken-genauer-berechnet</guid>
+    </item>
     <item>
       <title>Forschungsprojekt GIGA-M startet seismische Messkampagne in und um München</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/potenzial-tiefengeothermie-seismik-messkampagne-muenchen-waermeversorgung-projekt-giga-m</link>
@@ -67,13 +74,6 @@
       <description>Jetzt bewerben auf den aktuellen Förderaufruf „Begleitforschung zur Mission Wasserstoff im Energieforschungsprogramm“.</description>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/foerderaufruf-begleitforschung-wasserstoff</guid>
-    </item>
-    <item>
-      <title>Energie sparen, Wärme gewinnen: Forschung für eine effiziente Wasserwirtschaft</title>
-      <link>https://www.energieforschung.de/de/aktuelles/projekteinblicke/energie-sparen-waerme-gewinnen-forschung-effiziente-wasserwirtschaft</link>
-      <description>Drei Forschungsprojekte entwickeln neue Ansätze für eine energieeffiziente Wasserwirtschaft und die sichere Nutzung von Trinkwasser als Wärmequelle.</description>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/projekteinblicke/energie-sparen-waerme-gewinnen-forschung-effiziente-wasserwirtschaft</guid>
     </item>
   </channel>
 </rss>
