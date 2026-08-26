@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Tue, 25 Aug 2026 04:13:31 </lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 04:13:49 </lastBuildDate>
+    <item>
+      <title>Interpretationsspielräume reduzieren und Planungs- und Investitionssicherheit unterstützen</title>
+      <link>https://www.energieforschung.de/de/aktuelles/interviews/wasserstoffwirtschaft-interpretationsspielraeume-planungs-und-investitionssicherheit</link>
+      <description>Wie praxisnahe Leitfäden Planungsprozesse erleichtern sollen, erklärt Josephine Glandien von der DBI-Gruppe im Interview zu PORTAL GREEN II.</description>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/interviews/wasserstoffwirtschaft-interpretationsspielraeume-planungs-und-investitionssicherheit</guid>
+    </item>
     <item>
       <title>Wie Forschung Kollisionsrisiken an Windenergieanlagen genauer berechnet</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/windenergie-und-vogelschutz-wie-forschung-kollisionsrisiken-genauer-berechnet</link>
@@ -27,7 +34,7 @@
       <guid>https://www.energieforschung.de/de/aktuelles/news/organische-photovoltaik-module-guenstigere-produktion-projekt-durchblick-pv</guid>
     </item>
     <item>
-      <title>Acht Verbundvorhaben heben gemeinsam die Flexibilitäts-potenziale von Quartieren</title>
+      <title>Acht Verbundvorhaben heben gemeinsam die Flexibilitätspotenziale von Quartieren</title>
       <link>https://www.energieforschung.de/de/aktuelles/projekteinblicke/flexible-quartiere</link>
       <description>Acht Forschungsprojekte bringen ihre Fachkompetenzen zusammen, um Flexibilitätspotenziale in Quartieren zu erschließen.</description>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
@@ -67,13 +74,6 @@
       <description>Forschungserkenntnisse aus dem Reallabor Next-MeBa sollen zu effizienten, günstigeren, langlebigeren und sichereren Großbatteriespeichern beitragen.</description>
       <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/projekteinblicke/grossbatteriespeicher-next-meba</guid>
-    </item>
-    <item>
-      <title>Neuer Förderaufruf: Begleitforschung zur Mission Wasserstoff gesucht</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/foerderaufruf-begleitforschung-wasserstoff</link>
-      <description>Jetzt bewerben auf den aktuellen Förderaufruf „Begleitforschung zur Mission Wasserstoff im Energieforschungsprogramm“.</description>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/foerderaufruf-begleitforschung-wasserstoff</guid>
     </item>
   </channel>
 </rss>
