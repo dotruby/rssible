@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Tue, 01 Sep 2026 04:07:48 </lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 04:07:49 </lastBuildDate>
+    <item>
+      <title>Jetzt bewerben: DUT Call 2026 ist geöffnet</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/jetzt-bewerben-dut-call-2026</link>
+      <description>Die Driving Urban Transitions Partnership hat ihren Call für 2026 veröffentlicht. Ziel der Ausschreibung ist es, transnationale Projekte zu fördern.</description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/jetzt-bewerben-dut-call-2026</guid>
+    </item>
     <item>
       <title>Interpretationsspielräume reduzieren und Planungs- und Investitionssicherheit unterstützen</title>
       <link>https://www.energieforschung.de/de/aktuelles/interviews/wasserstoffwirtschaft-interpretationsspielraeume-planungs-und-investitionssicherheit</link>
@@ -67,13 +74,6 @@
       <description>Wie die Methanisierung in bestehende Energie- und Infrastruktursysteme integriert werden können, demonstrieren drei vom BMWE geförderte Projekte.</description>
       <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/projekteinblicke/umruestung-von-biogasanlagen-zu-dezentralen-speicherkraftwerken</guid>
-    </item>
-    <item>
-      <title>Innovative Großbatteriespeicher für ein flexibles und stabiles Stromnetz</title>
-      <link>https://www.energieforschung.de/de/aktuelles/projekteinblicke/grossbatteriespeicher-next-meba</link>
-      <description>Forschungserkenntnisse aus dem Reallabor Next-MeBa sollen zu effizienten, günstigeren, langlebigeren und sichereren Großbatteriespeichern beitragen.</description>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/projekteinblicke/grossbatteriespeicher-next-meba</guid>
     </item>
   </channel>
 </rss>
