@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Wed, 09 Sep 2026 04:07:44 </lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 04:07:21 </lastBuildDate>
+    <item>
+      <title>Energiepark Bad Lauchstädt erhält RFNBO-Zertifizierung</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/reallabor-energiepark-bad-lauchstaedt-meilensteine</link>
+      <description>Der Energiepark Bad Lauchstädt hat einen wichtigen Schritt auf dem Weg zur Produktion und Vermarktung von erneuerbarem Wasserstoff erreicht.</description>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/reallabor-energiepark-bad-lauchstaedt-meilensteine</guid>
+    </item>
     <item>
       <title>Jetzt bewerben: DUT Call 2026 ist geöffnet</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/jetzt-bewerben-dut-call-2026</link>
@@ -67,13 +74,6 @@
       <description>Die Geothermie-Forschungsplattform Groß Schönebeck hat sich zu einem international bedeutenden Standort für Forschung zur Tiefengeothermie entwickelt.</description>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/25-jahre-geothermie-forschung-gross-schoenebeck</guid>
-    </item>
-    <item>
-      <title>Umrüstung von Biogasanlagen zu dezentralen Speicherkraftwerken</title>
-      <link>https://www.energieforschung.de/de/aktuelles/projekteinblicke/umruestung-von-biogasanlagen-zu-dezentralen-speicherkraftwerken</link>
-      <description>Wie die Methanisierung in bestehende Energie- und Infrastruktursysteme integriert werden können, demonstrieren drei vom BMWE geförderte Projekte.</description>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/projekteinblicke/umruestung-von-biogasanlagen-zu-dezentralen-speicherkraftwerken</guid>
     </item>
   </channel>
 </rss>
