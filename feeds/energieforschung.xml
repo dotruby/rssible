@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Wed, 16 Sep 2026 04:07:56 </lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 04:08:11 </lastBuildDate>
+    <item>
+      <title>Was den Wärmepumpenausbau bremst – und was wirklich hilft</title>
+      <link>https://www.energieforschung.de/de/aktuelles/interviews/was-den-waermepumpenausbau-bremst-und-was-wirklich-hilft</link>
+      <description>Wie sich Luft-Wasser-Wärmepumpen deutlich schneller einbauen lassen, berichtet Matthias Thiel vom ZVSHK im Interview zu WESPE.</description>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/interviews/was-den-waermepumpenausbau-bremst-und-was-wirklich-hilft</guid>
+    </item>
     <item>
       <title>Ausgediente Rotorblätter: Recyceln statt verbrennen</title>
       <link>https://www.energieforschung.de/de/aktuelles/projekteinblicke/recycling-rotorblaetter-windenergieanlagen-ressourcen-glasfasern-kohlenstofffasern</link>
@@ -67,13 +74,6 @@
       <description>Mit der kommunalen Wärmeplanung legen Städte und Gemeinden fest, wie sie ihre Wärmeversorgung schrittweise klimaverträglich gestalten wollen.</description>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/kommunale-waermeplanung-waermeversorgung-forschungsprojekt-kover</guid>
-    </item>
-    <item>
-      <title>Wie kann Wasserstoff das Stromnetz flexibler machen?</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/wasserstoff-stromnetz-flexiblitaet-projekt-hydrogas</link>
-      <description>Das Projektteam von HYDROgas entwickelt eine innovative Gassensorik, die Reinheit und Gaskonzentration des Wasserstoffs misst.</description>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/wasserstoff-stromnetz-flexiblitaet-projekt-hydrogas</guid>
     </item>
   </channel>
 </rss>
