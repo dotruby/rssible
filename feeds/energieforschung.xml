@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Thu, 17 Sep 2026 04:08:11 </lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 04:07:24 </lastBuildDate>
+    <item>
+      <title>Neues Schweißverfahren im Gleisbau benötigt 40 Prozent weniger Energie</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/neues-schweissverfahren-benoetigt-vierzig-prozent-weniger-energie</link>
+      <description>Wie lückenloses Verschweißen im Schienenbau ressourcenschonender funktioniert als bisher zeigt das Forschungsprojekt PROENOS.</description>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/neues-schweissverfahren-benoetigt-vierzig-prozent-weniger-energie</guid>
+    </item>
     <item>
       <title>Was den Wärmepumpenausbau bremst – und was wirklich hilft</title>
       <link>https://www.energieforschung.de/de/aktuelles/interviews/was-den-waermepumpenausbau-bremst-und-was-wirklich-hilft</link>
@@ -67,13 +74,6 @@
       <description>Acht Forschungsprojekte bringen ihre Fachkompetenzen zusammen, um Flexibilitätspotenziale in Quartieren zu erschließen.</description>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/projekteinblicke/flexible-quartiere</guid>
-    </item>
-    <item>
-      <title>Das Forschungsprojekt KOVER identifiziert Risiken von Wärmeplänen, bevor sie die Umsetzung bremsen</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/kommunale-waermeplanung-waermeversorgung-forschungsprojekt-kover</link>
-      <description>Mit der kommunalen Wärmeplanung legen Städte und Gemeinden fest, wie sie ihre Wärmeversorgung schrittweise klimaverträglich gestalten wollen.</description>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/kommunale-waermeplanung-waermeversorgung-forschungsprojekt-kover</guid>
     </item>
   </channel>
 </rss>
