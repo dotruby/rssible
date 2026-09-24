@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Wed, 23 Sep 2026 04:08:11 </lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 04:07:53 </lastBuildDate>
+    <item>
+      <title>Bundeskabinett verabschiedet Bundesbericht Energieforschung 2026</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/bundesbericht-energieforschung-2026</link>
+      <description>Das Bundeskabinett hat in seiner heutigen Sitzung den Bundesbericht Energieforschung 2026 verabschiedet.</description>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/bundesbericht-energieforschung-2026</guid>
+    </item>
     <item>
       <title>„Künftig werden nicht mehr nur wenige große Kraftwerke für die Systemstabilität sorgen“</title>
       <link>https://www.energieforschung.de/de/aktuelles/interviews/gfi-pilot-netzbildende-wechselrichter-dezentrale-kraftwerke-systemstabilitaet</link>
@@ -67,13 +74,6 @@
       <description>Um das Potenzial der Tiefengeothermie im Großraum München zu erkunden, werden im Rahmen des Projekts GIGA-M im August Seismikmessungen durchgeführt.</description>
       <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/potenzial-tiefengeothermie-seismik-messkampagne-muenchen-waermeversorgung-projekt-giga-m</guid>
-    </item>
-    <item>
-      <title>Von der Forschung in die Fertigung: Wie organische PV-Module günstiger produziert werden können</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/organische-photovoltaik-module-guenstigere-produktion-projekt-durchblick-pv</link>
-      <description>Organische Photovoltaik-Module liefern zwar weniger Strom als klassische Silizium-Module, können aber mit Lichtdurchlässigkeit und Design glänzen.</description>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/organische-photovoltaik-module-guenstigere-produktion-projekt-durchblick-pv</guid>
     </item>
   </channel>
 </rss>
