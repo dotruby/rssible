@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Thu, 24 Sep 2026 04:07:53 </lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 04:08:42 </lastBuildDate>
+    <item>
+      <title>Wie Forschende Rotorblätter von Windrädern künftig schneller reparieren wollen</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/marilep-erprobt-neue-reparaturkonzepte-fuer-erosionsgeschaedigte-rotorblaetter</link>
+      <description>Bei einer Praxiserprobung in Porto haben Forschende drei unterschiedliche Reparaturkonzepte für den Erosionsschutz getestet.</description>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/marilep-erprobt-neue-reparaturkonzepte-fuer-erosionsgeschaedigte-rotorblaetter</guid>
+    </item>
     <item>
       <title>Bundeskabinett verabschiedet Bundesbericht Energieforschung 2026</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/bundesbericht-energieforschung-2026</link>
@@ -67,13 +74,6 @@
       <description>Das Mikroprojekt RKR_Pro hat die für den Rotmilan entwickelte probabilistische Methode mithilfe realer Flugdaten auf weitere Vogelarten erweitert.</description>
       <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/windenergie-und-vogelschutz-wie-forschung-kollisionsrisiken-genauer-berechnet</guid>
-    </item>
-    <item>
-      <title>Forschungsprojekt GIGA-M startet seismische Messkampagne in und um München</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/potenzial-tiefengeothermie-seismik-messkampagne-muenchen-waermeversorgung-projekt-giga-m</link>
-      <description>Um das Potenzial der Tiefengeothermie im Großraum München zu erkunden, werden im Rahmen des Projekts GIGA-M im August Seismikmessungen durchgeführt.</description>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/potenzial-tiefengeothermie-seismik-messkampagne-muenchen-waermeversorgung-projekt-giga-m</guid>
     </item>
   </channel>
 </rss>
