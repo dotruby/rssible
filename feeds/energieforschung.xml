@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Tue, 29 Sep 2026 04:08:15 </lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 04:07:59 </lastBuildDate>
+    <item>
+      <title>Projektetreffen EWB: Wissenschaft und Praxis Hand in Hand für Modernisierung im Bestand</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/projektetreffen-energiewendebauen-modernisierung-im-bestand</link>
+      <description>Wie kommen Lösungen für die energetische Modernisierung schneller in die Praxis? Dies war vom 17. bis 18. September Thema der Veranstaltung.</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/projektetreffen-energiewendebauen-modernisierung-im-bestand</guid>
+    </item>
     <item>
       <title>Wie Forschende Rotorblätter von Windrädern künftig schneller reparieren wollen</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/marilep-erprobt-neue-reparaturkonzepte-fuer-erosionsgeschaedigte-rotorblaetter</link>
@@ -67,13 +74,6 @@
       <description>Wie praxisnahe Leitfäden Planungsprozesse erleichtern sollen, erklärt Josephine Glandien von der DBI-Gruppe im Interview zu PORTAL GREEN II.</description>
       <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/interviews/wasserstoffwirtschaft-interpretationsspielraeume-planungs-und-investitionssicherheit</guid>
-    </item>
-    <item>
-      <title>Wie Forschende das Kollisionsrisiko von Vögeln an Windenergieanlagen senken</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/windenergie-und-vogelschutz-wie-forschung-kollisionsrisiken-genauer-berechnet</link>
-      <description>Das Mikroprojekt RKR_Pro hat die für den Rotmilan entwickelte probabilistische Methode mithilfe realer Flugdaten auf weitere Vogelarten erweitert.</description>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/windenergie-und-vogelschutz-wie-forschung-kollisionsrisiken-genauer-berechnet</guid>
     </item>
   </channel>
 </rss>
