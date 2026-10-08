@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Wed, 07 Oct 2026 04:08:40 </lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 04:09:13 </lastBuildDate>
+    <item>
+      <title>Forschungsprojekt WESPE gibt dem Handwerk praktische Tools an die Hand</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/waermepumpen-ausbau-handwerk-tools-projekt-wespe</link>
+      <description>Mit App, Quick-Check und einer Wissensplattform für Handwerker haben Forschende im Projekt WESPE konkrete Tools für den Wärmepumpenausbau entwickelt.</description>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/waermepumpen-ausbau-handwerk-tools-projekt-wespe</guid>
+    </item>
     <item>
       <title>Projektetreffen EWB: Wissenschaft und Praxis Hand in Hand für Modernisierung im Bestand</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/projektetreffen-energiewendebauen-modernisierung-im-bestand</link>
@@ -67,13 +74,6 @@
       <description>Die Driving Urban Transitions Partnership hat ihren Call für 2026 veröffentlicht. Ziel der Ausschreibung ist es, transnationale Projekte zu fördern.</description>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/jetzt-bewerben-dut-call-2026</guid>
-    </item>
-    <item>
-      <title>Interpretationsspielräume reduzieren und Planungs- und Investitionssicherheit unterstützen</title>
-      <link>https://www.energieforschung.de/de/aktuelles/interviews/wasserstoffwirtschaft-interpretationsspielraeume-planungs-und-investitionssicherheit</link>
-      <description>Wie praxisnahe Leitfäden Planungsprozesse erleichtern sollen, erklärt Josephine Glandien von der DBI-Gruppe im Interview zu PORTAL GREEN II.</description>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/interviews/wasserstoffwirtschaft-interpretationsspielraeume-planungs-und-investitionssicherheit</guid>
     </item>
   </channel>
 </rss>
