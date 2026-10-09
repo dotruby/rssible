@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Thu, 08 Oct 2026 04:09:13 </lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 04:09:30 </lastBuildDate>
+    <item>
+      <title>Potenzial für Fernwärme: Wie industrielle Abwärme die Wärmewende voranbringen kann</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/potenzial-fernwaerme-industrielle-abwaerme-waermewende-norddeutsches-reallabor</link>
+      <description>Eine neue Studie des Norddeutschen Reallabors zeigt die Voraussetzungen für eine stärkere Einspeisung von industrieller Abwärme in Fernwärmenetze auf.</description>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/potenzial-fernwaerme-industrielle-abwaerme-waermewende-norddeutsches-reallabor</guid>
+    </item>
     <item>
       <title>Forschungsprojekt WESPE gibt dem Handwerk praktische Tools an die Hand</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/waermepumpen-ausbau-handwerk-tools-projekt-wespe</link>
@@ -67,13 +74,6 @@
       <description>Der Energiepark Bad Lauchstädt hat einen wichtigen Schritt auf dem Weg zur Produktion und Vermarktung von erneuerbarem Wasserstoff erreicht.</description>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/reallabor-energiepark-bad-lauchstaedt-meilensteine</guid>
-    </item>
-    <item>
-      <title>Jetzt bewerben: DUT Call 2026 ist geöffnet</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/jetzt-bewerben-dut-call-2026</link>
-      <description>Die Driving Urban Transitions Partnership hat ihren Call für 2026 veröffentlicht. Ziel der Ausschreibung ist es, transnationale Projekte zu fördern.</description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/jetzt-bewerben-dut-call-2026</guid>
     </item>
   </channel>
 </rss>
