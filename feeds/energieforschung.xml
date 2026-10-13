@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Sat, 10 Oct 2026 04:09:12 </lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 04:12:32 </lastBuildDate>
+    <item>
+      <title>UrbanWave: Diese Stadtbäder qualifizieren sich für die nächste Wettbewerbsphase</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/urban-wave-stadtbaeder-qualifikation-naechste-wettbewerbsphase</link>
+      <description>Zwei von fünf Teams haben sich im Innovationswettbewerb „UrbanWave – Stadtbad der Zukunft“ für die BUILD- und OPERATE-Phase qualifiziert.</description>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/urban-wave-stadtbaeder-qualifikation-naechste-wettbewerbsphase</guid>
+    </item>
     <item>
       <title>Potenzial für Fernwärme: Wie industrielle Abwärme die Wärmewende voranbringen kann</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/potenzial-fernwaerme-industrielle-abwaerme-waermewende-norddeutsches-reallabor</link>
@@ -67,13 +74,6 @@
       <description>Wie Verbundwerkstoffe aus ausgedienten Rotorblättern wiedergewonnen und sinnvoll genutzt werden können, untersuchen verschiedene Projektansätze.</description>
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/projekteinblicke/recycling-rotorblaetter-windenergieanlagen-ressourcen-glasfasern-kohlenstofffasern</guid>
-    </item>
-    <item>
-      <title>Energiepark Bad Lauchstädt erhält RFNBO-Zertifizierung</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/reallabor-energiepark-bad-lauchstaedt-meilensteine</link>
-      <description>Der Energiepark Bad Lauchstädt hat einen wichtigen Schritt auf dem Weg zur Produktion und Vermarktung von erneuerbarem Wasserstoff erreicht.</description>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/reallabor-energiepark-bad-lauchstaedt-meilensteine</guid>
     </item>
   </channel>
 </rss>
