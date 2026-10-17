@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Thu, 15 Oct 2026 04:07:24 </lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 04:06:58 </lastBuildDate>
+    <item>
+      <title>„KI im Handwerk funktioniert nur, wenn sie im echten Betrieb entwickelt wird“</title>
+      <link>https://www.energieforschung.de/de/aktuelles/interviews/ki-im-handwerk-kilian-schramm-projekt-meisterwaerme</link>
+      <description>Die Fehlerdiagnose, Wartung und Instandhaltung von Heizungen sollen im Vorhaben MEISTERWÄRME mit künstlicher Intelligenz effizienter gestaltet werden.</description>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/interviews/ki-im-handwerk-kilian-schramm-projekt-meisterwaerme</guid>
+    </item>
     <item>
       <title>Starke Zusammenarbeit für eine starke Windindustrie</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/matchmaking-symposium-windenergieforschung-starke-zusammenarbeit-windindustrie</link>
@@ -67,13 +74,6 @@
       <description>Das Bundeskabinett hat in seiner heutigen Sitzung den Bundesbericht Energieforschung 2026 verabschiedet.</description>
       <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/bundesbericht-energieforschung-2026</guid>
-    </item>
-    <item>
-      <title>„Künftig werden nicht mehr nur wenige große Kraftwerke für die Systemstabilität sorgen“</title>
-      <link>https://www.energieforschung.de/de/aktuelles/interviews/gfi-pilot-netzbildende-wechselrichter-dezentrale-kraftwerke-systemstabilitaet</link>
-      <description>Im Forschungsprojekt GFI-Pilot testen Fachleute netzbildende Batteriespeicher im Verteilnetz. Projektleiter Matthias Sturm berichtet von den Arbeiten.</description>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/interviews/gfi-pilot-netzbildende-wechselrichter-dezentrale-kraftwerke-systemstabilitaet</guid>
     </item>
   </channel>
 </rss>
