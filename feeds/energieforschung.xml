@@ -4,7 +4,21 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Tue, 20 Oct 2026 04:07:24 </lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 04:07:36 </lastBuildDate>
+    <item>
+      <title>Energiesystem kostengünstig modernisieren: Neue Technologie hilft, Stromleitungen besser auszulasten</title>
+      <link>https://www.energieforschung.de/de/aktuelles/projekteinblicke/stromnetze-hoeher-auslasten-netzoptimierung-sensorsystem-astrose</link>
+      <description>Um den Netzbetrieb zu optimieren, entwickelte ein Forschungsteam mithilfe von Sensoren eine Überwachungsmethode, die nun industriell angewendet wird.</description>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/projekteinblicke/stromnetze-hoeher-auslasten-netzoptimierung-sensorsystem-astrose</guid>
+    </item>
+    <item>
+      <title>Fünf-Megawatt-Elektrolyseur am Rhein eingeweiht</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/einweihung-fuenf-megawatt-elektrolyseur-power-to-gas-anlage-wasserstoff-reallabor-h2-wyhlen</link>
+      <description>Nach knapp zwei Jahren Bau- und Montagezeit haben die Fachleute des Reallabors H2-Wyhlen Anfang Oktober 2026 eine neue Power-to-Gas-Anlage eingeweiht.</description>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/einweihung-fuenf-megawatt-elektrolyseur-power-to-gas-anlage-wasserstoff-reallabor-h2-wyhlen</guid>
+    </item>
     <item>
       <title>„KI im Handwerk funktioniert nur, wenn sie im echten Betrieb entwickelt wird“</title>
       <link>https://www.energieforschung.de/de/aktuelles/interviews/ki-im-handwerk-kilian-schramm-projekt-meisterwaerme</link>
@@ -18,13 +32,6 @@
       <description>Beim MatchMaking-Symposium zur Windenergieforschung diskutierten die Teilnehmenden Herausforderungen und Chancen für die europäische Windindustrie.</description>
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/matchmaking-symposium-windenergieforschung-starke-zusammenarbeit-windindustrie</guid>
-    </item>
-    <item>
-      <title>Fünf-Megawatt-Elektrolyseur am Rhein eingeweiht</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/einweihung-fuenf-megawatt-elektrolyseur-power-to-gas-anlage-wasserstoff-reallabor-h2-wyhlen</link>
-      <description>Nach knapp zwei Jahren Bau- und Montagezeit haben die Fachleute des Reallabors H2-Wyhlen Anfang Oktober 2026 eine neue Power-to-Gas-Anlage eingeweiht.</description>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/einweihung-fuenf-megawatt-elektrolyseur-power-to-gas-anlage-wasserstoff-reallabor-h2-wyhlen</guid>
     </item>
     <item>
       <title>Industrietaugliches Brennersystem für Innovationspreis Neue Gase 2026 nominiert</title>
@@ -67,13 +74,6 @@
       <description>Wie kommen Lösungen für die energetische Modernisierung schneller in die Praxis? Dies war vom 17. bis 18. September Thema der Veranstaltung.</description>
       <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/projektetreffen-energiewendebauen-modernisierung-im-bestand</guid>
-    </item>
-    <item>
-      <title>Wie Forschende Rotorblätter von Windrädern künftig schneller reparieren wollen</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/marilep-erprobt-neue-reparaturkonzepte-fuer-erosionsgeschaedigte-rotorblaetter</link>
-      <description>Bei einer Praxiserprobung in Porto haben Forschende drei unterschiedliche Reparaturkonzepte für den Erosionsschutz getestet.</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/marilep-erprobt-neue-reparaturkonzepte-fuer-erosionsgeschaedigte-rotorblaetter</guid>
     </item>
   </channel>
 </rss>
