@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Wed, 21 Oct 2026 04:07:36 </lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 04:07:21 </lastBuildDate>
+    <item>
+      <title>Sanierung von außen: Wie die Fassade zu Heizung, Kühlung und Wärmespeicher wird</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/sanierung-fassade-heizung-kuehlung-waermespeicher-aktives-daemm-heiz-kuehlsystem</link>
+      <description>Die Fassade des Forschungsprojekts AktivDHKS heizt im Winter, kühlt im Sommer und speichert Wärme.</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/sanierung-fassade-heizung-kuehlung-waermespeicher-aktives-daemm-heiz-kuehlsystem</guid>
+    </item>
     <item>
       <title>Energiesystem kostengünstig modernisieren: Neue Technologie hilft, Stromleitungen besser auszulasten</title>
       <link>https://www.energieforschung.de/de/aktuelles/projekteinblicke/stromnetze-hoeher-auslasten-netzoptimierung-sensorsystem-astrose</link>
@@ -67,13 +74,6 @@
       <description>Mit App, Quick-Check und einer Wissensplattform für Handwerker haben Forschende im Projekt WESPE konkrete Tools für den Wärmepumpenausbau entwickelt.</description>
       <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/waermepumpen-ausbau-handwerk-tools-projekt-wespe</guid>
-    </item>
-    <item>
-      <title>Projektetreffen EWB: Wissenschaft und Praxis Hand in Hand für Modernisierung im Bestand</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/projektetreffen-energiewendebauen-modernisierung-im-bestand</link>
-      <description>Wie kommen Lösungen für die energetische Modernisierung schneller in die Praxis? Dies war vom 17. bis 18. September Thema der Veranstaltung.</description>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/projektetreffen-energiewendebauen-modernisierung-im-bestand</guid>
     </item>
   </channel>
 </rss>
