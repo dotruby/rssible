@@ -4,7 +4,21 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Thu, 22 Oct 2026 04:07:21 </lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 04:07:32 </lastBuildDate>
+    <item>
+      <title>Rekordausbau: Fast 3 Terawatt weltweit installierte Photovoltaikleistung im Jahr 2025</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/rekordausbau-fast-drei-terawatt-photovoltaik-leistung-weltweit-2025-iea-pvps-trends-report</link>
+      <description>Der Report „Trends in PV Applications 2026“ bestätigt für 2025 einen weiteren Ausbau-Rekord hinsichtlich global installierter Photovoltaikleistung.</description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/rekordausbau-fast-drei-terawatt-photovoltaik-leistung-weltweit-2025-iea-pvps-trends-report</guid>
+    </item>
+    <item>
+      <title>Renommierte Auszeichnung für Energiepark Bad Lauchstädt</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/reallabor-energiepark-bad-lauchstaedt</link>
+      <description>Der Energiepark Bad Lauchstädt ist mit dem zweiten Preis des IEA Hydrogen TCP Award 2026 ausgezeichnet worden.</description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/reallabor-energiepark-bad-lauchstaedt</guid>
+    </item>
     <item>
       <title>Sanierung von außen: Wie die Fassade zu Heizung, Kühlung und Wärmespeicher wird</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/sanierung-fassade-heizung-kuehlung-waermespeicher-aktives-daemm-heiz-kuehlsystem</link>
@@ -60,20 +74,6 @@
       <description>Zwei von fünf Teams haben sich im Innovationswettbewerb „UrbanWave – Stadtbad der Zukunft“ für die BUILD- und OPERATE-Phase qualifiziert.</description>
       <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/urban-wave-stadtbaeder-qualifikation-naechste-wettbewerbsphase</guid>
-    </item>
-    <item>
-      <title>Industrielle Abwärme für Fernwärme: Hürden überwinden, Potenziale erschließen</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/potenzial-fernwaerme-industrielle-abwaerme-waermewende-norddeutsches-reallabor</link>
-      <description>Eine neue Studie des Norddeutschen Reallabors zeigt die Voraussetzungen für eine stärkere Einspeisung von industrieller Abwärme in Fernwärmenetze auf.</description>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/potenzial-fernwaerme-industrielle-abwaerme-waermewende-norddeutsches-reallabor</guid>
-    </item>
-    <item>
-      <title>Forschungsprojekt WESPE gibt dem Handwerk praktische Tools an die Hand</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/waermepumpen-ausbau-handwerk-tools-projekt-wespe</link>
-      <description>Mit App, Quick-Check und einer Wissensplattform für Handwerker haben Forschende im Projekt WESPE konkrete Tools für den Wärmepumpenausbau entwickelt.</description>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/waermepumpen-ausbau-handwerk-tools-projekt-wespe</guid>
     </item>
   </channel>
 </rss>
