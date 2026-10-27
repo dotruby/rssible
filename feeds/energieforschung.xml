@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Mon, 26 Oct 2026 04:08:50 </lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 04:07:24 </lastBuildDate>
+    <item>
+      <title>Neuer Förderaufruf für die Forschung zu Großwärmepumpen und thermischen Speichern für die Industrie</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/neuer-foerderaufruf-transferprojekt-forschung-grosswaermepumpen-thermische-speicher-industrie</link>
+      <description>Das BMWE hat den Förderaufruf „Transferprojekt für die Forschung zu Großwärmepumpen und thermischen Speichern für die Industrie“ veröffentlicht.</description>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/neuer-foerderaufruf-transferprojekt-forschung-grosswaermepumpen-thermische-speicher-industrie</guid>
+    </item>
     <item>
       <title>Rekordausbau: Fast 3 Terawatt weltweit installierte Photovoltaikleistung im Jahr 2025</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/rekordausbau-fast-drei-terawatt-photovoltaik-leistung-weltweit-2025-iea-pvps-trends-report</link>
@@ -67,13 +74,6 @@
       <description>Bezahlbar, klimafreundlich und krisenfest: Wie die Energieversorgung der Zukunft gelingen kann, stand im Mittelpunkt der FVEE-Jahrestagung 2026.</description>
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/fvee-jahrestagung-2026</guid>
-    </item>
-    <item>
-      <title>UrbanWave: Diese Stadtbäder qualifizieren sich für die nächste Wettbewerbsphase</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/urban-wave-stadtbaeder-qualifikation-naechste-wettbewerbsphase</link>
-      <description>Zwei von fünf Teams haben sich im Innovationswettbewerb „UrbanWave – Stadtbad der Zukunft“ für die BUILD- und OPERATE-Phase qualifiziert.</description>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/urban-wave-stadtbaeder-qualifikation-naechste-wettbewerbsphase</guid>
     </item>
   </channel>
 </rss>
