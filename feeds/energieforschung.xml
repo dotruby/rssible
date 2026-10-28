@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Tue, 27 Oct 2026 04:07:24 </lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 04:05:42 </lastBuildDate>
+    <item>
+      <title>Erfolgreiche Ausbauzahlen: Knapp 6 Gigawatt neu installierte Windenergieleistung in 2025</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/erfolgreiche-ausbauzahlen-knapp-sechs-gigawatt-windenergieleistung-2025</link>
+      <description>Rückblickend auf das Jahr 2025 stellt der „IEA Wind TCP Annual Report 2025“ für die Windenergie in Deutschland deutliche Erfolge dar.</description>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/erfolgreiche-ausbauzahlen-knapp-sechs-gigawatt-windenergieleistung-2025</guid>
+    </item>
     <item>
       <title>Neuer Förderaufruf für die Forschung zu Großwärmepumpen und thermischen Speichern für die Industrie</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/neuer-foerderaufruf-transferprojekt-forschung-grosswaermepumpen-thermische-speicher-industrie</link>
@@ -67,13 +74,6 @@
       <description>Das Forschungsprojekt BrEEga kann auf den Innovationspreis Neue Gase 2026 hoffen: Im Projekt entwickeln Fachleute ein innovatives Brennersystem.</description>
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/industrietaugliches-brennersystem-innovationspreis-neue-gase</guid>
-    </item>
-    <item>
-      <title>Resilient und bezahlbar: Forschung und Nachwuchs zeigen Lösungen für das Energiesystem der Zukunft</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/fvee-jahrestagung-2026</link>
-      <description>Bezahlbar, klimafreundlich und krisenfest: Wie die Energieversorgung der Zukunft gelingen kann, stand im Mittelpunkt der FVEE-Jahrestagung 2026.</description>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/fvee-jahrestagung-2026</guid>
     </item>
   </channel>
 </rss>
