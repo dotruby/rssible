@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Thu, 29 Oct 2026 04:05:46 </lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 04:05:46 </lastBuildDate>
+    <item>
+      <title>BMWE fördert Testinfrastrukturen für Wärme- und Kältetechnologien</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/bmwe-foerderung-testinfrastrukturen-waerme-und-kaeltetechnologien</link>
+      <description>Das BMWE fördert neue Testinfrastrukturen für Wärme- und Kältetechnologien. Projektskizzen können bis zum 13. Dezember 2026 eingereicht werden.</description>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/bmwe-foerderung-testinfrastrukturen-waerme-und-kaeltetechnologien</guid>
+    </item>
     <item>
       <title>Forschungsprojekte untersuchen Wege für eine klimafreundlichere Glasherstellung</title>
       <link>https://www.energieforschung.de/de/aktuelles/projekteinblicke/forschungsprojekte-klimafreundlichere-glasherstellung</link>
@@ -67,13 +74,6 @@
       <description>Die Fehlerdiagnose, Wartung und Instandhaltung von Heizungen sollen im Vorhaben MEISTERWÄRME mit künstlicher Intelligenz effizienter gestaltet werden.</description>
       <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/interviews/ki-im-handwerk-kilian-schramm-projekt-meisterwaerme</guid>
-    </item>
-    <item>
-      <title>Starke Zusammenarbeit für eine starke Windindustrie</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/matchmaking-symposium-windenergieforschung-starke-zusammenarbeit-windindustrie</link>
-      <description>Beim MatchMaking-Symposium zur Windenergieforschung diskutierten die Teilnehmenden Herausforderungen und Chancen für die europäische Windindustrie.</description>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/matchmaking-symposium-windenergieforschung-starke-zusammenarbeit-windindustrie</guid>
     </item>
   </channel>
 </rss>
