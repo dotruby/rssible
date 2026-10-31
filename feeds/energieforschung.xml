@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Fri, 30 Oct 2026 04:05:46 </lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 04:04:37 </lastBuildDate>
+    <item>
+      <title>Wasserstoff unter Druck: Fachleute entwickeln neue Elektrolyseur-Generation</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/entwicklung-neue-elektrolyseur-generation-wasserstoff</link>
+      <description>Das Projekt SUPER-H2 entwickelt Fertigungsverfahren für Elektrolyseure, mit denen Wasserstoff in der Herstellung unter Druck erzeugt werden kann.</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/entwicklung-neue-elektrolyseur-generation-wasserstoff</guid>
+    </item>
     <item>
       <title>BMWE fördert Testinfrastrukturen für Wärme- und Kältetechnologien</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/bmwe-foerderung-testinfrastrukturen-waerme-und-kaeltetechnologien</link>
@@ -67,13 +74,6 @@
       <description>Nach knapp zwei Jahren Bau- und Montagezeit haben die Fachleute des Reallabors H2-Wyhlen Anfang Oktober 2026 eine neue Power-to-Gas-Anlage eingeweiht.</description>
       <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/einweihung-fuenf-megawatt-elektrolyseur-power-to-gas-anlage-wasserstoff-reallabor-h2-wyhlen</guid>
-    </item>
-    <item>
-      <title>„KI im Handwerk funktioniert nur, wenn sie im echten Betrieb entwickelt wird“</title>
-      <link>https://www.energieforschung.de/de/aktuelles/interviews/ki-im-handwerk-kilian-schramm-projekt-meisterwaerme</link>
-      <description>Die Fehlerdiagnose, Wartung und Instandhaltung von Heizungen sollen im Vorhaben MEISTERWÄRME mit künstlicher Intelligenz effizienter gestaltet werden.</description>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/interviews/ki-im-handwerk-kilian-schramm-projekt-meisterwaerme</guid>
     </item>
   </channel>
 </rss>
