@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Mon, 02 Nov 2026 04:05:32 </lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 04:05:13 </lastBuildDate>
+    <item>
+      <title>Erster Partnerdialog mit Wasserstoffinfrastruktur im Fokus</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/partnerdialog-wasserstoffinfrastruktur-technologie-roadmap-wasserstoff</link>
+      <description>Beim ersten Partnerdialog zur Technologie-Roadmap Wasserstoff diskutierten Fachleute über Forschungsbedarfe beim Ausbau der Wasserstoffinfrastruktur.</description>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/partnerdialog-wasserstoffinfrastruktur-technologie-roadmap-wasserstoff</guid>
+    </item>
     <item>
       <title>Wasserstoff unter Druck: Fachleute entwickeln neue Elektrolyseur-Generation</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/entwicklung-neue-elektrolyseur-generation-wasserstoff</link>
@@ -67,13 +74,6 @@
       <description>Um den Netzbetrieb zu optimieren, entwickelte ein Forschungsteam mithilfe von Sensoren eine Überwachungsmethode, die nun industriell angewendet wird.</description>
       <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/projekteinblicke/stromnetze-hoeher-auslasten-netzoptimierung-sensorsystem-astrose</guid>
-    </item>
-    <item>
-      <title>Fünf-Megawatt-Elektrolyseur am Rhein eingeweiht</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/einweihung-fuenf-megawatt-elektrolyseur-power-to-gas-anlage-wasserstoff-reallabor-h2-wyhlen</link>
-      <description>Nach knapp zwei Jahren Bau- und Montagezeit haben die Fachleute des Reallabors H2-Wyhlen Anfang Oktober 2026 eine neue Power-to-Gas-Anlage eingeweiht.</description>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/einweihung-fuenf-megawatt-elektrolyseur-power-to-gas-anlage-wasserstoff-reallabor-h2-wyhlen</guid>
     </item>
   </channel>
 </rss>
