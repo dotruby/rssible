@@ -4,7 +4,21 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Wed, 04 Nov 2026 04:04:53 </lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 04:05:23 </lastBuildDate>
+    <item>
+      <title>Ihre Meinung zählt: Newsletter „Energieforschung aktuell“ mitgestalten</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/newsletter-energieforschung-aktuell-umfrage-meinung-mitgestaltung</link>
+      <description>Welche Infos aus der Energieforschung sind für Sie besonders interessant? Wie nutzen Sie unseren Newsletter, was können wir künftig optimieren?</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/newsletter-energieforschung-aktuell-umfrage-meinung-mitgestaltung</guid>
+    </item>
+    <item>
+      <title>Modulare Windenergieanlage beschleunigt vorwettbewerbliche Forschung</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/opus-3-modulare-windenergieanlage-inbetriebnahme-wivaldi</link>
+      <description>Der Forschungswindpark WiValdi des DLR ist um eine dritte Windenergieanlage reicher. Besonders an der 50 Meter hohen OPUS 3 ist ihr modularer Aufbau.</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/opus-3-modulare-windenergieanlage-inbetriebnahme-wivaldi</guid>
+    </item>
     <item>
       <title>Erster Partnerdialog mit Wasserstoffinfrastruktur im Fokus</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/partnerdialog-wasserstoffinfrastruktur-technologie-roadmap-wasserstoff</link>
@@ -60,20 +74,6 @@
       <description>Der Energiepark Bad Lauchstädt ist mit dem zweiten Preis des IEA Hydrogen TCP Award 2026 ausgezeichnet worden.</description>
       <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/reallabor-energiepark-bad-lauchstaedt</guid>
-    </item>
-    <item>
-      <title>Sanierung von außen: Wie die Fassade zu Heizung, Kühlung und Wärmespeicher wird</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/sanierung-fassade-heizung-kuehlung-waermespeicher-aktives-daemm-heiz-kuehlsystem</link>
-      <description>Die Fassade des Forschungsprojekts AktivDHKS heizt im Winter, kühlt im Sommer und speichert Wärme.</description>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/sanierung-fassade-heizung-kuehlung-waermespeicher-aktives-daemm-heiz-kuehlsystem</guid>
-    </item>
-    <item>
-      <title>Energiesystem kostengünstig modernisieren: Neue Technologie hilft, Stromleitungen besser auszulasten</title>
-      <link>https://www.energieforschung.de/de/aktuelles/projekteinblicke/stromnetze-hoeher-auslasten-netzoptimierung-sensorsystem-astrose</link>
-      <description>Um den Netzbetrieb zu optimieren, entwickelte ein Forschungsteam mithilfe von Sensoren eine Überwachungsmethode, die nun industriell angewendet wird.</description>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/projekteinblicke/stromnetze-hoeher-auslasten-netzoptimierung-sensorsystem-astrose</guid>
     </item>
   </channel>
 </rss>
