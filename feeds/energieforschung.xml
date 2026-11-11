@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Tue, 10 Nov 2026 04:05:18 </lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 04:05:30 </lastBuildDate>
+    <item>
+      <title>Große Wärmespeicher: Auf die richtige Einbindung ins Wärmenetz kommt es an</title>
+      <link>https://www.energieforschung.de/de/aktuelles/projekteinblicke/urban-arena-study-tours-waermespeicher-in-der-praxis</link>
+      <description>Forschungsteams und Wärmeversorger besuchten Wärmespeicher in der Praxis bei zwei sogenannten Study Tours im Rahmen von URBAN ARENA.</description>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/projekteinblicke/urban-arena-study-tours-waermespeicher-in-der-praxis</guid>
+    </item>
     <item>
       <title>Ihre Meinung zählt: Newsletter „Energieforschung aktuell“ mitgestalten</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/newsletter-energieforschung-aktuell-umfrage-meinung-mitgestaltung</link>
@@ -67,13 +74,6 @@
       <description>Der Report „Trends in PV Applications 2026“ bestätigt für 2025 einen weiteren Ausbau-Rekord hinsichtlich global installierter Photovoltaikleistung.</description>
       <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/rekordausbau-fast-drei-terawatt-photovoltaik-leistung-weltweit-2025-iea-pvps-trends-report</guid>
-    </item>
-    <item>
-      <title>Renommierte Auszeichnung für Energiepark Bad Lauchstädt</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/reallabor-energiepark-bad-lauchstaedt</link>
-      <description>Der Energiepark Bad Lauchstädt ist mit dem zweiten Preis des IEA Hydrogen TCP Award 2026 ausgezeichnet worden.</description>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/reallabor-energiepark-bad-lauchstaedt</guid>
     </item>
   </channel>
 </rss>
