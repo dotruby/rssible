@@ -4,7 +4,28 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Fri, 13 Nov 2026 04:05:23 </lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 04:05:03 </lastBuildDate>
+    <item>
+      <title>„Je komplexer ein System, desto größer das Einsparpotenzial durch KI“</title>
+      <link>https://www.energieforschung.de/de/aktuelles/interviews/steuerung-kaelteversorgungsanlagen-industrie-einsparpotenzial-ki-start-up-etalytics</link>
+      <description>Im Interview erzählt Dr.-Ing. Heiko Ranzau über die Entwicklung eines KI-Agenten, mit dem sich industrielle Kälteversorgungsanlagen steuern lassen.</description>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/interviews/steuerung-kaelteversorgungsanlagen-industrie-einsparpotenzial-ki-start-up-etalytics</guid>
+    </item>
+    <item>
+      <title>Erster grüner Wasserstoff aus dem Energiepark Bad Lauchstädt</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/reallabor-energiepark-bad-lauchstaedt</link>
+      <description>Im Energiepark Bad Lauchstädt hat die Wasserstofferzeugung begonnen. Die Elektrolyseanlage hat erstmals grünen Wasserstoff geliefert.</description>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/reallabor-energiepark-bad-lauchstaedt</guid>
+    </item>
+    <item>
+      <title>Industrietaugliches Brennersystem gewinnt Innovationspreis Neue Gase 2026</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/industrietaugliches-brennersystem-innovationspreis-neue-gase</link>
+      <description>Das Forschungsprojekt BrEEga hat am 9. November in Berlin den Innovationspreis 2026 in der Kategorie Anwendungstechnologien erhalten.</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/industrietaugliches-brennersystem-innovationspreis-neue-gase</guid>
+    </item>
     <item>
       <title>Große Wärmespeicher: Auf die richtige Einbindung ins Wärmenetz kommt es an</title>
       <link>https://www.energieforschung.de/de/aktuelles/projekteinblicke/urban-arena-study-tours-waermespeicher-in-der-praxis</link>
@@ -53,27 +74,6 @@
       <description>Forschende erproben, wie Glasprodukte mit weniger Energie und CO₂ entstehen können – vom Spritzguss über die Prozesssteuerung bis zur Versuchsfabrik.</description>
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/projekteinblicke/forschungsprojekte-klimafreundlichere-glasherstellung</guid>
-    </item>
-    <item>
-      <title>Erfolgreiche Ausbauzahlen: Knapp 6 Gigawatt neu installierte Windenergieleistung in 2025</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/erfolgreiche-ausbauzahlen-knapp-sechs-gigawatt-windenergieleistung-2025</link>
-      <description>Rückblickend auf das Jahr 2025 stellt der „IEA Wind TCP Annual Report 2025“ für die Windenergie in Deutschland deutliche Erfolge dar.</description>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/erfolgreiche-ausbauzahlen-knapp-sechs-gigawatt-windenergieleistung-2025</guid>
-    </item>
-    <item>
-      <title>Neuer Förderaufruf für die Forschung zu Großwärmepumpen und thermischen Speichern für die Industrie</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/neuer-foerderaufruf-transferprojekt-forschung-grosswaermepumpen-thermische-speicher-industrie</link>
-      <description>Das BMWE hat den Förderaufruf „Transferprojekt für die Forschung zu Großwärmepumpen und thermischen Speichern für die Industrie“ veröffentlicht.</description>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/neuer-foerderaufruf-transferprojekt-forschung-grosswaermepumpen-thermische-speicher-industrie</guid>
-    </item>
-    <item>
-      <title>Rekordausbau: Fast 3 Terawatt weltweit installierte Photovoltaikleistung im Jahr 2025</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/rekordausbau-fast-drei-terawatt-photovoltaik-leistung-weltweit-2025-iea-pvps-trends-report</link>
-      <description>Der Report „Trends in PV Applications 2026“ bestätigt für 2025 einen weiteren Ausbau-Rekord hinsichtlich global installierter Photovoltaikleistung.</description>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/rekordausbau-fast-drei-terawatt-photovoltaik-leistung-weltweit-2025-iea-pvps-trends-report</guid>
     </item>
   </channel>
 </rss>
