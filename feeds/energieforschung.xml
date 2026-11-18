@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Tue, 17 Nov 2026 04:05:20 </lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 04:05:28 </lastBuildDate>
+    <item>
+      <title>Energiedatenökosystem schafft den Sprung in den Praxisbetrieb</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/energiedatenoekosystem-praxisbetrieb</link>
+      <description>Im Projekt energy data-X haben verschiedene Marktakteure ein Datenökosystem für die Energiewirtschaft entwickelt.</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/energiedatenoekosystem-praxisbetrieb</guid>
+    </item>
     <item>
       <title>„Je komplexer ein System, desto größer das Einsparpotenzial durch KI“</title>
       <link>https://www.energieforschung.de/de/aktuelles/interviews/steuerung-kaelteversorgungsanlagen-industrie-einsparpotenzial-ki-start-up-etalytics</link>
@@ -67,13 +74,6 @@
       <description>Das BMWE fördert neue Testinfrastrukturen für Wärme- und Kältetechnologien. Projektskizzen können bis zum 13. Dezember 2026 eingereicht werden.</description>
       <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/bmwe-foerderung-testinfrastrukturen-waerme-und-kaeltetechnologien</guid>
-    </item>
-    <item>
-      <title>Forschungsprojekte untersuchen Wege für eine klimafreundlichere Glasherstellung</title>
-      <link>https://www.energieforschung.de/de/aktuelles/projekteinblicke/forschungsprojekte-klimafreundlichere-glasherstellung</link>
-      <description>Forschende erproben, wie Glasprodukte mit weniger Energie und CO₂ entstehen können – vom Spritzguss über die Prozesssteuerung bis zur Versuchsfabrik.</description>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/projekteinblicke/forschungsprojekte-klimafreundlichere-glasherstellung</guid>
     </item>
   </channel>
 </rss>
