@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Wed, 18 Nov 2026 04:05:28 </lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 04:05:18 </lastBuildDate>
+    <item>
+      <title>Forschende untersuchen geothermisches Potenzial in Berlin und Parchim</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/geothermie-potenzial-berlin-parchim-explorationsinitiative-geo4berlin-decarbpch</link>
+      <description>Die Explorationsinitiative Geothermie fördert Projekte für einen beschleunigten Ausbau der Tiefengeothermie. Zwei Vorhaben sind kürzlich gestartet.</description>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/geothermie-potenzial-berlin-parchim-explorationsinitiative-geo4berlin-decarbpch</guid>
+    </item>
     <item>
       <title>Energiedatenökosystem schafft den Sprung in den Praxisbetrieb</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/energiedatenoekosystem-praxisbetrieb</link>
@@ -67,13 +74,6 @@
       <description>Das Projekt SUPER-H2 entwickelt Fertigungsverfahren für Elektrolyseure, mit denen Wasserstoff in der Herstellung unter Druck erzeugt werden kann.</description>
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/entwicklung-neue-elektrolyseur-generation-wasserstoff</guid>
-    </item>
-    <item>
-      <title>BMWE fördert Testinfrastrukturen für Wärme- und Kältetechnologien</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/bmwe-foerderung-testinfrastrukturen-waerme-und-kaeltetechnologien</link>
-      <description>Das BMWE fördert neue Testinfrastrukturen für Wärme- und Kältetechnologien. Projektskizzen können bis zum 13. Dezember 2026 eingereicht werden.</description>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/bmwe-foerderung-testinfrastrukturen-waerme-und-kaeltetechnologien</guid>
     </item>
   </channel>
 </rss>
