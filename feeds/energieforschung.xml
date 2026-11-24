@@ -4,7 +4,21 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Mon, 23 Nov 2026 04:05:34 </lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 04:05:38 </lastBuildDate>
+    <item>
+      <title>BMWE fördert innovative Technologien für klimaneutrale Prozesswärme</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/bmwe-foerdert-innovative-technologien-klimaneutrale-prozesswaerme</link>
+      <description>Der vom BMWE unterstützte Förderaufruf Demonstrationsvorhaben für eine klimaneutrale industrielle Prozesswärme ist jetzt veröffentlicht.</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/bmwe-foerdert-innovative-technologien-klimaneutrale-prozesswaerme</guid>
+    </item>
+    <item>
+      <title>Ammoniak und Wasserstoff: Forschende entwickeln Retrofitkonzepte für Motorenkraftwerke</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/retrofitkonzepte-motorenkraftwerke-ammoniak-wasserstoff-hydromonia</link>
+      <description>Das HydroMonia-Projektteam untersucht, wie sich große Gasmotoren mit möglichst geringem Aufwand auf diese Brennstoffe umrüsten lassen.</description>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/retrofitkonzepte-motorenkraftwerke-ammoniak-wasserstoff-hydromonia</guid>
+    </item>
     <item>
       <title>Forschende untersuchen geothermisches Potenzial in Berlin und Parchim</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/geothermie-potenzial-berlin-parchim-explorationsinitiative-geo4berlin-decarbpch</link>
@@ -60,20 +74,6 @@
       <description>Der Forschungswindpark WiValdi des DLR ist um eine dritte Windenergieanlage reicher. Besonders an der 50 Meter hohen OPUS 3 ist ihr modularer Aufbau.</description>
       <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/opus-3-modulare-windenergieanlage-inbetriebnahme-wivaldi</guid>
-    </item>
-    <item>
-      <title>Erster Partnerdialog mit Wasserstoffinfrastruktur im Fokus</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/partnerdialog-wasserstoffinfrastruktur-technologie-roadmap-wasserstoff</link>
-      <description>Beim ersten Partnerdialog zur Technologie-Roadmap Wasserstoff diskutierten Fachleute über Forschungsbedarfe beim Ausbau der Wasserstoffinfrastruktur.</description>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/partnerdialog-wasserstoffinfrastruktur-technologie-roadmap-wasserstoff</guid>
-    </item>
-    <item>
-      <title>Wasserstoff unter Druck: Fachleute entwickeln neue Elektrolyseur-Generation</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/entwicklung-neue-elektrolyseur-generation-wasserstoff</link>
-      <description>Das Projekt SUPER-H2 entwickelt Fertigungsverfahren für Elektrolyseure, mit denen Wasserstoff in der Herstellung unter Druck erzeugt werden kann.</description>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/entwicklung-neue-elektrolyseur-generation-wasserstoff</guid>
     </item>
   </channel>
 </rss>
