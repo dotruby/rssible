@@ -4,7 +4,14 @@
     <title>RSS Feed - energieforschung</title>
     <description>Automatically generated RSS feed from energieforschung spider</description>
     <language>de</language>
-    <lastBuildDate>Thu, 26 Nov 2026 04:05:25 </lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 04:05:23 </lastBuildDate>
+    <item>
+      <title>Industrielle Prozesswärme: Vom Labor in den Betrieb</title>
+      <link>https://www.energieforschung.de/de/aktuelles/news/industrielle-prozesswaerme-forschungsnetzwerk</link>
+      <description>Forschungsnetzwerk Industrie und Gewerbe: Wie innovative Technologien schneller in die Praxis gelangen, diskutierten Fachleute in einem Workshop.</description>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.energieforschung.de/de/aktuelles/news/industrielle-prozesswaerme-forschungsnetzwerk</guid>
+    </item>
     <item>
       <title>Sechs Projekte starten Entwicklung digitaler Werkzeuge für Verteilnetze</title>
       <link>https://www.energieforschung.de/de/aktuelles/news/sechs-projekte-starten-entwicklung-digitaler-werkzeuge-verteilnetze</link>
@@ -25,13 +32,6 @@
       <description>Der vom BMWE unterstützte Förderaufruf Demonstrationsvorhaben für eine klimaneutrale industrielle Prozesswärme ist jetzt veröffentlicht.</description>
       <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
       <guid>https://www.energieforschung.de/de/aktuelles/news/bmwe-foerdert-innovative-technologien-klimaneutrale-prozesswaerme</guid>
-    </item>
-    <item>
-      <title>Fokus auf Stromnetze und Abwärme: Neue Fördermöglichkeit für „Reallabore der Energiewende“</title>
-      <link>https://www.energieforschung.de/de/aktuelles/news/fokus-stromnetze-abwaerme-neue-foerdermoeglichkeit-reallabore-der-energiewende</link>
-      <description>Das BMWE hat eine Konkretisierung der Grundlinien zum Förderkonzept „Reallabore der Energiewende“ veröffentlicht.</description>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.energieforschung.de/de/aktuelles/news/fokus-stromnetze-abwaerme-neue-foerdermoeglichkeit-reallabore-der-energiewende</guid>
     </item>
     <item>
       <title>Forschende untersuchen geothermisches Potenzial in Berlin und Parchim</title>
